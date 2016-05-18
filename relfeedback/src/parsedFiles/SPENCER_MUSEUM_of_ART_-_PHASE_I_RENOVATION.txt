@@ -1,0 +1,330 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+strong, b, bold, h1, h2, h3, h4, h5, h6{
+font-family: "Relative Bold" !important;
+}
+                    We are closed for big changes.
+      &nbsp;
+  /* BG's */
+  html body, html, #block, #partial-block, #cover {
+    background: ;
+  }
+  #toggle-menu {
+    background: #eeeeee;
+  }
+  #header {
+    background: #eeeeee;
+  }
+  /* Text & links */
+  html, html body {
+    color: ;
+  }
+  a {
+    color: #777777;
+  }
+  a:hover {
+    color: ;
+  }
+  .current-menu-item a, a.marked, .current-cat a {
+    color: ;
+  }
+  ul.sub-menu a {
+    color: #777777;
+  }
+  ul.sub-menu a:hover {
+    color: ;
+  }
+  ul.sub-menu .current-menu-item a, ul.sub-menu ul.sub-menu a.marked, ul.sub-menu .current-cat a {
+    color: ;
+  }
+  .underline {
+    border-bottom: 1px solid ;
+  }
+  /* Borders */
+  a {
+    border-bottom: 0px solid transparent;
+  }
+  a:hover {
+    border-bottom: 0px solid transparent;
+  }
+  a.underline {
+    border-bottom: 0px solid transparent;
+  }
+  .underline {
+    border-bottom: 0px solid transparent;
+  }
+  .dimmed a, .dimmed a.marked {
+    border-bottom: 0px solid transparent !important;
+  }
+  .dimmed a:hover {
+    border-bottom: 0px solid transparent  !important;
+  }
+  .active a, .active a.marked {
+    border-bottom: 0px solid transparent !important;
+  }
+  .active a:hover {
+    border-bottom: 0px solid transparent !important;
+  }
+  a.marked, a:hover, .current-menu-item a, .current-cat a {
+    color: ;
+    border-bottom: 0px solid transparent; 
+  }
+  ul.sub-menu a {
+    color: #777777;
+    border-bottom: 0px solid transparent;
+  }
+  ul.sub-menu a:hover {
+    color: ;
+  }
+  ul.sub-menu .current-menu-item a, ul.sub-menu .current-cat a {
+    color: ;
+  }
+  ul.sub-menu li ul.sub-menu a {
+    color: #777777;
+  }
+  ul.sub-menu li ul.sub-menu a:hover {
+    color: ;
+  }
+  ul.sub-menu li ul.sub-menu .current-menu-item a, ul.sub-menu li ul.sub-menu .current-cat a {
+    color: ;
+  }
+  ul.sub-menu li ul.sub-menu li ul.sub-menu a {
+    color: #777777;
+  }
+  ul.sub-menu li ul.sub-menu li ul.sub-menu a:hover {
+    color: ;
+  }
+  ul.sub-menu li ul.sub-menu li ul.sub-menu .current-menu-item a, ul.sub-menu li ul.sub-menu li ul.sub-menu .current-cat a {
+    color: ;
+  }
+  ul.sub-menu li ul.sub-menu li ul.sub-menu li ul.sub-menu a {
+    color: #777777;
+  }
+  ul.sub-menu li ul.sub-menu li ul.sub-menu li ul.sub-menu a:hover {
+    color: ;
+  }
+  ul.sub-menu li ul.sub-menu li ul.sub-menu li ul.sub-menu .current-menu-item a, ul.sub-menu li ul.sub-menu li ul.sub-menu li ul.sub-menu .current-cat a {
+    color: ;
+  }
+  /* Media  */
+  /* Loading */
+  .img-holder, .slideshow-holder .slideshow .slide, iframe, .flexslider {
+    background: ;
+  }
+  .slide-spinn {
+    background: ;
+  }
+  /* Grid & Masonry */
+  .img-holder .focus-mode .tt, .img-holder .focus-mode .tr, .img-holder .focus-mode .bb, .img-holder .focus-mode .bl {
+    background: ;
+  }
+  /* Row */  
+  .row-holder .row .row-item .img-holder .figcaption {
+    color: ;
+  }
+  .row-holder .row .row-item .img-holder .figcaption-bg {
+    background: ;
+  }
+  /* Thumbnails */
+  a.thumb .img-holder .figcaption span.underline {
+    color: ;
+          border-bottom: 1px solid transparent;
+      }
+  a.thumb .img-holder .figcaption-bg {
+    background: ;
+  }
+  a.thumb .figcaption.stick span.underline {
+    color: ;
+          border-bottom: 1px solid transparent;
+      }
+  a.thumb.row-thumb .img-holder .figcaption span.underline {
+    color: ;
+          border-bottom: 0px solid transparent;
+      }
+  a.thumb.ready.hover .img-holder .figcaption span.underline, a.thumb.ready.active .img-holder .figcaption span.underline {
+    color: ;
+          border-bottom: 1px solid transparent;
+      }
+  a.thumb.ready.hover .figcaption.stick span.underline, a.thumb.ready.active .figcaption.stick span.underline {
+    color: ;
+          border-bottom: 1px solid transparent;
+      }
+  a.thumb.row-thumb.ready.hover .img-holder .figcaption span.underline {
+    color: ;
+          border-bottom: 0px solid transparent;
+      }
+  a.thumb.row-thumb.ready.active .img-holder .figcaption span.underline {
+    color: ;
+          border-bottom: 0px solid transparent;
+      }
+  #wrap.cover #mainside, #wrap.cover #footer {
+    background: ;
+  }
+  body.desktop a.thumb.ready:hover .img-holder .figcaption span.underline {
+    color: ;
+          border-bottom: 1px solid transparent;
+      }
+  body.desktop a.thumb.ready:hover .figcaption.stick span.underline {
+    color: ;
+          border-bottom: 1px solid transparent;
+      }
+  body.desktop a.thumb.row-thumb.ready .img-holder .figcaption span.underline {
+    color: ;
+          border-bottom: 0px solid transparent;
+      }
+  /* Img link Fix */
+  a.img-holder {
+    border-bottom: 0px !important;
+  }
+  /* Dimmed */
+  .dimmed, .dimmed a {
+    color: ;
+  }
+  /* Active */
+  .active, .active a {
+    color: ;
+  }
+  /* NextPrev Fixed */
+    #nextprev a.prev-fixed {
+    background: ;
+    color: #777777;
+    border-color: #777777;
+  }
+  #nextprev a.next-fixed {
+    background: ;
+    color: #777777;
+    border-color: #777777;
+  }
+  #nextprev a.prev-fixed:hover {
+    background: ;
+    color: ;
+    border-color: ;
+  }
+  #nextprev a.next-fixed:hover {
+    background: ;
+    color: ;
+    border-color: ;
+  }
+    /* Site Borders & Separators */
+  hr {
+    border-color: #050505 !important;
+  }
+  .index-module .index-item .index-separator hr {
+    border-top: 1px solid #050505 !important;
+  }
+  #header hr {
+    border-top: px solid #050505 !important;
+  }
+  #border-left, #border-right {
+    border-left-color: #050505;
+  }
+  /* Menus */
+    #sidebar_menu_holder li a {
+    border-top: 1px solid #050505;
+  }
+  #side.border #sidebar_menu_holder {
+    border-right: 1px solid #050505;
+  }
+  #side.border.right #sidebar_menu_holder {
+    border-right: 0px solid #050505;
+    border-left: 1px solid #050505;
+  }
+  /* Forms */
+  input, textarea, select {
+    border: 6px solid  !important;
+    background:  !important;
+    color:  !important;
+  }
+  input:focus, textarea:focus, select:focus {
+    border: 6px solid  !important;
+  }
+  button, input[type="submit"] {
+    background:  !important;
+    color:  !important;
+    border: 6px solid  !important;
+  }
+  button:hover, input[type="submit"]:hover {
+    background:  !important;
+    color:  !important;
+    border: 6px solid  !important;
+  }
+  ::-webkit-input-placeholder {
+    color: ;
+  }
+  :-moz-placeholder {
+    color: ;
+  }
+  ::-moz-placeholder {
+    color: ;
+  }
+  :-ms-input-placeholder {
+    color: ;
+  }
+  /* Mobile & Tablet */
+    /* Mobile Forms */
+  body.mobile input, body.mobile textarea, body.mobile select {
+    border: px solid  !important;
+  }
+  body.mobile input:focus, body.mobile textarea:focus, body.mobile select:focus {
+    border: px solid  !important;
+  }
+  body.mobile button, body.mobile input[type="submit"] {
+    border: px solid  !important;
+  }
+  body.mobile button:hover, body.mobile input[type="submit"]:hover {
+    border: px solid  !important;
+  }
+    /* Mobile Headers */
+  body.mobile #wrap #header {
+    background: ;
+    border-bottom: px solid #050505 !important;
+  }
+  body.tablet #wrap #header {
+    background: ;
+    border-bottom: px solid #050505 !important;
+  }
+  body.mobile #toggle-menu {
+    background: #eeeeee;
+  }
+  body.tablet #toggle-menu {
+    background: #eeeeee;
+  }
+  body.mobile #toggle-menu #toggle-menu-inner ul li a {
+    border-bottom: 1px solid #050505 !important;
+  }
+  body.tablet #toggle-menu #toggle-menu-inner ul li a {
+    border-bottom: 1px solid #050505 !important;
+  }
+  a.disabled, a.disabled:hover {
+    color: #777777 !important;
+    border-bottom: 1px solid transparent !important;
+  }
+    #nextprev a.prev-fixed.disabled, #nextprev a.prev-fixed.disabled:hover, #nextprev a.next-fixed.disabled, #nextprev a.next-fixed.disabled:hover {
+    color: #777777 !important;
+    background:  !important;
+    border: 1px solid #777777 !important;
+  }
+About the renovation
+Image: Edward Avedisian, Orange & Yellow
+Project images & videos
+Image: Mark Chamberlain,
+Jerry Lee Burchfield
+, Nightlight, Laguna Canyon Project, Phase III
+Project updates
+Image: Ittai Altshuler, Crossing the Desert in a Step
+At Large programs
+            Tweets from Spencer Museum of Art             
+            	University of Kansas1301 Mississippi StreetLawrence, Kansas 66045-7595        
+          785-864-4710spencerart@ku.eduTwitter | Facebook | Youtube        
+ -->
+

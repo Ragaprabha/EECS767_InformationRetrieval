@@ -1,0 +1,282 @@
+      Bike KU | Center for Sustainability
+@import url("http://sustain.ku.edu/modules/system/system.base.css?o67nyx");
+@import url("http://sustain.ku.edu/modules/system/system.menus.css?o67nyx");
+@import url("http://sustain.ku.edu/modules/system/system.messages.css?o67nyx");
+@import url("http://sustain.ku.edu/modules/system/system.theme.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/ku_template_2012_3col/css/base.css?o67nyx");
+@import url("http://sustain.ku.edu/modules/aggregator/aggregator.css?o67nyx");
+@import url("http://sustain.ku.edu/modules/comment/comment.css?o67nyx");
+@import url("http://sustain.ku.edu/profiles/kudrupal/modules/contrib/date/date_api/date.css?o67nyx");
+@import url("http://sustain.ku.edu/profiles/kudrupal/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o67nyx");
+@import url("http://sustain.ku.edu/modules/field/theme/field.css?o67nyx");
+@import url("http://sustain.ku.edu/modules/node/node.css?o67nyx");
+@import url("http://sustain.ku.edu/modules/search/search.css?o67nyx");
+@import url("http://sustain.ku.edu/modules/user/user.css?o67nyx");
+@import url("http://sustain.ku.edu/profiles/kudrupal/modules/contrib/views/css/views.css?o67nyx");
+@import url("http://sustain.ku.edu/profiles/kudrupal/modules/contrib/ckeditor/css/ckeditor.css?o67nyx");
+@import url("http://sustain.ku.edu/profiles/kudrupal/modules/contrib/ctools/css/ctools.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/ku_template_2012_3col/css/leftnav.css?o67nyx");
+@import url("http://sustain.ku.edu/profiles/kudrupal/modules/ku/ku_today/theme/ku-today.css?o67nyx");
+@import url("http://sustain.ku.edu/profiles/kudrupal/modules/ku/ku_static/theme/ku-static.css?o67nyx");
+@import url("http://sustain.ku.edu/profiles/kudrupal/modules/ku/ku_whyku/theme/ku-whyku-3col.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/omega/alpha/css/alpha-reset.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/omega/alpha/css/alpha-mobile.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/omega/alpha/css/alpha-alpha.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/omega/omega/css/formalize.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/omega/omega/css/omega-text.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/omega/omega/css/omega-branding.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/omega/omega/css/omega-menu.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/omega/omega/css/omega-forms.css?o67nyx");
+@import url("http://sustain.ku.edu/sites/all/themes/omega/omega/css/omega-visuals.css?o67nyx");
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                Center for Sustainability
+      Search form
+  Search 
+      Home
+AboutOverview & Mission
+What is Sustainability?
+Sustainability PlanHistory
+Download Full PDF
+Contact
+Reports
+Key InitiativesBikingBiking Home
+Routes to Campus
+Bicycle Parking Map
+Lawrence Rideability Map
+Bicycle Maintenance
+Bicycle Safety
+Theft Prevention
+Recreational Rides
+Bike to Work Week
+Bicycle Advisory Committee
+Bike KU
+More Resources
+KU Fights HungerHunger Awareness Month 
+Awareness Passport
+Hunger Survey
+KU Hunger Summit
+Hunger Inventory
+KU Recycling »
+KU Surplus »
+Leadership Awards2016 Award Recipients
+2015 Award Recipients
+2014 Award Recipients
+2013 Award Recipients
+Award Categories
+Oread Project
+ReplantCampus Tree Advisory Board
+Projects
+Volunteer
+Donate »
+Rock Chalk Recycle
+CampusEnergy >>
+FoodKU Dining Services
+KU Fights Hunger
+GroundsKU Student Rain GardenVolunteer
+Campus Garden Advisory Board
+Litter Butts
+Lot 54
+Potter Lake
+Prairie AcrePrairie Acre Progress
+Join Us!
+Donate
+Replant Mount Oread
+West Campus Bioswale
+ProcurementGreen Office Purchasing
+Sustainable Procurement Guide
+TransportationBiking
+KU on Wheels
+Lawrence Transit
+Faculty & StaffSustainability AmbassadorsCurrent Ambassadors
+Meeting Schedule
+Past Meetings
+Green Office ProgramGreen Office Home 
+Green Office Application
+Green Office Participants
+Faculty Affiliates
+The Oread ProjectParticipation List
+Faculty Resources
+StudentsCertificate
+Credit Courses
+KU StewardsStewards Projects
+Leadership Board
+Organizations
+Volunteer
+EventsCampus Sustainability Week
+Earth Day 2015Kick Butts Clean Up!
+Hunger Awareness
+Replant Mount Oread 
+PeopleStaff
+CommitteesSustainability Council
+Campus Tree Advisory Board
+Bicycle Advisory Committee
+Campus Garden Advisory Board
+Student Environmental Advisory Board
+Affiliates
+Ambassadors
+      MenuHome
+AboutOverview & Mission
+What is Sustainability?
+Sustainability PlanHistory
+Download Full PDF
+Contact
+Reports
+Key InitiativesBikingBiking Home
+Routes to Campus
+Bicycle Parking Map
+Lawrence Rideability Map
+Bicycle Maintenance
+Bicycle Safety
+Theft Prevention
+Recreational Rides
+Bike to Work Week
+Bicycle Advisory Committee
+Bike KU
+More Resources
+KU Fights HungerHunger Awareness Month 
+Awareness Passport
+Hunger Survey
+KU Hunger Summit
+Hunger Inventory
+KU Recycling »
+KU Surplus »
+Leadership Awards2016 Award Recipients
+2015 Award Recipients
+2014 Award Recipients
+2013 Award Recipients
+Award Categories
+Oread Project
+ReplantCampus Tree Advisory Board
+Projects
+Volunteer
+Donate »
+Rock Chalk Recycle
+CampusEnergy >>
+FoodKU Dining Services
+KU Fights Hunger
+GroundsKU Student Rain GardenVolunteer
+Campus Garden Advisory Board
+Litter Butts
+Lot 54
+Potter Lake
+Prairie AcrePrairie Acre Progress
+Join Us!
+Donate
+Replant Mount Oread
+West Campus Bioswale
+ProcurementGreen Office Purchasing
+Sustainable Procurement Guide
+TransportationBiking
+KU on Wheels
+Lawrence Transit
+Faculty & StaffSustainability AmbassadorsCurrent Ambassadors
+Meeting Schedule
+Past Meetings
+Green Office ProgramGreen Office Home 
+Green Office Application
+Green Office Participants
+Faculty Affiliates
+The Oread ProjectParticipation List
+Faculty Resources
+StudentsCertificate
+Credit Courses
+KU StewardsStewards Projects
+Leadership Board
+Organizations
+Volunteer
+EventsCampus Sustainability Week
+Earth Day 2015Kick Butts Clean Up!
+Hunger Awareness
+Replant Mount Oread 
+PeopleStaff
+CommitteesSustainability Council
+Campus Tree Advisory Board
+Bicycle Advisory Committee
+Campus Garden Advisory Board
+Student Environmental Advisory Board
+Affiliates
+Ambassadors
+Search
+      Search form
+  Search 
+            HomeKey InitiativesBiking  
+Biking Home
+Routes to Campus
+Bicycle Parking Map
+Lawrence Rideability Map
+Bicycle Maintenance
+Bicycle Safety
+Theft Prevention
+Recreational Rides
+Bike to Work Week
+Bicycle Advisory Committee
+Bike KU
+More Resources&nbsp;    
+Commuting by bicycle is a great way to get around campus and the Lawrence community. By riding your bike you will live a healthier lifestyle, reduce your environmental impact, and save on transportation costs. But more than that, you'll have a lot of fun doing it!
+This site was created to help you make the most of your cycling experience, so please check out the tabs on the left to learn more about biking on KU's campus and in the the Lawrence community.
+      Certificate in Sustainability
+      Prairie Acre Restoration Project
+      M2SEC Solar Panels
+    KU Today
+        Give to KU &raquo;
+              Campus Cycling News
+      Bamboo Bikes!
+KU Design Professor and Students built bamboo bikes last summer in collaboration with the Semester Bicycle Project.
+Bike Stand 
+The Student Recreation Fitness Center has an all inclusive bike reapair stand for student, faculty, and staff use! It is located by the outdoor basketball courts on the south side of the building.
+BFU Feedback Report (pdf)
+Click the link above to view the League of American Bicyclists recommendations to make KU a more bike-friendly place.
+Bikes on Buses 
+Lawrence Transit has bike racks on the front of busses for routes 1-11!
+              Bike Rental Program
+      The Outdoor Pursuits program at the Student Recreation Fitness Center offers a Bike Rental program. There are 12  bikes ready to rent: 8 mountain bikes and 4 comfort bikes. There are daily, weekend, and weekly rates available.
+Comfort Bike Model: Giant Sedona DX
+Mountain Bike Model: Giant Revel 1
+Contact Outdoor Pursuits at outdoorpursuits@ku.edu or (785) 864-1843 for additional questions and/or inquires or check out the FAQ document.
+            Why KU
+                                    Apply &raquo;
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+                                            44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report
+                                            Top 50 nationwide for size of library collection.
+&mdash;ALA
+                                            23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times
+      Contact Center for Sustainability
+                    sustainability@ku.edu
+                            785-864-5398
+        1503 Sunflower Rd.
+Lawrence, KS 66045    
+         
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

@@ -1,0 +1,842 @@
+      Apply &amp; Audition | School of Music
+@import url("http://music.ku.edu/modules/system/system.base.css?o67lg2");
+@import url("http://music.ku.edu/modules/system/system.menus.css?o67lg2");
+@import url("http://music.ku.edu/modules/system/system.messages.css?o67lg2");
+@import url("http://music.ku.edu/modules/system/system.theme.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/ku_template_2012_3col/css/base.css?o67lg2");
+@import url("http://music.ku.edu/modules/aggregator/aggregator.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/contrib/calendar/css/calendar_multiday.css?o67lg2");
+@import url("http://music.ku.edu/modules/comment/comment.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/contrib/date/date_api/date.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o67lg2");
+@import url("http://music.ku.edu/modules/field/theme/field.css?o67lg2");
+@import url("http://music.ku.edu/modules/node/node.css?o67lg2");
+@import url("http://music.ku.edu/modules/search/search.css?o67lg2");
+@import url("http://music.ku.edu/modules/user/user.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/contrib/views/css/views.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/contrib/ckeditor/css/ckeditor.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/contrib/ctools/css/ctools.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/contrib/merci/merci.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/ku/ku_whyku/theme/ku-whyku-3col.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/ku/ku_static/theme/ku-static.css?o67lg2");
+@import url("http://music.ku.edu/profiles/kudrupal/modules/ku/ku_today/theme/ku-today.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/omega/alpha/css/alpha-reset.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/omega/alpha/css/alpha-mobile.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/omega/alpha/css/alpha-alpha.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/omega/omega/css/formalize.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/omega/omega/css/omega-text.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/omega/omega/css/omega-branding.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/omega/omega/css/omega-menu.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/omega/omega/css/omega-forms.css?o67lg2");
+@import url("http://music.ku.edu/sites/all/themes/omega/omega/css/omega-visuals.css?o67lg2");
+Search class sections | Online courses
+            Search all KU
+            People Search
+        Degree Search
+Browse by school    
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                School of Music
+      Search form
+  Search 
+      Home
+AboutAbout
+At A Glance
+Degree Offerings
+Music Research Institute
+Parents
+From the Dean
+Overview
+Vocology Lab
+Contact
+Defining Statements
+Facilities
+39th Annual KU Jazz Festival
+About the Festival
+Participant Information
+Schedule of Events
+Special Guests
+Festival Registration
+Contact
+Marching & Pep Bands
+General Information/FAQ
+Schedule
+How to Join
+Drumline
+Colorguard & Twirler
+Sights and Sounds
+Directors and Staff
+Pep Bands
+History
+Members only
+HOA Marching Festival
+Band Day
+Alumni Band
+Support The Band
+Links
+Overview
+Jayhawk Junior Musicians
+Middle School Music Camp
+High School Music Camp
+Jazz Workshop
+Parent Handbooks - 2015
+Contact
+Register for MMC 2016
+Venues
+NewsQuickNotes
+In the News
+E-Newsletter Archive
+Subscribe to QuickNotes
+EventsAnnual EventsCollage Concert
+Halloween Concert
+Kansas Virtuosi Series
+Event Archive
+Lied Center Discount Ticket Package
+Contact
+AcademicsAreas of Study
+DegreesUndergraduate Degree ProgramsB.A.Overview
+Apply & Audition
+Degree Requirements
+B.F.A.Overview
+Apply & Audition
+Degree Requirements
+B.M.Overview
+Apply & Audition
+Degree Requirements
+B.M.E.Overview
+Apply & Audition
+Degree Requirements
+MinorOverview
+Graduate Degree ProgramsM.M.Overview
+Apply & Audition
+Degree Requirements
+M.M.E.Overview
+Apply & Audition
+Degree Requirements
+D.M.A.Overview
+Apply & Audition
+Degree Requirements
+Ph.D.Overview
+Apply & Audition
+Degree Requirements
+Overview
+History
+Graduate Wind Conducting
+Faculty
+Ensemble Placement Auditions - Winds, Brass & Percussion
+How to Join
+Wind Ensemble2015-2016 Concert Season
+Journey to Carnegie&raquo
+Marching & Pep Bands
+Symphonic Band
+University Band
+Jazz Ensembles»
+KU Fight Songs
+KU Recordings
+Prairie Winds Festival
+Midwestern Music Camp
+Midwestern Conductors Workshop
+James Barnes Band Scholarships
+Alumni Band
+Contact
+Overview
+Degrees
+Faculty
+Tuba-Euphonium Studio
+Trombone Studio
+Horn Studio
+Trumpet Studio
+Percussion Studio
+Kansas Brass Quintet
+Contact
+Overview
+Graduate Choral Conducting
+Faculty
+Choirs
+Choir Placements
+Links 
+Features
+Contact
+Students &raquo
+Staff &raquo
+Overview
+Graduate Choral Conducting
+Graduate Orchestral Conducting
+Graduate Wind Conducting
+Overview
+Degrees
+Faculty
+Ensemble Auditions
+KU Jazz Festival
+Jazz Workshop
+Jazz Archive&raquo
+Contact
+KU Jazz Ensemble I - July 3
+Overview
+Degrees
+Faculty
+Why MEMT?
+Experience Music Education
+Experience Music Therapy
+Distance ClassesFall 2015
+Fall 2016
+Fall 2017
+Documents & Forms
+Summer ME-MME Program
+FAQ
+Links
+Giving
+Contact
+Choral & Vocal Pedagogy Concentrations
+Overview
+Degrees
+Faculty
+MTHC Professional Sequence
+Anthony B. Cius, Jr. Award
+Contact
+Graduate Music Theory Diagnostic Exam PracticeBasic Tonal Harmony
+20th Century Techniques
+Form Analysis
+Aural Skills
+Counterpoint
+Overview
+Degrees
+Faculty
+Musicology Scholarship
+Steinhardt Lectures Series
+Contact
+Overview
+Graduate Orchestral Conducting
+Faculty
+How to Join
+Performance Multimedia
+Eutin, Germany
+Contact
+Sunflower Strings Festival
+Overview
+Degrees
+Faculty
+Bales Recital Hall
+Facilities & Organs
+Dane & Polly Bales
+The Organ: Wolff, opus 40
+Stained Glass Windows
+European Organ Study ToursTour VI 2014
+Tour V 2012
+Tour IV 2009
+Tour III 2007
+Tour II 2005
+Tour I 2002
+Clarion Newsletter
+Recital Hall Scheduling
+Join our Mailing List
+Related Links
+Contact
+Carillon
+Carillonneurs
+Photo Gallery
+Carillon Recitals
+Contact
+Overview
+Degrees
+Faculty
+Community Music School
+Pianos Without Borders
+Contact
+Overview
+Degrees
+Faculty
+Contact
+Sunflower Strings Festival
+Overview
+Degrees
+Faculty
+Eutin, Germany
+Lyric Opera of KS Apprenticeship Program
+Contact
+Latest News
+Overview
+DegreesGraduate Degree Programs TestD.M.A.
+M.M.
+M.M.E.
+Ph.D.
+Faculty
+KU Oboe Day
+Contact
+Courses
+Recital Scheduling
+Policies&raquo
+AdmissionApply & Audition
+Placement Exams
+Visit
+Aid & Scholarships
+PeopleFaculty
+Purnaprajna Bangere
+Dylan Bassett
+Michael Bauer
+Martin Bergee
+Julia Broxholm
+Joyce Castle
+Cynthia Colwell
+Michael Compitello
+Maria Crosby
+Jacob M. Dakon
+James F. Daugherty
+Michael Davidson
+Brandon Draper
+Abbey Dvorak
+Elizabeth Egbert Berghout
+Danny Embrey
+Dina Pannabecker Evans
+Mariana Farah
+Mark Ferrell
+Sarah Frisof
+Dan Gailey
+Mark Gibbs
+Vince Gnojek
+Bryan Haaheim
+Deanna Hanson-Abromeit
+Jeff Harshbarger
+Debra Hedden
+James Higdon
+Christopher Johnson
+Maria Kanyova
+Michael Kirkendoll
+Philip Kramp
+Paul Laird
+Steve Leisring
+Margaret Marco
+Véronique Mathieu
+Genaro Mendez
+Scott Murphy
+David Neely
+Brad Osborn
+Matt Otto
+Forrest Pierce
+Paul W. Popiel
+Colin Roust
+Richard Ryan
+Roberta Freund Schwartz
+Matthew O. Smith
+Scott McBride Smith
+Ellen Sommer
+Steven Spooner
+John Stephens
+Paul Stevens
+Eric Stomberg
+Ingrid Stölzel
+David Alan Street
+Sharon Toulouse
+Paul Tucker
+Kevin Vogt
+Scott Watson
+Jack Winerock
+Ketty Wong-Cruz
+Erin Wood
+Stephanie Zelnick
+Robert Walzel
+AdministrationRobert Walzel
+Dina Pannabecker Evans
+Martin Bergee
+Paul Stevens
+Eric Stomberg
+Staff
+Emma Casey
+Janet Diehl Corwin
+Lois Elmer
+Jane Gnojek
+Todd Kitchen
+Brock Babcock
+Laura McCorkill
+Leslie O'Neil
+Rita Riley
+Lisa Shaw
+Kylie Smith
+Meghan Spreer
+Emeritus Faculty
+James Barnes
+Robert Foster
+Edward Laut
+ResourcesStudentsOverview
+Bachelor of Arts (B.A.) Degree Requirements
+Bachelor of Fine Arts (B.F.A.) Degree Requirements
+Bachelor of Music (B.M.) Degree Requirements
+Bachelor of Music Education (B.M.E.) Degree Requirements
+Master of Music (M.M.) Degree Requirements
+Master of Music Education (M.M.E.) Degree Requirements
+Doctor of Musical Arts (D.M.A.) Degree Requirements
+Doctor of Philosophy (Ph.D.) in Music Degree Requirements
+Doctor of Philosophy (Ph.D.) in Music Education Degree Requirements
+Musicians Health
+KU Music Clubs & Groups
+For Faculty and Staff
+Alumni & FriendsOverview
+Newsletter
+Keep In Touch
+Giving
+Friends of the School of Music
+Post-Graduation Survey
+Give&raquo
+      MenuHome
+AboutAbout
+At A Glance
+Degree Offerings
+Music Research Institute
+Parents
+From the Dean
+Overview
+Vocology Lab
+Contact
+Defining Statements
+Facilities
+39th Annual KU Jazz Festival
+About the Festival
+Participant Information
+Schedule of Events
+Special Guests
+Festival Registration
+Contact
+Marching & Pep Bands
+General Information/FAQ
+Schedule
+How to Join
+Drumline
+Colorguard & Twirler
+Sights and Sounds
+Directors and Staff
+Pep Bands
+History
+Members only
+HOA Marching Festival
+Band Day
+Alumni Band
+Support The Band
+Links
+Overview
+Jayhawk Junior Musicians
+Middle School Music Camp
+High School Music Camp
+Jazz Workshop
+Parent Handbooks - 2015
+Contact
+Register for MMC 2016
+Venues
+NewsQuickNotes
+In the News
+E-Newsletter Archive
+Subscribe to QuickNotes
+EventsAnnual EventsCollage Concert
+Halloween Concert
+Kansas Virtuosi Series
+Event Archive
+Lied Center Discount Ticket Package
+Contact
+AcademicsAreas of Study
+DegreesUndergraduate Degree ProgramsB.A.Overview
+Apply & Audition
+Degree Requirements
+B.F.A.Overview
+Apply & Audition
+Degree Requirements
+B.M.Overview
+Apply & Audition
+Degree Requirements
+B.M.E.Overview
+Apply & Audition
+Degree Requirements
+MinorOverview
+Graduate Degree ProgramsM.M.Overview
+Apply & Audition
+Degree Requirements
+M.M.E.Overview
+Apply & Audition
+Degree Requirements
+D.M.A.Overview
+Apply & Audition
+Degree Requirements
+Ph.D.Overview
+Apply & Audition
+Degree Requirements
+Overview
+History
+Graduate Wind Conducting
+Faculty
+Ensemble Placement Auditions - Winds, Brass & Percussion
+How to Join
+Wind Ensemble2015-2016 Concert Season
+Journey to Carnegie&raquo
+Marching & Pep Bands
+Symphonic Band
+University Band
+Jazz Ensembles»
+KU Fight Songs
+KU Recordings
+Prairie Winds Festival
+Midwestern Music Camp
+Midwestern Conductors Workshop
+James Barnes Band Scholarships
+Alumni Band
+Contact
+Overview
+Degrees
+Faculty
+Tuba-Euphonium Studio
+Trombone Studio
+Horn Studio
+Trumpet Studio
+Percussion Studio
+Kansas Brass Quintet
+Contact
+Overview
+Graduate Choral Conducting
+Faculty
+Choirs
+Choir Placements
+Links 
+Features
+Contact
+Students &raquo
+Staff &raquo
+Overview
+Graduate Choral Conducting
+Graduate Orchestral Conducting
+Graduate Wind Conducting
+Overview
+Degrees
+Faculty
+Ensemble Auditions
+KU Jazz Festival
+Jazz Workshop
+Jazz Archive&raquo
+Contact
+KU Jazz Ensemble I - July 3
+Overview
+Degrees
+Faculty
+Why MEMT?
+Experience Music Education
+Experience Music Therapy
+Distance ClassesFall 2015
+Fall 2016
+Fall 2017
+Documents & Forms
+Summer ME-MME Program
+FAQ
+Links
+Giving
+Contact
+Choral & Vocal Pedagogy Concentrations
+Overview
+Degrees
+Faculty
+MTHC Professional Sequence
+Anthony B. Cius, Jr. Award
+Contact
+Graduate Music Theory Diagnostic Exam PracticeBasic Tonal Harmony
+20th Century Techniques
+Form Analysis
+Aural Skills
+Counterpoint
+Overview
+Degrees
+Faculty
+Musicology Scholarship
+Steinhardt Lectures Series
+Contact
+Overview
+Graduate Orchestral Conducting
+Faculty
+How to Join
+Performance Multimedia
+Eutin, Germany
+Contact
+Sunflower Strings Festival
+Overview
+Degrees
+Faculty
+Bales Recital Hall
+Facilities & Organs
+Dane & Polly Bales
+The Organ: Wolff, opus 40
+Stained Glass Windows
+European Organ Study ToursTour VI 2014
+Tour V 2012
+Tour IV 2009
+Tour III 2007
+Tour II 2005
+Tour I 2002
+Clarion Newsletter
+Recital Hall Scheduling
+Join our Mailing List
+Related Links
+Contact
+Carillon
+Carillonneurs
+Photo Gallery
+Carillon Recitals
+Contact
+Overview
+Degrees
+Faculty
+Community Music School
+Pianos Without Borders
+Contact
+Overview
+Degrees
+Faculty
+Contact
+Sunflower Strings Festival
+Overview
+Degrees
+Faculty
+Eutin, Germany
+Lyric Opera of KS Apprenticeship Program
+Contact
+Latest News
+Overview
+DegreesGraduate Degree Programs TestD.M.A.
+M.M.
+M.M.E.
+Ph.D.
+Faculty
+KU Oboe Day
+Contact
+Courses
+Recital Scheduling
+Policies&raquo
+AdmissionApply & Audition
+Placement Exams
+Visit
+Aid & Scholarships
+PeopleFaculty
+Purnaprajna Bangere
+Dylan Bassett
+Michael Bauer
+Martin Bergee
+Julia Broxholm
+Joyce Castle
+Cynthia Colwell
+Michael Compitello
+Maria Crosby
+Jacob M. Dakon
+James F. Daugherty
+Michael Davidson
+Brandon Draper
+Abbey Dvorak
+Elizabeth Egbert Berghout
+Danny Embrey
+Dina Pannabecker Evans
+Mariana Farah
+Mark Ferrell
+Sarah Frisof
+Dan Gailey
+Mark Gibbs
+Vince Gnojek
+Bryan Haaheim
+Deanna Hanson-Abromeit
+Jeff Harshbarger
+Debra Hedden
+James Higdon
+Christopher Johnson
+Maria Kanyova
+Michael Kirkendoll
+Philip Kramp
+Paul Laird
+Steve Leisring
+Margaret Marco
+Véronique Mathieu
+Genaro Mendez
+Scott Murphy
+David Neely
+Brad Osborn
+Matt Otto
+Forrest Pierce
+Paul W. Popiel
+Colin Roust
+Richard Ryan
+Roberta Freund Schwartz
+Matthew O. Smith
+Scott McBride Smith
+Ellen Sommer
+Steven Spooner
+John Stephens
+Paul Stevens
+Eric Stomberg
+Ingrid Stölzel
+David Alan Street
+Sharon Toulouse
+Paul Tucker
+Kevin Vogt
+Scott Watson
+Jack Winerock
+Ketty Wong-Cruz
+Erin Wood
+Stephanie Zelnick
+Robert Walzel
+AdministrationRobert Walzel
+Dina Pannabecker Evans
+Martin Bergee
+Paul Stevens
+Eric Stomberg
+Staff
+Emma Casey
+Janet Diehl Corwin
+Lois Elmer
+Jane Gnojek
+Todd Kitchen
+Brock Babcock
+Laura McCorkill
+Leslie O'Neil
+Rita Riley
+Lisa Shaw
+Kylie Smith
+Meghan Spreer
+Emeritus Faculty
+James Barnes
+Robert Foster
+Edward Laut
+ResourcesStudentsOverview
+Bachelor of Arts (B.A.) Degree Requirements
+Bachelor of Fine Arts (B.F.A.) Degree Requirements
+Bachelor of Music (B.M.) Degree Requirements
+Bachelor of Music Education (B.M.E.) Degree Requirements
+Master of Music (M.M.) Degree Requirements
+Master of Music Education (M.M.E.) Degree Requirements
+Doctor of Musical Arts (D.M.A.) Degree Requirements
+Doctor of Philosophy (Ph.D.) in Music Degree Requirements
+Doctor of Philosophy (Ph.D.) in Music Education Degree Requirements
+Musicians Health
+KU Music Clubs & Groups
+For Faculty and Staff
+Alumni & FriendsOverview
+Newsletter
+Keep In Touch
+Giving
+Friends of the School of Music
+Post-Graduation Survey
+Give&raquo
+Search
+      Search form
+  Search 
+            HomeAdmissionApply &amp; Audition  
+        Apply &amp; Audition
+	Undergraduate
+	Graduate
+Prospective undergraduate students must complete two separate applications:
+1. To apply for admission to the University of Kansas&nbsp;please visit:&nbsp;KU Admissions »
+2. To apply for admission and audition for KU School of Music please complete the KU School of Music Audition Packet
+Admission Deadlines:
+	November 1 - Priority deadline for admissions to any area within the School of Music.
+	February 1 - Deadline for music scholarship applications.
+All applicants must also meet or exceed academic requirements and successfully complete the audition process.
+Academic Requirements:
+Kansas Residents/Freshmen
+To qualify for admission, new freshmen must submit a completed application with the $30 fee before the November 1 priority deadline and meet&nbsp; the following requirements:
+Earn at least a 2.5 GPA on a 4.0-point scale in the Kansas Board of Regents Curriculum »&nbsp; and one of the following:
+	Achieve an ACT score of 21 or above, or SAT score of 980 or above, or
+	Rank in the top one-third of their high-school class.
+Out-of-State Residents (U.S. citizens/Freshmen)
+To qualify for admission, new freshmen must submit a completed application with the $30 fee by the November 1 priority deadline and meet the following requirements:
+Earn at least a 2.5 GPA on a 4.0-point scale in the Kansas Board of Regents Curriculum »&nbsp; and one of the following:
+	Achieve an ACT score of 24 or above or an SAT score of 1090 or above with a 2.0 cumulative GPA on a 4.0-point scale, or
+	Rank in the top one-third of their high-school class.
+International Applicants please visit:
+KU International Student Services » 
+Transfer Students: 
+Students transferring to School of Music from another college or university - including another school at KU - must have a 2.75 GPA.
+Readmission:
+Former KU students seeking readmission must have left KU in good standing and have a successful audition. If requesting admission after attending another institution, then the student must meet transfer admission requirements (see above).
+School of Music Auditions:
+	All music students must audition for acceptance to a music degree program.
+	Audition details are found in the KU School of Music Audition Packet.
+	The Audition Application Form and Audition Time Form must be submitted at least three weeks before your preferred audition date.
+	Audition times are confirmed by email and on the phone.
+	Admittance letters will be sent within two weeks after the audition.
+	Music scholarships are awarded to students majoring in music, except athletic band scholarships.
+	Late audition applications will be considered on a space available basis.
+&nbsp;
+&nbsp;
+School of Music (SOM) graduate study includes program areas within 2 units:
+MUSIC includes programs in Music Composition, Church Music, Conducting, Musicology, Music Theory, and Performance. Graduate MUSIC Degrees are Master of Music or MM, Doctor of Musical Arts or DMA (Performance areas) and Doctor of Philosophy or PhD (Musicology or Music Theory).
+MUSIC&nbsp;Graduate Application and Audition Packet (pdf)  Download the packet for complete instructions and information regarding the application process including audition dates, international student information, transcript requirements, GRE requirements, and English proficiency requirements.
+MEMT (Music Education and Music Therapy) includes programs in music education or music therapy. Graduate MEMT (Music Education or Music Therapy) Degrees (ME-MME, MT-MME, PhD in Music Ed or Music Therapy)
+MEMT Graduate Application Procedure (pdf)  Download the document for complete instructions and information regarding the application process for Music Education and Music Therapy graduate applicants. This document is also found on the&nbsp;MEMT Graduate Documents &amp; Forms page.
+Admission for graduate studies in the KU School of Music begins with the MUSIC or MEMT application information document above and then with an online application (either domestic or international), through KU Graduate Studies application process ». The School of Music accepts only online applications.
+Begin application process »
+School of Music Graduate Application Deadlines (MUSIC and&nbsp;MEMT)
+December 1
+	Priority consideration deadline for applicants interested in University Fellowships or Graduate Teaching Assistantships (GTAs) for Fall term the following year.
+February 15
+	Final consideration deadline for applicants interested in Graduate Teaching Assistantships (if positions are still available) for Fall term the following year.
+	Final consideration deadline of international applicant admission materials for Summer term entry.
+May 1
+	Final consideration deadline for all domestic application materials for Summer and Fall terms
+	Final consideration deadline for all international application materials for Fall term
+Readmission or Leave of Absence&nbsp;
+Graduate students must be continuously enrolled in fall and spring semesters to remain active. Students should contact their graduate program directly to verify their status if not continuously enrolled. Graduate students are strongly urged to take an approved leave of absence if they are considering taking time away from their degree program.&nbsp;
+MUSIC students interested in readmission&nbsp;or leave of absence should contact Jane Gnojek&nbsp;jgnojek@ku.edu for assistance.&nbsp;International students must contact the&nbsp;International Student Services (ISS)&nbsp;office for information regarding the visa requirements for readmission.
+MEMT students interested in readmission or leave of absence should download the MEMT Process to Request LOA/RFA/Readmit document located on the MEMT Graduate Documents &amp; Forms page. Contact Lois Elmer&nbsp;elmer@ku.edu for assistance.
+Graduate Auditions
+Applicants for the DMA in Performance are required to audition on their major instrument. Audition requirements are listed by instrument in the Graduate Application and Audition Packet (pdf). Applicants for the conducting degrees must provide a video audition as described in the application and audition packet.
+Once you have completed your application to KU, you may schedule an audition by completing and submitting the Graduate Audition Application.
+IMPORTANT NOTE: All piano and voice majors for the MM degree and the DMA degree must submit a pre-screening audition to Acceptd&nbsp;», an online audition upload service.
+2016 Graduate Audition Dates for Piano, Percussion, Woodwinds, Strings, and Church Music-Choral Conducting emphasis voice audition:
+	Friday, February 12, 2016 - Graduate Voice auditions only
+	Saturday, February 13, 2016
+	Saturday, February 20, 2016
+	Friday, February 26, 2016 - additional Graduate piano audition date
+Organ, Church Music-Organ emphasis applicants must schedule an audition with the division director. Brass applicants must schedule auditions with the instrument professor. Please see the  Graduate Application and Audition Packet (pdf) for contact information.
+VOICE/OPERA AUDITIONS ONLY:Applicants interested in the Lyric Opera of Kansas City apprenticeship program should plan to perform a live audition on the preferred graduate audition date, February 12, 2016. You can get more information about the Kansas City Lyric Opera apprenticeship program on the School of Music VOICE webpage.
+MEMT graduate applicants DO NOT submit audition materials, except as directed in the MEMT&nbsp;Graduate Application Procedure document. The document is also&nbsp;located on the&nbsp;MEMT Graduate Documents and Forms page.
+              School of Music News
+        May 2, 2016
+                KU School of Music student earns top honor in DownBeat Student Music Awards    	
+        April 29, 2016
+                KU Symphonic Band presents concert at Lied Center May 3    	
+                KU School of Music student earns top honor in DownBeat Student Music Awards    	
+        April 22, 2016
+                KU School of Music offers week full of performances for all ages    	
+                KU Jazz Ensemble Will Be ‘Live From New York’ April 12    	
+    Read more  
+              Report Your Post-Graduation Plans
+      The School of Music tracks post-graduation plans for both undergraduate and graduate students.
+	Report Undergraduate Post-Graduation
+	Report Graduate Post-Graduation
+              School of Music Events
+      Your browser must support JavaScript to view this content.
+Please enable JavaScript in your browser settings then try again.    
+            Why KU
+                                    Apply &raquo;
+                                            Music students present hundreds of public concerts every year
+                                            Students perform in KU choirs, concert bands, pep bands, ensembles, symphony orchestra, and jazz combos
+                                            The school owns one of the greatest jazz record collections in the world
+                                            KU Wind Ensemble performed the world premiere of the symphony "In the Shadow of No Towers" at Carnegie Hall
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+        Give to KU Music &raquo;
+    KU Today
+      Contact School of Music
+                    music@ku.edu
+                            785-864-3436
+        Murphy Hall, Room 460
+1530 Naismith Drive
+Lawrence, Kansas 66045-3103
+            
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

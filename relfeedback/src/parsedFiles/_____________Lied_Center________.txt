@@ -1,0 +1,283 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.tp-caption a{color:#ffffff;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffffff}
+.header-v1 h1.logo img, .header-v1 h1.logo a, .header-v2 h1.logo img, .header-v2 h1.logo a{height:41px;}
+		.header-v1 .lower-header.sticky-header, .header-v2 .lower-header.sticky-header{height:60px;}
+		.header-v1 .lower-header.sticky-header h1.logo img, .header-v1 .lower-header.sticky-header h1.logo a, .header-v2 .lower-header.sticky-header h1.logo img, .header-v2 .lower-header.sticky-header h1.logo a{height:38px;}
+		.header-v1 .main-navigation > ul > li > a, .header-v2 .main-navigation > ul > li > a, #menu-toggle{line-height:63px;}
+		.header-v1 .sticky-header .main-navigation > ul > li > a, .header-v2 .sticky-header .main-navigation > ul > li > a, .header-v1 .sticky-header #menu-toggle{line-height:60px;}
+		.header-v1 .search-module-opened, .header-v1 .cart-module-opened, .header-v2 .search-module-opened, .header-v2 .cart-module-opened{top:63px;}
+		.header-v1 .sticky-header .search-module-opened, .header-v1 .sticky-header .cart-module-opened, .header-v2 .sticky-header .search-module-opened, .header-v2 .sticky-header .cart-module-opened{top:60px;}
+		.header-v1 .search-module-trigger, .header-v1 .cart-module-trigger, .header-v2 .search-module-trigger, .header-v2 .cart-module-trigger{line-height:63px;}
+		.header-v1 .sticky-header .search-module-trigger, .header-v1 .sticky-header .cart-module-trigger, .header-v2 .sticky-header .search-module-trigger, .header-v2 .sticky-header .cart-module-trigger{line-height:60px;}
+		.header-v1 .main-navigation > ul > li ul, .header-v2 .main-navigation > ul > li ul{top:63px;}
+		.header-v1 .sticky-header .main-navigation > ul > li ul, .header-v2 .sticky-header .main-navigation > ul > li ul{top:60px;}
+		@media only screen and (max-width: 992px) {.main-navigation{top:63px;}}
+		.page-header{height:px!important;}
+		.text-primary, .btn-primary .badge, .btn-link,a.list-group-item.active > .badge,.nav-pills > .active > a > .badge, p.drop-caps:first-letter, .accent-color, .main-navigation > ul > li > a:hover, .posts-listing .post-time, .title-border i, .upcoming-events .event-cats a:hover, .nav-np .next:hover, .nav-np .prev:hover, .basic-link, .pagination > li > a:hover,.pagination > li > span:hover,.pagination > li > a:focus,.pagination > li > span:focus, .staff-item .meta-data, .woocommerce div.product span.price, .woocommerce div.product p.price, .woocommerce #content div.product span.price, .woocommerce #content div.product p.price, .woocommerce-page div.product span.price, .woocommerce-page div.product p.price, .woocommerce-page #content div.product span.price, .woocommerce-page #content div.product p.price, .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, .event-ticket h4, .event-ticket .ticket-ico, .body .share-buttons-tc.share-buttons-naked > li > a{
+	color:#b5ba5d;
+}
+a:hover{
+	color:#b5ba5d;
+}
+.basic-link:hover{
+	opacity:.9
+}
+p.demo_store, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt, .woocommerce span.onsale, .woocommerce-page span.onsale, .wpcf7-form .wpcf7-submit, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce .widget_layered_nav ul li.chosen a, .woocommerce-page .widget_layered_nav ul li.chosen a{ background: #b5ba5d; }
+p.drop-caps.secondary:first-child:first-letter, .accent-bg, .fa.accent-color, .btn-primary,
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active,
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus,
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+.label-primary,
+.progress-bar-primary,
+a.list-group-item.active,
+a.list-group-item.active:hover,
+a.list-group-item.active:focus, .accordion-heading .accordion-toggle.active, .accordion-heading:hover .accordion-toggle.active, .accordion-heading:hover .accordion-toggle.inactive,
+.panel-primary > .panel-heading, .carousel-indicators .active, .flex-control-nav a:hover, .flex-control-nav a.flex-active, .media-box .media-box-wrapper, .top-menu li a, .upcoming-events .event-date, .media-box .zoom, .media-box .expand, .project-overlay .project-cat, .flexslider .flex-prev:hover, .flexslider .flex-next:hover, .events-listing .upcoming-events li:hover .event-details-btn:hover, .single-event-info .icon-s, .event-register-block:hover, .fc-events, .projects-grid .project-cat, .tagcloud a:hover, .main-navigation > ul > li ul{
+  background-color: #b5ba5d;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary, .top-menu li a:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page #content input.button.alt:hover, .woocommerce a.button.alt:active, .woocommerce button.button.alt:active, .woocommerce input.button.alt:active, .woocommerce #respond input#submit.alt:active, .woocommerce #content input.button.alt:active, .woocommerce-page a.button.alt:active, .woocommerce-page button.button.alt:active, .woocommerce-page input.button.alt:active, .woocommerce-page #respond input#submit.alt:active, .woocommerce-page #content input.button.alt:active, .wpcf7-form .wpcf7-submit{
+  background: #b5ba5d;
+  opacity:.9
+}
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+a.thumbnail:hover,
+a.thumbnail:focus,
+a.thumbnail.active,
+a.list-group-item.active,
+a.list-group-item.active:hover,
+a.list-group-item.active:focus,
+.panel-primary,
+.panel-primary > .panel-heading, .event-ticket-left .ticket-handle{
+	border-color:#b5ba5d;
+}
+.panel-primary > .panel-heading + .panel-collapse .panel-body, .main-navigation > ul > li ul, #featured-events ul.slides{
+	border-top-color:#b5ba5d;
+}
+.panel-primary > .panel-footer + .panel-collapse .panel-body,  .nav-tabs li.ui-tabs-active a, .nav-tabs > li.ui-tabs-active > a:hover, .nav-tabs > li.ui-tabs-active > a:focus, .title-border, .hero-slider, .page-header{
+	border-bottom-color:#b5ba5d;
+}
+blockquote{
+	border-left-color:#b5ba5d;
+}
+.main-navigation > ul > li ul:before, .main-navigation > ul > li.megamenu > ul:before{
+	border-bottom-color:#b5ba5d;
+}
+.main-navigation > ul > li ul li ul:before{
+	border-right-color:#b5ba5d;
+}
+.share-buttons.share-buttons-tc > li > a{
+  background:#b5ba5d;
+}
+/* SECONDARY COLOR */
+.secondary-color, .top-header .social-links a:hover, h3.block-title{
+	color:#346896;
+}
+.secondary-color-bg, .top-menu li.secondary a, .featured-projects, hr.sm, .flexslider .flex-prev, .flexslider .flex-next, .events-listing .upcoming-events li:hover .event-details-btn, .single-event-info .time, .event-single-venue > span:first-child, .tagcloud a, .staff-volunteers, .accordion-heading:hover .accordion-toggle, .widget_twitter_feeds li span.date, .ticket-cost{
+	background-color:#346896;
+}
+.page-header{
+	background-color:#346896;
+}
+.top-menu li.secondary a:hover, .secondary-color-bg:hover{
+	background-color:#346896;
+	opacity:.9;
+}
+.event-register-block{
+	border-color:#346896;
+}@media (min-width:1200px){.container{width:1040px}}body.boxed .body{max-width:1080px;}@media (min-width: 1200px) {body.boxed .body .site-header, body.boxed .body .main-menu-wrapper, body.boxed .is-sticky .full-width-menu{width:1080px;}}.site-header{width:1080px;margin-left:-540px;}.content{min-height:400px}.main-navigation > ul > li ul{border-radius:0 0 4px 4px;}.main-navigation > ul > li > ul li ul{border-radius:4px;}.top-header, .counter{height:37px;}.top-header a, .top-menu li a, .upcoming-event-bar, .upcoming-event-bar h4{line-height:37px;}.top-header .social-links li, .header-v3 .lower-header .social-links li{font-size:18px;}@media only screen and (max-width: 992px) and (min-width: 767px) {.header-v1 .lower-header, .header-v2 .lower-header{position:absolute!important;}.full-width-menu{position:relative!important;}}@media only screen and (max-width: 767px) {.header-v1 .lower-header, .header-v2 .lower-header{position:absolute!important;}.full-width-menu{position:relative!important;}}.site-header, .lower-header{border-radius:0 0 5px 5px;}
+.full-width-menu .main-navigation > ul > li ul:before, .full-width-menu .main-navigation > ul > li.megamenu > ul:before{border-bottom-color:#ffffff;}
+.full-width-menu .main-navigation > ul > li ul li ul:before{border-right-color:#ffffff;}
+@media only screen and (max-width: 992px) {.main-navigation > ul > li > a, .main-navigation > ul > li > ul li > a{padding-top:10px!important;}}
+@media only screen and (max-width: 992px) {.main-navigation > ul > li > a, .main-navigation > ul > li > ul li > a{padding-right:20px!important;}}
+@media only screen and (max-width: 992px) {.main-navigation > ul > li > a, .main-navigation > ul > li > ul li > a{padding-bottom:10px!important;}}
+@media only screen and (max-width: 992px) {.main-navigation > ul > li > a, .main-navigation > ul > li > ul li > a{padding-left:20px!important;}}
+@media only screen and (max-width: 992px) {.main-navigation > ul > li > a, .main-navigation > ul > li > ul li > a, .main-navigation .megamenu-container .megamenu-sub-title{text-align:left!important;}}
+/*========== User Custom CSS Styles ==========*/
+#header{
+margin: 0 auto;
+}
+small{font-size: 70%;}
+.label-success {
+background-color: #b5b934;
+}
+.label-info {
+background-color: #9bbfdf;
+}
+.label-warning {
+color: #000;
+background-color: #eec330;
+}
+.label-danger {
+background-color: #a01d27;
+}
+.alert-success {
+background-color: #b5b934;
+color: #000;
+}
+.alert-info {
+background-color: #9bbfdf;
+color: #000;
+}
+.alert-warning {
+color: #000;
+border-color: #eec330;
+background-color: #eec330;
+}
+.alert-danger {
+background-color: #a01d27;
+}
+.btn-success {
+background-color: #b5b934;
+}
+.btn-success:hover {
+background-color: #898c29;
+}
+.btn-info {
+background-color: #9bbfdf;
+}
+.btn-info:hover {
+background-color: #3a89cf;
+}
+.btn-warning {
+color: #000;
+background-color: #eec330;
+}
+.btn-warning:hover {
+color: #000;
+background-color: #c49a08;
+}
+.btn-danger {
+background-color: #a01d27;
+}
+.btn-danger:hover {
+background-color: #b5b934;
+}
+.event-register-block {
+background-color: #266397;
+border-style: solid;
+border-radius: 4px;
+border-width: 0;
+color: white;
+text-transform: capitalize;
+}
+.vk-share{display:none;}
+                        Single Ticket Kick-off Party
+                        Monday | JUN 8 | 8:00 am                      
+                        Launch KU
+                        Support free performing arts experiences for preschoolers.                      
+                                                  785-864-2787">
+                        An Evening With Judy Collins
+                        Saturday | SEP 24 | 7:30 pm                      
+                                                  785-864-2787">
+                        Clint Black
+                        Saturday | OCT 22 | 7:30 pm                      
+                                                  785-864-2787">
+                        Ira Glass: Seven Things I’ve Learned
+                        Saturday | NOV 5 | 7:30 pm                      
+                                                  785-864-2787">
+                        Rodgers+Hammerstein&#8217;s CINDERELLA
+                        Tuesday | NOV 29 | 7:00 pm                      
+            See Full Calendar
+Lied Center of Kansas			1600 Stewart Drive
+Lawrence, KS 66045
+Ticket Office
+785-864-2787
+Weekdays, 11 am–6 pm
+Performance Day
+Open at least one hour prior to all ticketed performances.
+ &nbsp; Directions/Parking
+&nbsp; &nbsp; Virtual Tour
+  From the Director  
+  Friends of the Lied  
+  Our Mission  
+Welcome to YOUR Lied Center!
+We literally have something for everyone during your Lied Center’s 2016–2017 season! It has been so much fun orchestrating all of next season’s events based on meaningful feedback from all of you—our wonderful patrons. Due to popular demand, we are ecstatic to add an additional night to the exclusive Just Friends Jazz Series.
+Special thanks to all of our Friends of the Lied who make it possible for your Lied Center to serve the entire community and university.
+—Derek S. Kwan, executive director
+Supporting artistic and educational programs at the Lied Center of Kansas.
+Learn more
+The Lied Center of Kansas serves the state’s flagship university, students and the greater community by functioning as a catalyst for the arts, creativity, engagement and community building.
+Read the Latest News Online
+Stay Informed!  Sign up for our e-newsletter and receive discounts, calendar listings and performance information. Sign Up 
+View the 2016–17 brochure online
+                        	Still/Falling
+                        1617 Engagement
+                        	Imani Winds
+                        1617 Engagement
+                        	Paige in Full
+                        1617 Engagement
+                        	MOMIX
+                        1617 Engagement
+785-864-2787
+Google Map
+1600 Stewart Drive
+Lawrence, KS 66045
+E-Newsletter Sign-up
+		Director, Derek Kwan			Admin hours: 8 am–5 pm
+lied@ku.edu
+785-864-3469
+At the University of Kansas
+Lawrence, KS
+  ku.edu
+		Helpful Links			2016–17 Brochure
+Tech Specs
+Press
+Student Jobs
+SUA Partnership with the Lied
+Directions/Parking
+Virtual Tour
+		Twitter This season will be "fun, fun, fun..." #liedks https://t.co/kCOskidntCMay. 02, 2016        
+                	                University of Kansas
+                Home
+Support
+Calendar
+Buy Tickets
+2015-16 Lied Center brochure
+

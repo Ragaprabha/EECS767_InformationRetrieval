@@ -1,0 +1,231 @@
+      Welcome | First-Year Experience
+@import url("http://firstyear.ku.edu/modules/system/system.base.css?o67i7x");
+@import url("http://firstyear.ku.edu/modules/system/system.menus.css?o67i7x");
+@import url("http://firstyear.ku.edu/modules/system/system.messages.css?o67i7x");
+@import url("http://firstyear.ku.edu/modules/system/system.theme.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/ku_template_2012_3col/css/base.css?o67i7x");
+@import url("http://firstyear.ku.edu/modules/aggregator/aggregator.css?o67i7x");
+@import url("http://firstyear.ku.edu/modules/comment/comment.css?o67i7x");
+@import url("http://firstyear.ku.edu/profiles/kudrupal/modules/contrib/date/date_api/date.css?o67i7x");
+@import url("http://firstyear.ku.edu/profiles/kudrupal/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o67i7x");
+@import url("http://firstyear.ku.edu/modules/field/theme/field.css?o67i7x");
+@import url("http://firstyear.ku.edu/modules/node/node.css?o67i7x");
+@import url("http://firstyear.ku.edu/modules/search/search.css?o67i7x");
+@import url("http://firstyear.ku.edu/modules/user/user.css?o67i7x");
+@import url("http://firstyear.ku.edu/profiles/kudrupal/modules/contrib/views/css/views.css?o67i7x");
+@import url("http://firstyear.ku.edu/profiles/kudrupal/modules/contrib/ckeditor/css/ckeditor.css?o67i7x");
+@import url("http://firstyear.ku.edu/profiles/kudrupal/modules/contrib/ctools/css/ctools.css?o67i7x");
+@import url("http://firstyear.ku.edu/profiles/kudrupal/modules/ku/ku_slideshow/ku_slideshow.css?o67i7x");
+@import url("http://firstyear.ku.edu/profiles/kudrupal/modules/ku/ku_whyku/theme/ku-whyku-3col.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/ku_template_2012_3col/css/leftnav.css?o67i7x");
+@import url("http://firstyear.ku.edu/profiles/kudrupal/modules/ku/ku_today/theme/ku-today.css?o67i7x");
+@import url("http://firstyear.ku.edu/profiles/kudrupal/modules/ku/ku_static/theme/ku-static.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/ku_template_2012_3col/css/homepage-slideshow.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/omega/alpha/css/alpha-reset.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/omega/alpha/css/alpha-mobile.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/omega/alpha/css/alpha-alpha.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/omega/omega/css/formalize.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/omega/omega/css/omega-text.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/omega/omega/css/omega-branding.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/omega/omega/css/omega-menu.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/omega/omega/css/omega-forms.css?o67i7x");
+@import url("http://firstyear.ku.edu/sites/all/themes/omega/omega/css/omega-visuals.css?o67i7x");
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                First-Year Experience
+                                        Discover. Engage. Belong.
+      Search form
+  Search 
+      Home
+AboutOverview
+Staff
+Student Employment
+News
+Contact
+OrientationGet started
+Overview
+RegistrationRegister
+Schedule & Dates
+Changing your date
+Cancellations
+Enrollment Deposit
+Before Orientation
+Orientation TeamOrientation Team
+Become an OA
+Former OA Teams
+Welcome ProgramsOverview
+Hawk WeekSignature Events
+Campus Partner InformationAcademic Welcome Registration
+Tabling at Hawk Week
+Winter Welcome 2016
+Common Book2016 Common BookResources
+Events
+Submissions for Between the World and Me Readers Guide
+AboutHistory
+Committee
+Previous Selections2015 SelectionEvents
+Resources
+2014 SelectionAdditional Media
+Events
+Resources
+2013 SelectionEvents
+Timothy Egan Visit
+Resources
+2012 SelectionReader's Guide
+Events
+Eula Biss Visit
+2012 Resources
+#KUcommonbook
+SeminarsOverview
+First-Year SeminarsAbout
+Fall 2016 Seminars
+Proposal ProcessProposal Form
+Proposal Examples
+Photos
+Peer MentorsApply to be a Peer Mentor
+Meet the Peer Mentors
+UNIV 101UNIV 101 Instructor Application
+Professional Development Fund for InstructorsApplication
+University 101 Application for New Sections
+Learning CommunitiesOverview
+ResidentialBe the Change
+Breathe Easy
+Global Lawrence
+KU History & Traditions
+Leadership Lewis
+Life Through a Lens
+Sport, University & You
+NonresidentialBuilding a Better Future World
+Health Matters
+Life As We Know It
+Looking Back to Look Forward
+Where It All Begins
+Pre-enroll
+FAQs
+      MenuHome
+AboutOverview
+Staff
+Student Employment
+News
+Contact
+OrientationGet started
+Overview
+RegistrationRegister
+Schedule & Dates
+Changing your date
+Cancellations
+Enrollment Deposit
+Before Orientation
+Orientation TeamOrientation Team
+Become an OA
+Former OA Teams
+Welcome ProgramsOverview
+Hawk WeekSignature Events
+Campus Partner InformationAcademic Welcome Registration
+Tabling at Hawk Week
+Winter Welcome 2016
+Common Book2016 Common BookResources
+Events
+Submissions for Between the World and Me Readers Guide
+AboutHistory
+Committee
+Previous Selections2015 SelectionEvents
+Resources
+2014 SelectionAdditional Media
+Events
+Resources
+2013 SelectionEvents
+Timothy Egan Visit
+Resources
+2012 SelectionReader's Guide
+Events
+Eula Biss Visit
+2012 Resources
+#KUcommonbook
+SeminarsOverview
+First-Year SeminarsAbout
+Fall 2016 Seminars
+Proposal ProcessProposal Form
+Proposal Examples
+Photos
+Peer MentorsApply to be a Peer Mentor
+Meet the Peer Mentors
+UNIV 101UNIV 101 Instructor Application
+Professional Development Fund for InstructorsApplication
+University 101 Application for New Sections
+Learning CommunitiesOverview
+ResidentialBe the Change
+Breathe Easy
+Global Lawrence
+KU History & Traditions
+Leadership Lewis
+Life Through a Lens
+Sport, University & You
+NonresidentialBuilding a Better Future World
+Health Matters
+Life As We Know It
+Looking Back to Look Forward
+Where It All Begins
+Pre-enroll
+FAQs
+Search
+      Search form
+  Search 
+    
+Welcome to the University of Kansas
+You have made an excellent choice to attend the University of Kansas. The Office of First-Year Experience works with you as you transition into the university. Our programs are designed to challenge and support students across the first year and to connect you to outstanding learning opportunities that will help you to achieve your academic goals.
+Your education at KU means far more than grades. You will acquire confidence in asking questions and thinking critically. You will engage with viewpoints different than your own and discover how collaboration across disciplines can help us to solve some of society’s most complicated problems. You will also have transformative experiences that extend your learning beyond the classroom, such as study abroad, undergraduate research, and service learning.
+There is much to look forward to during your first year at KU. First-Year Experience programs connect you to outstanding faculty, staff, and fellow students. We invite you to read more about our programs and to contact us with questions. We look forward to seeing what you achieve at KU.
+Register for Orientation »
+              Calendar
+      Your browser must support JavaScript to view this content.
+Please enable JavaScript in your browser settings then try again.
+            Why KU?
+                                    Apply &raquo;
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+                                            44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report
+                                            Top 50 nationwide for size of library collection.
+&mdash;ALA
+                                            23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times
+    KU Today
+        Give to KU &raquo;
+      Contact First-Year Experience
+                    firstyear@ku.edu
+                            785-864-4270
+        Office of First-Year Experience
+Strong Hall, Room 145
+1450 Jayhawk Blvd.
+Lawrence, KS 66045-7535    
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

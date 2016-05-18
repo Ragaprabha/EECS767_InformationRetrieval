@@ -1,0 +1,208 @@
+      Employment at KU | Work at KU
+/* Custom site-specific CSS */
+div.site-name {
+    font-size: 1.9em !important;
+}
+block-menu-menu-search {background: #0022b4;}
+.region-unit-sidebar .block-menu {background:#0022b4!important;}
+.region-unit-sidebar .block-menu .block-inner {position:relative;}
+.region-unit-sidebar .block-menu .block-inner .block-title {background:url(https://publicaffairs.drupal.ku.edu/sites/publicaffairs.drupal.ku.edu/files/images/template/icon_dropdown_white.png) no-repeat center right; border-bottom:0px none!important; color:#ffffff!important; cursor:pointer; margin-bottom:0!important;}
+.region-unit-sidebar .block-menu .content > ul.menu {background:rgba(0,34,180,0.97)!important; background:#0022b4; display:none; position:absolute; width:100%; z-index:100;}
+.region-unit-sidebar .block-menu .content > ul.menu li {text-indent:0; list-style:none; margin-left:0.6em!important;}
+.region-unit-sidebar .block-menu .content ul.menu a {color:#ffffff;}
+.region-unit-sidebar .block-menu .content ul.menu a.active {color:#FF4650}
+.region-unit-sidebar .block-menu .block-inner:hover ul.menu {display:block;}
+.region-unit-sidebar .block-menu .block-inner.JobSearch:hover ul.menu {display:none;}
+.field-name-field-peoplesoft-link{
+background-color: #625D5D;
+width: 100px;
+text-align: center;
+color: white;
+padding: 0 0 10px;
+border: 1px solid #CCC;
+font-weight: bold;
+}
+.field-name-field-peoplesoft-link a{
+color: #ffffff !important;
+}
+.field-name-field-peoplesoft-link-for-intern{
+background-color: #616D7E;
+width: 220px;
+text-align: center;
+color: white;
+padding: 0 0 10px;
+border: 1px solid #CCC;
+font-weight: bold;
+margin: 20px 0 0 0;
+}
+.field-name-field-peoplesoft-link-for-intern a{
+color: #ffffff !important;
+}
+    .css_right{
+        float: right;
+    }
+    td.desc, #region-content td.desc p, td.desc ul li, td.related ul li{
+        font-size:12px;
+        line-height:15px;
+    }
+    tr.odd td, tr.odd td.sorting_1{
+        background: #ffffff;
+    }
+    tr.even td, tr.even td.sorting_1{
+        background: #F1F5FA;
+    }
+.page-jobs-list-view #region-content, .page-jobsearch #region-content, .page-academic #region-content, .page-staff #region-content, .page-student #region-content{
+width: 98%;
+}
+#searchDepartment select{
+}
+#horizontal_list li{
+display:inline; 
+list-style-type:none; 
+padding-right:20px;
+float:left;
+}
+.floatbox {
+    float: left;
+    margin-bottom: 15px;
+    min-height: 120px;
+    min-width: 250px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    width: 44%;
+}
+.block-10 .block-title{
+   text-align:center;
+   font-size:20px !important;
+}
+/* Safety Footer Styling */
+.block-13 p {
+    color: #bbb;    
+    font-size: 8px;    
+    margin-bottom: 5px;   
+    text-align: center;    
+    line-height: 12px;
+}
+.region-inner.region-ku-footer-legal-inner .block-13 p a {
+    color: #bbb;
+    text-decoration: underline;
+}       
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                Work at KU
+      Search form
+  Search 
+      Home
+Job SearchesStaff
+Students
+Faculty, Lecturers, and Academic Staff
+Why KUTeaching
+Research
+Outreach
+Support
+Culture
+Benefits
+Diversity
+Policies
+Contact Us
+      MenuHome
+Job SearchesStaff
+Students
+Faculty, Lecturers, and Academic Staff
+Why KUTeaching
+Research
+Outreach
+Support
+Culture
+Benefits
+Diversity
+Policies
+Contact Us
+Search
+      Search form
+  Search 
+Students
+Staff
+Faculty, Lecturers,
+Academic Staff
+The University of Kansas is committed to providing our employees with an enriching and dynamic work environment that encourages innovation, research, creativity and equal opportunity for learning, development and professional growth.  KU has five campuses and several satellite locations throughout the state, nationally and across the globe.  Each campus focuses upon the delivery of exceptional service, education, and research excellence for our students, faculty, staff, patients, off-campus collaborators.  As a result, KU strives to recruit, develop, retain and reward a dynamic workforce that shares our mission and core strategic values in research, teaching and service. Learn more about why KU is a great place to work.
+Employment opportunities are updated daily.  We encourage you to search our website to determine if KU has an exciting career opportunity that is right for you.
+          No. 1 for "Best Colleges and Universities to Work For." - Business Research Guide
+          Top 50 nationwide for size of library collection. - American Library Association
+          2nd in the nation for prestigious faculty Fulbright awards
+          The University of Kansas Cancer Center won recognition as a National Cancer Institute
+          The Lawrence campus employs more than 3,300 staff members supporting the University.
+          48 nationally ranked graduate programs. - U.S. News &amp; World Report
+          Top 10 public university for new faculty
+About KU
+At the top of Mount Oread stands the University of Kansas, a major public research and teaching institution with lofty goals and a global outlook. The historic buildings and tree-covered campus, along with top-ranked academic programs and growing research endeavors, provide an environment that inspires and challenges students and faculty.
+ 
+              Other Employment at KU
+      Athletics
+	KU Memorial Unions
+	Endowment
+	Alumni
+	KUMC
+	Off-Campus Student Employment
+              Related Links
+      Immigration Related Notices
+	Human Resources
+	KUMC Human Resources
+	Institutional Opportunity &amp; Access
+    About the Area
+            Friendly folks. A big city vibe. Discover all that’s great about Lawrence.  
+            Lawrence, Kan.
+            A beautiful, hilly campus is just one reason why Jayhawks fall in love with KU.  Find out more. 
+            The University
+            Why KU
+                                    Attend KU &raquo;
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+                                            44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report
+                                            Top 50 nationwide for size of library collection.
+&mdash;ALA
+                                            23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times
+    KU Today
+        Learn more &raquo;
+      Contact Work at KU
+                    employ@ku.edu
+                            785-864-4946
+        1246 West Campus Road, Room 103
+Carruth O'Leary Hall
+The University of Kansas
+Lawrence, Kansas 66045-7521    
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+      The annual security report about KU safety policies, crime statistics, and campus resources is available online at http://ku.edu/safety, or on paper by contacting the [Office of the Vice Provost of Student Affairs (previously Dean of Students)], 133 Strong Hall, (785) 864-4060.
+

@@ -1,0 +1,21 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+			 -->
+				 click for menu
+				Skip to content
+                the UUnion HomeHours of OperationContactsHuman ResourcesPositions/OpeningsKU HISTORYVisit KUHistory.comEventsToday at the UMediaMedia Contactgeneral newsAbout the UnionsLetter from the DirectorGiving OpportunitiesKansas UnionDining OptionsLounge / Study AreasShoppingWalking TourWelcome CenterDirectories and MapsKansas Union ServicesJayhawk CentralDining OptionsEdwards MapEdwards ServicesShoppingThe DeBruce CenterBurge UnionAdvertising OpportunitiesBrochuresBus AdvertisingBus Ad PolicyCampus TVStudent Design CenterTable Tent AdsDirectories and MapsEATKU Dining HomeMenusHoursContactsFAQKU Dining CaresSustainabilityCampus PartnersVendor PartnersDining PlansCampanile PlanKU Cuisine Faculty/Staff Dining PlanCateringCatering GuideCommencement 2016Just One FrillPick-me-upsPick-Me-Ups OrderingBar PricingJobs / Other ServicesAbout ResidentialAbout RetailEmployment InfoPositions / OpeningsLocationsCourtside CaféImpromptu CafeJay BreakJayhawk GrocerMortar &#038; Pestle CaféMrs. E&#8217;sNature&#8217;s FinestNorth College CafeO&#8217;ZoneOliver HallRoasterie CoffeehouseThe MarketThe Studio CafeThe UndergroundWellness / NutritionWellness and Nutrition BlogNet NutritionVegetarian / VeganAllergies and Dietary Accommodations&#8220;Feel Better&#8221; MealsSHOPKU Bookstore LocationsAbout Tech ShopAbout Jayhawk InkBuy TextbooksShop for RegaliaText Book RequisitionVisit KUBookstore.comMEETEvent Services HomeLetter from the DirectorAudio Visual ServicesContactsEvents Forms and DocsStudent Groups FAQToday @ the UPoliciesEvent Planning ResourcesEvent Quick GuideParkingCateringCatering GuideJust One FrillPick-me-upsPick-Me-Ups OrderBar PricingCommencement 2016Room ReservationsRequest a Room: Online SystemRoom Setup OptionsDescriptions and RatesPLAYThe JayWelcome CenterENGAGEPrograms HomeUnion Programs ContactsVisit Kansas Union GalleryVisit Student Union ActivitiesVisit KJHK 90.7 FM RadioVisit The Big EventWelcome CenterThe Jay
+               BusinessMarketingthe UUnion HomeKU CouponsThank YouUnionFest PhotosUnionFest Photos 2014you @ the UHours of OperationMay 9th-May 15thApril 18-May 13March 11-March 13March 21-May 13March 25-March 27May 16th-May 30thSpring Break March 14-20ContactsHawks NestWin @ The UWin at the U ResultsHuman ResourcesPositions/OpeningsKU HISTORYVisit KUHistory.comEventsToday at the UMediaMedia Contactgeneral newsSubmission ErrorAbout the UnionsLetter from the DirectorGiving OpportunitiesKansas UnionDining OptionsLounge / Study AreasShoppingWalking TourWelcome CenterDirectories and MapsKansas Union ServicesJayhawk CentralDining OptionsEdwards MapEdwards ServicesShoppingThe DeBruce CenterBurge UnionAdvertising OpportunitiesBrochuresBus AdvertisingBus Ad PolicyCampus TVStudent Design CenterTable Tent AdsDirectories and MapsEATJune 1 &#8211; June 28KU Dining HomeMenu UpdaterThank YouMenusHoursContactsFAQKU Dining CaresMenusSustainabilityCampus PartnersVendor PartnersDining PlansCampanile PlanKU Cuisine Faculty/Staff Dining PlanCateringCatering GuideCommencement 2016Just One FrillPick-me-upsPick-Me-Ups OrderingBar PricingJobs / Other ServicesAbout ResidentialAbout RetailEmployment InfoThank You<a href="https://jayhawks.csod.com/ats/careersite/search.aspx?site=3&#038;c=jayhawks
+

@@ -1,0 +1,478 @@
+      Services | Information Technology
+@import url("http://technology.ku.edu/modules/system/system.base.css?o6kacu");
+@import url("http://technology.ku.edu/modules/system/system.menus.css?o6kacu");
+@import url("http://technology.ku.edu/modules/system/system.messages.css?o6kacu");
+@import url("http://technology.ku.edu/modules/system/system.theme.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/ku_template_2012_3col/css/base.css?o6kacu");
+@import url("http://technology.ku.edu/modules/aggregator/aggregator.css?o6kacu");
+@import url("http://technology.ku.edu/modules/comment/comment.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/date/date_api/date.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o6kacu");
+@import url("http://technology.ku.edu/modules/field/theme/field.css?o6kacu");
+@import url("http://technology.ku.edu/modules/node/node.css?o6kacu");
+@import url("http://technology.ku.edu/modules/search/search.css?o6kacu");
+@import url("http://technology.ku.edu/modules/user/user.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/views/css/views.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/ckeditor/css/ckeditor.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/ctools/css/ctools.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/ku/ku_whyku/theme/ku-whyku-3col.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/ku/ku_today/theme/ku-today.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/ku/ku_static/theme/ku-static.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/alpha/css/alpha-reset.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/alpha/css/alpha-mobile.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/alpha/css/alpha-alpha.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/formalize.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-text.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-branding.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-menu.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-forms.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-visuals.css?o6kacu");
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                Information Technology
+                                        connect. communicate. collaborate.
+      Search form
+  Search 
+      Home
+AccountsPersonal Accounts
+Departmental Accounts
+KU Distribution/Group Lists
+Web Accounts
+EmailKU Email
+Outlook Web Access
+Mobile
+Departmental Email
+Mailing Lists
+Spam
+WirelessWi-Fi Overview
+Configure Wi-Fi
+Wi-Fi Expansion
+Wi-Fi When Traveling
+Computer LabsComputer Labs Overview
+Lab Locations
+Find Software
+Lab Policy
+Reserve a Lab
+Printing & Copying Info
+SoftwareOverview
+Microsoft Office
+Antivirus
+Virtual Lab
+KU Web Store
+ServicesOverview
+Print, Copy & Scan
+SecuritySecurity Overview
+Consulting & Assessment
+Help with Firewalls
+Security Training
+Email Security
+IT Security Incident Survey
+Contact ITSO
+Phishing
+Antivirus Software
+Storage
+Voice
+Internet & Network
+Video
+Client Consulting
+Projects
+Office of CIOWelcome
+About KU ITLeadership
+Employee Kudos
+Publications
+SustainabilitySustainability Overview
+Power Management
+Useful Sustainability Links
+eWaste Recycling
+CIO Messages
+Price Computing Center
+UpdatesAlerts
+News & Updates
+HelpTechnology Support - Students
+Faculty & Staff
+Classroom Support
+Knowledge Base
+Training
+New2KU &raquo
+Lync Overview
+How do I get Lync?
+Using Lync
+Lync FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync 2013
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice &  Video
+Online Meetings
+Online Meetings for Presenters
+Online Meetings for Attendees
+Collaboration
+Recording
+Tips & Tricks
+Lync Tips & Tricks
+myCommunity Overview
+Outlook 2013 OverviewOutlook 2013 – Getting Started
+Email at KU
+Add a Delegate
+Calendar Sharing
+Calendar Views
+Contacting Groups
+Contacts
+Create a Meeting
+Create an Appointment
+Create Recurring Meetings
+Edit a Scheduled Meeting
+Email Views
+Folders
+Out-of-office message
+Respond to a Meeting Request
+Scheduling Assistant
+Search
+Signatures
+Media Production Studio
+Equipment Checkout
+Recording Resources
+Editing Resources
+Workshops & Training
+Drop-off Services
+MPS Staff
+Skype for Business 2015
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice
+Skype for Business Phone Service &raquo;
+Video
+Online Meetings for Presenters
+Online Meetings for Participants
+Collaboration
+Recording
+Tips & Tricks
+Skype for Business OverviewSkype for Business Overview
+Get Skype for Business
+Using Skype for Business
+Skype for Business FAQs
+Recommended Devices
+Skype for Business - Phone Service
+Support & Troubleshooting
+Using Lync (Mac)Lync for Mac
+Getting Started
+Presence
+Contacts & Groups
+Instant Messaging
+Privacy
+Voice & Video
+Online Meetings
+Collaboration
+Lync Phone Service (Mac)
+Skype for Business Phone Service (PC)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for PC UsersCall Control Options
+Call Ringing Options
+Forwarding Calls
+Simultaneous Ring
+Instructions for Enabled PhonesChange Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync Phone Service (Mac)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for Mac UsersCall Control Options
+Change How Calls Are Answered
+Instructions for Enabled PhonesCall Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+      MenuHome
+AccountsPersonal Accounts
+Departmental Accounts
+KU Distribution/Group Lists
+Web Accounts
+EmailKU Email
+Outlook Web Access
+Mobile
+Departmental Email
+Mailing Lists
+Spam
+WirelessWi-Fi Overview
+Configure Wi-Fi
+Wi-Fi Expansion
+Wi-Fi When Traveling
+Computer LabsComputer Labs Overview
+Lab Locations
+Find Software
+Lab Policy
+Reserve a Lab
+Printing & Copying Info
+SoftwareOverview
+Microsoft Office
+Antivirus
+Virtual Lab
+KU Web Store
+ServicesOverview
+Print, Copy & Scan
+SecuritySecurity Overview
+Consulting & Assessment
+Help with Firewalls
+Security Training
+Email Security
+IT Security Incident Survey
+Contact ITSO
+Phishing
+Antivirus Software
+Storage
+Voice
+Internet & Network
+Video
+Client Consulting
+Projects
+Office of CIOWelcome
+About KU ITLeadership
+Employee Kudos
+Publications
+SustainabilitySustainability Overview
+Power Management
+Useful Sustainability Links
+eWaste Recycling
+CIO Messages
+Price Computing Center
+UpdatesAlerts
+News & Updates
+HelpTechnology Support - Students
+Faculty & Staff
+Classroom Support
+Knowledge Base
+Training
+New2KU &raquo
+Lync CommunicationsLync Overview
+How do I get Lync?
+Using Lync
+Lync FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync 2013
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice &  Video
+Online Meetings
+Online Meetings for Presenters
+Online Meetings for Attendees
+Collaboration
+Recording
+Tips & Tricks
+Lync Tips & Tricks
+Lecture Capture
+myCommunity MenumyCommunity Overview
+Outlook 2013Outlook 2013 OverviewOutlook 2013 – Getting Started
+Email at KU
+Add a Delegate
+Calendar Sharing
+Calendar Views
+Contacting Groups
+Contacts
+Create a Meeting
+Create an Appointment
+Create Recurring Meetings
+Edit a Scheduled Meeting
+Email Views
+Folders
+Out-of-office message
+Respond to a Meeting Request
+Scheduling Assistant
+Search
+Signatures
+Digital Signage
+Media Production StudioMedia Production Studio
+Equipment Checkout
+Recording Resources
+Editing Resources
+Workshops & Training
+Drop-off Services
+MPS Staff
+Skype for Business TrainingSkype for Business 2015
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice
+Skype for Business Phone Service &raquo;
+Video
+Online Meetings for Presenters
+Online Meetings for Participants
+Collaboration
+Recording
+Tips & Tricks
+Skype for Business MainSkype for Business OverviewSkype for Business Overview
+Get Skype for Business
+Using Skype for Business
+Skype for Business FAQs
+Recommended Devices
+Skype for Business - Phone Service
+Support & Troubleshooting
+Using Lync (Mac)Lync for Mac
+Getting Started
+Presence
+Contacts & Groups
+Instant Messaging
+Privacy
+Voice & Video
+Online Meetings
+Collaboration
+Lync Phone Service (Mac)
+Skype for Business Phone Service (PC)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for PC UsersCall Control Options
+Call Ringing Options
+Forwarding Calls
+Simultaneous Ring
+Instructions for Enabled PhonesChange Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync Phone Service (Mac)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for Mac UsersCall Control Options
+Change How Calls Are Answered
+Instructions for Enabled PhonesCall Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+Search
+      Search form
+  Search 
+            HomeServicesOverview  
+        KU Information Technology Services
+			Accounts &amp; AccessFeatured: Manage Your Password, myKU Portal, KU Online ID
+			Audio &amp; Video ServicesFeatured: Media Production Studio, Lecture Capture, Video Services
+			Campus ServicesFeatured: eWaste Recycling, Project Management &amp; Consulting, myKU Portal
+			Classroom &amp; Department TechnologyFeatured: Classroom Technology Support, Classroom Equipment Loan, Clickers
+			Computer Labs &amp; PrintingFeatured: Computer Labs, Virtual Lab, Print, Copy, &amp; Scan
+			Email &amp; MessagingFeatured: Personal Email, Mobile Access, Departmental Email, Skype for Business
+			Help, Support &amp; TrainingFeatured: Training &amp; Workshops, IT Help, Classroom Tech Support
+			Mobile, Wi-Fi &amp; WebFeatured: Wi-Fi, Websites, Content Management System (CMS)
+			Network, Phone &amp; Cable TVFeatured: Internet &amp; Network Services, Phones, Skype for Business, Conference Calling
+			SecurityFeatured: Email Security &amp; Encryption, Firewall Management, Information Technology Security
+			Servers, Data &amp; StorageFeatured: File Storage Overview, Group File Storage, Research File Storage
+			Teaching &amp; LearningFeatured: Educational Technology, Blackboard, Lecture Capture
+      &nbsp; &nbsp; 
+      Browse IT Services
+Find by Category
+All
+Accounts &amp; Access
+Audio &amp; Video Services
+Campus Services
+Classroom &amp; Dept. Technology
+Computer Labs &amp; Printing
+Email &amp; Messaging
+Help, Support &amp; Training
+Mobile, Wi-Fi &amp; Web
+Network, Phone &amp; Cable TV
+Security
+Servers, Data &amp; Storage
+Teaching &amp; Learning
+Find by Eligibility
+Departments
+Faculty &amp; Staff
+Graduate Research &amp; Teaching Assistants
+Graduate Students
+Undergraduate Students
+Visitors to Campus
+      Technology Help
+			785-864-8080
+			Phone support
+			itcsc@ku.edu
+			Support via Email
+			Faculty/Staff Support
+			Technology Support Centers
+			Knowledge Base
+			FAQs &amp; More
+			Virtual Service Desk
+			Online Help
+  Comments or ideas on how we can serve you better? Send us your feedback!
+            Why KU
+                                    Apply &raquo;
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+                                            44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report
+                                            Top 50 nationwide for size of library collection.
+&mdash;ALA
+                                            23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times
+    KU Today
+        Give to KU &raquo;
+      Contact Information Technology
+                    itcsc@ku.edu
+                            785-864-8080
+        1001 Sunnyside Ave.
+Lawrence KS 66045    
+IT Staff Login
+Log Me In Rescue Login
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

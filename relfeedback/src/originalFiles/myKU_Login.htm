@@ -1,0 +1,292 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>myKU Login</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="css/portal-theme.css" rel="stylesheet">
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.8/angular.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.8/angular-sanitize.min.js"></script>
+        <script src="js/cas.js" type="text/javascript"></script>
+        <script src="js/feeds.js" type="text/javascript"></script>
+
+        <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/modernizr/modernizr-1.7-development-only.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <header id="ku-header">
+            <section id="ku-topnav">
+                <div class="container">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="https://mail.ku.edu/">Email</a></li>				
+                        <li><a href="https://courseware.ku.edu/">Blackboard</a></li>				
+                        <li><a href="https://sa.ku.edu/">Enroll &amp; pay</a></li>				
+                        <li id="ku-directory-link"><a href="https://ku.edu/directory">KU Directory</a></li>						
+                    </ul>
+                </div>
+            </section>		
+            <section id="ku-logo">
+                <div class="container">			
+                    <div class="image"><img src="images/logo.png" alt="The University of Kansas" /></div>
+                    <h1 class="title">myKU Portal</h1>
+                </div>
+            </section>
+        </header>
+
+
+
+<!-- import JSP taglibs, etc -->
+
+
+
+
+
+
+
+
+<!-- Pull in theme specific content -->
+<!--content-->
+<section id="ku-contentarea">
+    <div class="container" id="ku-main-content">
+        <section id="ku-leftcolumn" class="col-md-3">
+            <article id="login-box" class="login-box">
+                <div class="content">
+                    <form id="fm1" class="fm-v clearfix" action="/cas/login;jsessionid=5F05543FF9C49E0E4D3643F090115F15?TARGET=https%3A%2F%2Fmy.ku.edu%2FPhotoRosters%2F" method="post">
+                        
+                        <!-- Congratulations on bringing CAS online!  The default authentication handler authenticates where usernames equal passwords: go ahead, try it out. -->
+                        <h2 class="title">Enter your Online ID &amp; Password</h2>
+
+                        <div class="onlineid form-group">
+                            <label for="username">
+                                <span class="accesskey">O</span>nline ID:
+                            </label>
+
+                            
+
+                            
+                                
+
+                                <input id="username" name="username" class="form-control" tabindex="1" accesskey="u o" type="text" value="" size="25" autocomplete="false"/>
+                            
+                        </div>
+                        <div class="password form-group">
+                            <label for="password"><span class="accesskey">P</span>assword:</label>
+                                
+                                
+                                <input id="password" name="password" class="form-control" tabindex="2" accesskey="p" type="password" value="" size="25" autocomplete="off"/>
+                        </div>
+                        <div class="password-tools">
+                            <ul class="list-inline">
+                                <li><a href="https://myidentity.ku.edu/password/forgot">Forgot your password</a></li>
+                                <li><a href="https://myidentity.ku.edu/password/change">Change Password</a></li>
+                            </ul>
+                            <ul class="list-inline form-group">
+                                <li><a href="https://myidentity.ku.edu/setup">Set up your KU Online ID</a></li>
+                                <li><a href="/cas/help">Help</a></li>
+                            </ul>
+
+                        </div>
+                        <div class="sign-in">
+                            <input type="hidden" name="lt" value="LT-928455-tPTDM34L1Ye55ePJU4pemTwQL4IGOd" /> 
+                            <input type="hidden" name="execution" value="e1s1" /> 
+                            <input type="hidden" name="_eventId" value="submit" /> 
+
+                            <input class="btn btn-primary" 
+                                   name="submit" 
+                                   accesskey="l" 
+                                   value="LOGIN" 
+                                   tabindex="4" type="submit" />
+
+                        </div>
+                    </form>
+                </div>
+
+            </article>
+            <article id="notifications" class="item-box">
+                <h2 class="title">Service Updates</h2>
+                <div id="notifications-feed" class="content" data-ng-controller="feedContentCtrl">
+                    <div data-ng-show="!cmsData">
+                        <p style="font-style: italic;">There are currently no service updates available.</p>
+                    </div>
+                    <div data-ng-repeat="entry in cmsData| limitTo:3">
+                        <p>
+                            <strong class="notifications-header"><a href="{{entry.link}}" target="_blank" data-ng-bind-html="entry.title"></a></strong><br>
+                            <span class="notifications-pub-date" data-ng-bind="entry.pubDate"></span>
+                        </p>
+                        <div data-ng-bind-html="entry.description | cut:true:125"></div>
+
+                    </div>
+
+                    <p class="more"><a href="http://technology.ku.edu/news">Technology News &raquo;</a></p>
+                    <br>
+                </div>
+            </article>	
+        </section>
+        <section id="ku-centercolumn" class="col-md-6"> 
+            <article id="provost-message" class="item-box"  data-ng-controller="feedContentCtrl" data-ng-show="cmsData">
+                <h2 class="title">Weekly Message</h2>
+
+                <div id="provost-feed" class="content">
+                    <div data-ng-repeat="entry in cmsData">
+                        <div data-ng-bind-html="entry.content | unsafe"></div>
+                    </div>
+                </div>
+            </article>
+            <article id="latest-news" class="item-box" data-ng-controller="feedContentCtrl" data-ng-show="cmsData">
+                <h2 class="title">The Latest News</h2>
+
+                <div id="news-link-map">
+                    <a href="http://news.ku.edu/" target="_blank">Latest news</a> |
+                    <a href="http://news.ku.edu/arts-humanities" target="_blank">Arts &amp; Humanities</a> |
+                    <a href="http://news.ku.edu/business-communication" target="_blank">Business &amp; Communication</a> |
+                    <a href="http://news.ku.edu/education-behavior" target="_blank">Education &amp; Behavior</a><br>
+                    <a href="http://news.ku.edu/health-wellness" target="_blank">Health &amp; Wellness</a> |
+                    <a href="http://news.ku.edu/law-policy-society" target="_blank">Law, Policy &amp; Society</a> |
+                    <a href="http://news.ku.edu/science-engineering" target="_blank">Science &amp; Engineering</a> |
+                    <a href="http://news.ku.edu/sustainability-environment" target="_blank">Sustainability &amp; Environment</a> 
+                </div>
+                <div id="news-feed" class="content" >
+                    <div class="news-top-wrapper">
+                        <div data-ng-repeat="entry in cmsData.nodes| limitTo:1">
+                            <a href="{{entry.node.url}}" title="{{entry.node.caption}}" target="_blank" data-ng-show="entry.node.thumbnail"><img src="{{entry.node.thumbnail}}" class="ku-news-img" alt="{{entry.node.caption}}"/></a>
+                            <div id="ku-news-field-title">
+                                <span class="field-content">
+                                    <a href="{{entry.node.url}}" id="news-caption-link" target="_blank" data-ng-bind-html="entry.node.caption"></a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="news-bottom-wrapper" data-ng-show="cmsData.nodes">
+                        <div class="news-bottom" data-ng-repeat="entry in cmsData.nodes| limitTo:3" data-ng-hide="$first">
+                            <div class="news-bottom-image">
+                                <a href="{{entry.node.url}}" title="{{entry.node.caption}}" target="_blank" ><img src="{{entry.node.thumbnail}}" class="ku-news-img-small" alt="{{entry.node.caption}}"/></a>
+                            </div>
+
+                            <div class="news-bottom-text" data-ng-bind-html="entry.node.caption"></div>
+                        </div>
+
+                    </div><p id="news-bottom-link"><a  href="https://news.ku.edu/" target="_blank">All KU News...</a></p>
+                    <br>
+                </div>
+            </article>
+        </section>
+        <section id="ku-rightcolumn" class="col-md-3">
+            <article id="today-at-ku" class="item-box">
+                <h2 class="title">Upcoming Events</h2>
+                <div id="events-feed"  class="content" data-ng-controller="feedContentCtrl">
+                    <ul id="event-list">
+                        <li data-ng-repeat="entry in cmsData.events| limitTo:5">
+                            <a href="{{entry.link}}" title="{{entry.title}}" target="_blank"><img src="{{entry.icon}}" class="event-img" alt="{{entry.title}}"/></a>
+                            <a href="{{entry.link}}" title="{{entry.title}}" target="_blank" class="event-text" data-ng-bind-html="entry.title | cut:true:70"></a>
+                        </li>
+                    </ul>
+
+                </div>
+            </article>
+            <article id="resources" class="item-box">
+                <h2 class="title">Resources</h2>
+                <div class="content">
+                    <ul class="links" id="links-feed" data-ng-controller="feedContentCtrl">
+                        <li data-ng-repeat="entry in cmsData.nodes">
+                           <span data-ng-bind-html="entry.node.link | unsafe"></span>
+                        </li>
+                    </ul>
+                </div>
+            </article>	
+            <article id="legal-notice" class="item-box">
+                <h2 class="title">Legal Notice</h2>
+                <div class="content">
+                    <p>
+                        Access to electronic resources at the University of Kansas is restricted to employees, students, or other individuals authorized by the University or its affiliates. Use of this system is subject to all policies and procedures set forth by the University located at <a href="www.policy.ku.edu" target="_blank">www.policy.ku.edu</a>. Unauthorized use is prohibited and may result in administrative or legal action. The University may monitor the use of this system for purposes related to security management, system operations, and intellectual property compliance. 
+                    </p>
+                </div>
+            </article>						
+        </section>
+    </div>
+</section>
+</section>
+<!--endcontent-->
+
+
+<footer id="ku-footer">
+    <div class="container">
+        <section id="ku-footer-logo" class="col-md-4">
+            <div class="image">
+                <img src="images/ku_sig_logo.png" alt="The University of Kansas">
+            </div>
+        </section>
+        <section id="ku-jayhawk-logo" class="col-md-4">
+            <div class="image">
+                <img src="images/ku_jayhawk.png" alt="The University of Kansas">
+            </div>
+        </section>		
+        <section id="ku-footer-links" class="col-md-4">
+            <div class="left-links col-md-4">
+                <ul>
+                    <li><a href="http://ku.edu/academics/" title="KU Academics">Academics</a></li>
+                    <li><a href="http://www.kuathletics.com/" title="KU Athletics">Athletics</a></li>
+                    <li><a href="http://www.kuendowment.org/" title="Give back through KU Endowment">Giving</a></li>
+                </ul>
+            </div>
+            <div class="left-links col-md-4">
+                <ul>	
+                    <li><a href="http://ku.edu/admissions/" title="KU Admissions">Admissions</a></li>
+                    <li><a href="http://www.ku.edu/about/campuses/" title="Campus information for KU">Campuses</a></li>
+                    <li><a href="http://employment.ku.edu" title="Find employment at KU">Jobs</a></li>
+                </ul>
+            </div>
+            <div class="left-links col-md-4">
+                <ul>
+                    <li><a href="http://www.kualumni.org/" title="Alumni information">Alumni</a></li>
+                    <li><a href="http://www.ku.edu/contact/" title="Contact KU">Contacts</a></li>						
+                    <li><a href="http://maps.ku.edu" title="KU Maps">Maps</a></li>
+                </ul>
+            </div>				
+
+        </section>						
+        <section id="ku-disclaimer" class="col-md-12">
+            <div class="content">
+                The University of Kansas <a href='http://policy.ku.edu/IOA/nondiscrimination'>prohibits discrimination</a> on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, retaliation, gender identity, gender expression and genetic information in the University&#8217;s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity &amp; Access, <a href="mailto:ioa@ku.edu">IOA@ku.edu</a>, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+            </div>
+        </section>
+    </div>
+
+</footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/analytics.js"></script>
+</body>
+</html>

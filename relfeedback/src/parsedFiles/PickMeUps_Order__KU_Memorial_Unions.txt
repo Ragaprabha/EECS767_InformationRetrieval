@@ -1,0 +1,62 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+                Name: *
+                E-Mail Address: *
+                Department:
+                I am a: *
+                  Faculty Member
+          Staff Member
+          Campus Guest
+          Parent/Guardian
+          None of the above
+                Date Needed:
+                Time Needed:
+                Additional Comments/Instructions:
+                Pickup Location: Roasterie® @ Kansas Union
+                Your Pick-Me-Up Selections:
+                BAGEL TRAY- A dozen assorted bagels including plain, blueberry and cinnamon raisin and cream cheese singles. [$15.25]                
+                FRUIT DANISH TRAY- A dozen assorted Danish including cheese, apple, and cherry. [$12.50]                
+                OTIS SPUNKMEYER TULIP MUFFINS- Eight of the traditional favorites including Apple Cinnamon, Berry Whole Grain, Blueberry Crumb and Chocolate Chunk Supreme. [$15.25]                
+                COOKIE TRAY- 18 assorted decadent cookies – perfect for sharing (or not!) fresh baked when you order! [$12.25]                
+                COFFEE ON THE GO- One gallon of our own Roasterie Signature Blend, regular or decaf, with all the necessary accessories for your group. [$15.00]                
+                SODA- Assorted Coca-Cola® products. Choose from Classic Coke®, Diet Coke®, Sprite® 20oz bottles. [$1.65/each]                
+                WATER- Dasani® 20oz bottles. [$1.55/each]        
+                Soft Drink Qty and Preference:
+                Payment Method:
+                  Visa
+          Mastercard
+          Discover
+          Beak em Bucks
+          KU Cuisine Cash
+          Departmental Charge
+                CAPTCHA Code: *
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

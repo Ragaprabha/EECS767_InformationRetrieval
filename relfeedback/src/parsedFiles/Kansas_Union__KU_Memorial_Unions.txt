@@ -1,0 +1,137 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+The KU Memorial Unions are the gathering place on campus. Many students refer to the Unions, and the Kansas Union in particular, as their home away from home. It’s the first place students often visit on campus, and its where many of their college memories will be made.
+Whether students or guests want to eat, meet, shop, study, relax, bank, watch a movie, attend events, or rally at a watch party, they’ll do it at the Unions.
+Stay on top of all Union events, activities and special deals and offers through social media or by receiving our newsletter &#8211; you can sign up on our news page for &#8216;News From the U.&#8217;
+See you at the U!
+Kansas Union
+1301 Jayhawk Boulevard, Lawrence, Kansas 66045 Map Directory
+Meeting Rooms... Level 6
+	Centennial Meeting/Event Room
+	Curry Meeting/Event Room
+	Divine Nine Meeting/Event Room
+	English Meeting/Event Room
+	Kansas Meeting/Event Room
+	KU Dining Rooftop Garden
+	Malott Meeting/Event Room
+	Pine Meeting/Event Room
+	Restrooms / Elevator
+Ballroom... Level 5
+	Ballroom &#8211; Orientation Buffets
+	Big 12 Meeting/Event Room &#8211; Orientation Info Fair
+	Governors Meeting/Event Room &#8211; Orientation Advising Headquarters
+	International Meeting/Event Room
+	Jayhawk Meeting/Event Room &#8211; Orientation Info Fair
+	KU History Displays, Panels and Class Banners
+	KU Unions Marketing Office
+	KU Women’s Hall Of Fame
+	Parlors Meeting/Event Space (A-C) &#8211; Orientation Hospitality Room
+	Regionalist Meeting/Event Room
+	Woodruff Auditorium &#8211; Orientation Meetings
+	Restrooms / Elevator
+East Entrance... Level 4
+ Level 4 lobby map
+	Main East Entrance / Lobby / access to Jayhawk Blvd.
+	Traditions Lounge
+	KU Info Desk
+	Main Lobby &#8211; Orientation Check-In and Check-Out
+	Hawk Shop Convenience Store
+	Roasterie Coffee® / Freshens Smoothie Bar
+	KU Card Center
+	Wheat Meeting/Event Room
+	Union Welcome Center / Box Office / KU IT &#8211; Walk-up Window
+	Union Programs Office / Student Union Activities Office
+	Kansas Union Art Gallery
+	Union Administrative / Event Services Office
+	Catering Office
+	Commerce Bank
+	Electronic Charging Stations
+	ATM&#8217;s, Elevator, Restrooms
+	Bus Stop on Jayhawk Blvd.(Temporarily Moved to West Side of Building on Mississippi St.)
+	Student Involvement and Leadership Center (SILC)
+	Meeting Rooms
+	Alderson Auditorium / Student Senate Chambers &#8211; Orientation Financial Aid Help Room
+	Access to Sabatini Multicultural Resource Center
+Dining... Level 3
+	The Market Food Court and Seating Area
+	KU Student Money Management
+	Impromptu Cafe
+	Elevator, Rest Rooms
+	Union Administration/Accounting/Human Resources Offices
+	Union IT
+	KJHK 90.7 FM
+	Panda Express ®
+	Media Mix
+	Alcove Meeting/Event Rooms A-G
+	South building exit; stair access to Jayhawk Blvd.
+KU Bookstore... Level 2
+	KU Bookstore
+	Shopping : KU Apparel/Gifts, School Supplies, Textbooks, Technology.
+	Tech Shop
+	Jayhawk Ink &#8211; Print on Demand, Shipping Services, Engraving Services and General Books
+	Jayhawk Ink Lounge
+	The Jayhawk Collection
+	Restrooms/Elevator
+	Access to level 4 of the parking garage (connecting walkway) &#8211; click here for parking info
+West Entrance... Level 1
+	Access to Mississippi St. (Main West Entrance)
+	Baumgartner Outdoor Terrace
+	Electronic Charging Stations
+	Historical Items (visit KUHistory.com for more info)
+	Hawks Nest (meeting area)
+	Restrooms / Elevator
+	Tunnel Below Miss. St. to Spencer Museum of Art and Parking Lot
+	Temporary Bus Stop while Jayhawk Blvd. is under construction
+	Coming Soon &#8211; &#8216;The Jay&#8217; and &#8216;The Spare Room&#8217;
+DeBruce Center
+1647 Naismith Drive Lawrence, KS 66045 Directory
+Courtside Café..., Level 1
+	Courtside Café
+Rules Concourse..., Level 2
+	Rules Concourse
+	Roasterie Coffee
+	Original Rules Gift Shop
+Mezzanine..., Level 3
+	Nutrition Center
+Jayhawk Central
+KU Edwards Campus, 12600 Quivira Rd., Overland Park, Kansas 66213 Map Directory
+	KU Bookstore
+	Lamar’s Donut and Coffee Shop
+	Meeting/Event Space
+	Outdoor Terrace
+	Sarpino’s Pizzeria
+		    Posted on 05-02-2016, 02:30PM
+		Visitor Links			Contact Event ServicesEmail Event Servicesphone: 785-864-4651 
+Event PlanningEvent Quick GuideRoom ReservationsRoom AvailabilityPoliciesDaily ScheduleDirectories & MapsKansas UnionEdwards CampusDeBruce CenterCatering
+phone: 785-864-2444Just One FrillPick-Me-Ups Order FormCatering Guide
+Parking InfoMississippi St. and Allen Fieldhouse / Burge Garage info
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

@@ -1,0 +1,63 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+The Student can call the appropriate number anytime between 6:00 a.m. to 5:00 p.m. Mon. &#8211; Fri., Sat. &amp; Sun. from 9:00 a.m. &#8211; 5:00 p.m. The phone numbers given will have voicemail capabilities IF by chance a staff person does not pick-up right away. Please leave your information on the voice mail.
+Students living on Daisy Hill (McCollum, Ellsworth, Hashinger, Lewis &amp; Templin or in Jayhawker Towers) contact Mrs. E’s Dining Center at 785-864-2261.
+Students living in Oliver Hall, please call Oliver Dining Center at 785-864-4087.
+Students living in GSP or Corbin Halls, please call North College Café at 785-864-3120.
+Option 1: Suggested for first 24-48 hours of flu-like symptoms:
+	2 &#8211; cans of clear soup or broth
+	3 &#8211; pkgs. saltine crackers
+	2 – hot tea bags
+	1 &#8211; can of Sprite
+	2 – apple juice
+	2 – 12 oz. bottled water
+	2 – gelatin cups
+	2 KFS sets/a few napkins/ 2 paper hot cups/ 8 oz. disp. bowl
+Option 2: Suggested for after fever subsides-3rd-4th day:
+	2 – cans of soup
+	1 – pkg. oatmeal or Cream of Wheat
+	3 &#8211; pkgs. saltine crackers
+	1 – banana
+	1 – cup steamed rice
+	2 – slices bread
+	4 – pkgs. peanut butter
+	1 – turkey sandwich w/ cheese (1- mayo &amp; 1- miracle whip)
+	2 – hot tea bags
+	2 – Packets of sugar
+	1 – pudding cup or gelatin cup
+	2 – fruit juices
+	2 – 12. oz. bottled water
+	2 – KFS set/napkins/ 2 paper hot cups/ 8 oz. disp. bowl
+Do you need medical help?
+If you suspect the flu and feel you need medical attention, please contact University Health Services. http://www.studenthealth.ku.edu/ or (785) 864-9500.
+Cheryl Wiley
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

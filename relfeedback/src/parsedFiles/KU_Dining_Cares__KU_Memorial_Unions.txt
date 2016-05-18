@@ -1,0 +1,44 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+			A Jayhawk’s Guide to Eating Well on Campus Visit our website, KUDining.com, and use our NetNutrition tool for nutritional information on the foods you enjoy on campus. Have it your way! If you need adjustments made to the food offerings at any of our dining locations, just ask. Our staff is glad t... read more
+  		  Food Safety
+          February 5th, 2016 We take food safety and sanitation practices seriously. Supervisors, chefs and lead cooks are certified in ServSafe®, a nationally recognized food safety program through the National Restaurant Association. Certification requires attendance at an eight-hour training and successfully passing an exam... read more
+  		  Vegan and Vegetarian Options
+          October 1st, 2015 One of KU Dining Services’ long-term goals is to increase the number of dining options available to our vegan and vegetarian diners. Here is some information you may not have known about our efforts: KU Dining Services prepares our vegan and vegetarian menu options with integrity. Our professional... read more
+  		  KU Dining Cares about Every Customer&#8217;s Needs
+          September 17th, 2015 Got Food Allergies? We’re here for YOU! KU Dining offers a variety of well-balanced, nutritional food options at every campus dining location. We can accommodate students with special diet, food allergy and/or general nutrition advice and assistance. Go to union.ku.edu/dining/wellness/special-diet... read more
+  		  KU Dining Cares
+          June 1st, 2015 FOOD Quality food made with quality ingredients Prepared with the guests and their needs in mind – concentrating on allergens and nutrition Hundreds of choices each day to meet the ever changing needs of our guests’ tastes People We strive to give each guest a personal experience We offer educat... read more1
+2
+Next &raquo;                 
+Cheryl Wiley
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

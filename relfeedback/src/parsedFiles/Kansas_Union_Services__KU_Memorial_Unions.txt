@@ -1,0 +1,187 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+Kansas Union Welcome Center/Box Office:
+"  >
+Kansas Union Welcome Center/Box Office:
+Located on Level 4, the main level of the Kansas Union, this is the place to inquire about all things Union.
+	Visit the Welcome Center Page
+	Our staff has information about Union services, jobs (we employ over 550 students each year) and upcoming events.
+	Tickets for all SUA-sponsored concerts, lectures, and events can also be picked up here.
+	The Union Social Media Outpost offices out of this location as well.
+	Won a prize for a Union-sponsored contest? You&#8217;ll pick it up at the Union Welcome Center.
+KU Memorial Unions Administrative Offices/Meeting Room Reservations
+"  >
+KU Memorial Unions Administrative Offices/Meeting Room Reservations
+	Here you&#8217;ll find staff that oversee Event Services, KU Catering Services, and Union Maintenance Department.
+	Learn more about Making a Reservation.
+	Students and faculty can reserve spaces for free.
+	The Kansas Union offers meeting rooms and catering services that can accommodate 2-500.
+	Check out KU Event Services event spaces.
+	To contact staff about reserving space or reporting maintenance concerns: 785.864.2419.
+Union Programs/Student Union Activities (SUA)
+"  >
+Union Programs/Student Union Activities (SUA)
+	Located on Level 4, this office plans and hosts many campus events, including concerts, lectures, free movies, and weekly Tea at Three.
+	Check out the KU Union Programs Web page.
+	To contact SUA, call 785-864-7469.
+KU Memorial Unions HR Department
+"  >
+KU Memorial Unions HR Department
+	Offering full, part-time and student internship positions.
+	Visit the Human Resources Web Page
+	Student jobs in KU Dining, KU Bookstore, KU Marketing Department and KU Event Services.
+	Working at the Unions is not dependent upon student need/work study.
+	Check out KU Memorial Unions jobs / positions.
+	Contact our HR Department at 785-864-2450.
+KU Dining Administration
+"  >
+KU Dining Administration
+	Located on Level 3 of the Kansas Union
+	Here you can change your residential dining plan, add resources to your KU Cuisine Cash Card and get assistance with managing special dietary restrictions with our registered dietitian.
+	Contact us at 785-864-2419
+KJHK 90.7 FM and Media Mix
+"  >
+KJHK 90.7 FM and Media Mix
+	Located on Level 3.
+	KJHK is our award-winning college radio station that operates 24/7 and is managed completely by student staff.
+	Media Mix captures special moments on campus via dynamic video all captures and produced by students.
+	Visit KJHK.org
+	KJHK Studios Office: 785-864-4745
+	KJHK Administrative Office: 785-864-4848
+	KJHK General Manager’s Office: 785-864-2422
+Other Services:
+	Bus Ads Submission &#8211; Level Five Marketing Room 507
+	Union Student Art Gallery, Level 4
+	Union Marketing/Public Relations Office, Level 5
+	Commerce Bank, Level 4
+	ATMs, outside alcove, Level 4
+	KU Card Center, Level 4
+	KU Info, Level 4
+	KU Student Money Management Center, Level 3
+	SILC&#8211;Student Involvement and Leadership Center, Level 4
+	KU Student Senate Office, Level 4
+Services Alphabetical List
+"  >
+Services Alphabetical List
+&nbsp;
+	ATM &#8211; Southeast Entrance &#8211; Level Four
+	Bus Route Map &#8211; Union Programs Office &#8211; Level Four
+	Bus Ads Submission &#8211; Level Five Marketing Room 507
+	Commerce Bank &#8211; Level Four
+	Computer Lab &#8211; Level Three
+	Hawk Shop Convenience Store &#8211; Level Four
+	Information
+	Emergency School Supplies
+	Magazines
+	KU Items
+	Beverages
+	Postcards
+	Food and snacks
+	Health and Beauty Aids
+	Human Resources &#8211; Level Three
+	Impromptu Café &#8211; Level Three
+	Jayhawk Collection &#8211; Levels Two and Four
+	Jayhawk Ink &#8211; Level Two
+	Copying
+	Shipping Services
+	Printing
+	Print-on-Demand
+	Document Binding
+	Engraving Services
+	The Jay &#8211; Level One
+&nbsp;
+	A freshly renovated space at the former Jaybowl site on level one of the Kansas Union, will be home to a 4,200 square foot event space to meet the growing campus need for a multi-purpose space that is easily customized.
+	Spare Room
+&nbsp;
+	KU Bookstore &#8211; Level Two
+	Bookstore Administration Offices
+	Calculators
+	Computer and Electronic Supplies
+	Fax Service
+	General Books
+	Graduation Regalia &amp; Supplies
+	Greeting Cards
+	Health and Beauty Aids
+	KU Merchandise
+	Magazines and Newspapers
+	Posters
+	School, Office &amp; Art Supplies
+	Software
+	Sundries
+	Snacks and Drinks
+	Stamps
+	Textbooks
+	KU Card Center &#8211; Level Four
+	KU Dining Services &#8211; Level Three
+	KU Dining Services Administration – Level Three
+	KU History Collection &#8211; Levels One-Six
+	KU Info &#8211; Level Four
+	Newspapers &#8211; Level Four (vending machines)
+	Panda Express® &#8211; Level 3
+	Reflection Room &#8211; Level 3 (meditation and prayer room for all faiths and denominations)
+	Roasterie Coffee® and Smoothies &#8211; Level Four
+	Student Design Center – Level five
+	Student Involvement &amp; Leadership Ctr. &#8211; Level Four
+	Student SenateStudent Organization offices Student Money Management Services &#8211; Level Three
+	Student Union Activities &#8211; Level Four
+	Telephone (campus use only) &#8211; Level four
+	Free Campus Phone
+	The Market
+	Boulevard Grill®
+	Brellas Sandwiches and Wraps
+	Garden Gourmet
+	Pizza Hut® Personal Pan Pizza
+	Serrano&#8217;s
+	Sweet Baby Jay&#8217;s
+	Sushi with Gusto!
+	The Press
+	Union Administration Offices &#8211; Level Four
+&nbsp;
+	Event Services
+	Room Reservations
+	Building Services
+	Union Director
+	Building Services Director
+	Catering Coordinator
+&nbsp;
+	Union Business Offices &#8211; Level Three
+	Accounts Receivable
+	Accounts Payable
+	Human Resources
+	Union IT
+	Union Gallery &#8211; Level Four Union Marketing Services &#8211; Level Five
+	Union Personnel Offices &#8211; Level Three
+	U.S. Postal Box &#8211; Level Four
+	Water Bottle Fountains &#8211; 3 of them on Level Four
+	Water Bottle Fountain (Filtered) &#8211; Level 2 near Restrooms
+&nbsp;
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

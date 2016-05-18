@@ -1,0 +1,373 @@
+Search Jobs - Realize Your Potential: jayhawks
+        .location-field {
+            width: 206px;
+        }
+        .pac-container {
+            width: auto !important;
+        }
+        .country-drop {
+            width: 200px !important;
+        }
+        .postal-field {
+            width: 85px !important;
+        }
+    a {
+    color: #0051ba !important;
+    }
+    body {
+    background-size: 100% auto;
+    color: #555555;
+    margin: 0px;
+    }
+    .userBar .links a.CsLinkButton {
+    width: auto !important;
+    }
+    #slides {
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+    }
+    #slides img{width: 100%;height: auto;}
+    .brdcrmhdr {
+    color: #0051ba;
+    }
+    .FieldValue {
+    color: #555555;
+    }
+    input.FieldValue{
+    color: ;
+    }
+    ul li a.CsLinkButton, #container4 a {
+    color: #0051ba !important;
+    }
+    ul li a.CsLinkButton:hover {
+    color: #777 !important;
+    }
+    .user {
+    color: #0051ba;
+    display: block;
+    float: left;
+    margin:0;
+    padding-bottom: 0px;
+    padding-right: 10px;
+    padding-left: 0px;
+    padding-top: 5px;
+    text-transform: uppercase;
+    }
+    .userBar {
+    margin-bottom: 10px;
+    margin-top: 0 !important;
+    width: auto;
+    float: right;
+    }
+    .userBar .links {
+    width: auto !important;
+    float: left;
+    }
+    .userBar .FieldValue {
+    color: #FFFFFF;
+    }
+    #user {
+    }
+    #topBar {
+    background-color: #0051ba;
+    border-bottom: 5px solid #ccc;
+    float: left;
+    height: 75px; 
+    padding-top: 10px;
+   text-align: center;
+    width: 100%;
+    }
+    .userBar .links a.CsLinkButton{
+    color: #0051ba !important;
+    padding: 10px;
+    text-transform: uppercase;
+    }
+    .cs-atscs-jobdet-ltpane{
+    border-right: solid 1px #CCCCCC;
+    color: ;
+    float: left;
+    width: 250px;
+    position: relative;
+    z-index: 0;
+    }
+    .cs-atscs-jobdet-rtpane p {
+    color: ;
+    float: left;
+    margin: 0;
+    padding: 20px;
+    position: relative;
+    width: 96%;
+    z-index: 0;
+    }
+    .careerSite {
+    clear: both;
+    margin-top: 0px;
+    min-width: 700px;
+    padding: 0;
+    }
+    #container4 {
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+    .CsDialog a , .CsDialog   .FieldValue , .CsDialog_contentTable_content a {
+    color:  !important;
+    }
+    #ctl00_siteContent_widgetLayout_mainPageDiv.body {
+    color: #555555;
+    }
+    .cs-ats-login1  .brdcrmhdr {
+    }
+    .careerSiteFooter{
+    background-color: #0051ba;
+    clear: both;
+    float: left;
+    padding-top: 10px;
+    width: 100%;
+    }
+   .careerSiteFooter a {
+    color: #AAA !important;}
+    #ctl00_careerSiteFooter_htmlContainer {
+    width: 100%;
+    margin:auto;
+    max-width: 1800px;
+    border-top: solid 1px #5f8ac2;
+    margin-top: 10px;
+    padding-top: 10px;
+    }
+    .careerSiteFooter #links.kumu {
+    background-image: url("http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/images/kumu-stacked-logo.png");
+    background-repeat: no-repeat;
+    background-size: 130px 119px;
+    background-postion: left 0;
+    float:right;
+    line-height: 1.2em;
+    min-height: 124px;
+    margin-right: 10px;
+    padding-left: 150px;
+    padding-top: 5px;
+    width: auto;
+    }
+    .careerSiteFooter #links.kumu #content {
+    border-left: 1px solid #5f8ac2;
+    color: #FFF;
+    font-size: 1.1em;
+    padding-left: 5px;
+    float: left;
+    }
+    .careerSiteFooter #links.kumu .logo {
+    float: left;
+    width: 135px;
+    height: 119px;
+    display: block;
+    }
+    .cs-tracker-container .FieldValue , .cs-atscs-prof-cont-myprof .FieldValue , .cs-tracker-container .FieldValue a , .cs-atscs-prof-cont-myprof .FieldValue a{
+    color: ;
+    }
+    #mainContainer  .widgetToMove {
+    background-image: url(http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/images/trans-nav.png);
+    }
+  #csod-viewport a{
+   color: #555555 !important;
+   }
+							Create a Profile|Log In
+			&nbsp;
+                Yes
+                No
+        Show Details	
+    .cs-JOBSRC-box {
+        display: inline-block;
+        padding: 2px 5px 2px 0;
+        vertical-align: top;     
+        zoom: 1;
+    }
+    .cs-JOBSRC-box > input {
+        margin: 7px 5px 5px 0;
+        display: inline-block;
+    }
+    #dir-rtl .cs-JOBSRC-box {
+        display: inline-block;
+        padding-right: 5px;
+        vertical-align: top;
+        margin: 7px 0 5px 5px;
+    }
+    #dir-rtl .PopupSelect {
+        float: none !important;
+    }
+    .PopupSelect .text {
+        font-size: 12px;
+        padding: 0 0 0 2px;
+        font-family: Arial;
+    }
+    .cs-ats-jb-srch-lnks {
+        color: #999;
+    }
+		.cs-ats-jb-srch-lnks span:before {
+				margin: 0 2px;
+		}
+    .map {
+        height: 500px;      
+        width: 100%;
+        margin: 10px 0;
+    }
+    .results-table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        text-align: left;
+        color: #4c4c4c;
+        width: 100%;
+        margin-bottom: 6px;
+    }
+        .results-table th {
+            color: #fff;
+            background-color: #5e5e5e;
+            border: 1px solid #ababab;
+        }
+            .results-table th a {
+                color: #fff !important;
+                display: inline-block;
+                background: url(../../images/icon/sort_icon.png) center right no-repeat;
+                padding-right: 10px;
+            }
+        .results-table td {
+            border: 1px solid #d9d9d9;
+        }
+        .results-table th,
+        .results-table td {
+            padding: 0.6em 0.9em;
+        }
+    .results-paging {
+        text-align: right;
+    }
+    .pinpoint-large-text {
+        z-index: 1;
+        color: white;
+        font-weight:bold;
+    }
+    .cso-link-to-share {
+        width: 100%;
+        height: 48px;
+    }
+' + facilityAddressLine1Line2 + '' + facilityAddressCityStateZip + '');
+                }
+                else
+                {
+                    marker = CreateMarker(id, latitude, longitude);
+                    marker.setKey(id);
+                    marker.addExtraField('count', 1);
+                    marker.setInfoContentHTML('' + jobtitle + '' + facilityAddressLine1Line2 + '' + facilityAddressCityStateZip + '');
+                    // add POI to the map's default shape collection
+                    map.addShape(marker);
+                    markers.push(marker);
+                }
+            });
+        }
+        map.bestFit();
+    }
+    function CreateMarker(id, latitude, longitude)
+    {
+        var marker;
+        var icon;
+        if (id.length 
+	Full Time Openings
+		' + facilityAddressLine1Line2 + '' + facilityAddressCityStateZip + '');
+                }
+                else
+                {
+                    marker = CreateMarker(id, latitude, longitude);
+                    marker.setKey(id);
+                    marker.addExtraField('count', 1);
+                    marker.setInfoContentHTML('' + jobtitle + '' + facilityAddressLine1Line2 + '' + facilityAddressCityStateZip + '');
+                    // add POI to the map's default shape collection
+                    map.addShape(marker);
+                    markers.push(marker);
+                }
+            });
+        }
+        map.bestFit();
+    }
+    function CreateMarker(id, latitude, longitude)
+    {
+        var marker;
+        var icon;
+        if (id.length 
+	Part Time Openings
+		' + facilityAddressLine1Line2 + '' + facilityAddressCityStateZip + '');
+                }
+                else
+                {
+                    marker = CreateMarker(id, latitude, longitude);
+                    marker.setKey(id);
+                    marker.addExtraField('count', 1);
+                    marker.setInfoContentHTML('' + jobtitle + '' + facilityAddressLine1Line2 + '' + facilityAddressCityStateZip + '');
+                    // add POI to the map's default shape collection
+                    map.addShape(marker);
+                    markers.push(marker);
+                }
+            });
+        }
+        map.bestFit();
+    }
+    function CreateMarker(id, latitude, longitude)
+    {
+        var marker;
+        var icon;
+        if (id.length 
+	Search Jobs
+	.ui-multiselect span{
+		zoom:1;
+	}
+All Employment TypeFull TimePart Time
+				Advanced Search
+			 | 
+				Create Job Alert
+				Create Job Alert
+			.cs-ats-crt-jb-alt table {
+				border: 0;
+				border-collapse: collapse;
+				margin: 0;
+				padding: 0;    
+			}
+			.cs-ats-crt-jb-alt .error {
+				display: block;
+				margin-top: 2px;
+			}
+			.cs-ats-crt-jb-alt label,
+			.cs-ats-crt-jb-alt input {
+				display: inline-block;
+				vertical-align: middle;
+			}
+			.cs-ats-crt-jb-alt input[type="text"] {
+				min-width: 300px;
+			}
+			.cs-ats-crt-jb-alt input[type="radio"] {
+				margin: 0 2px;
+				/* IE */
+				*height: 13px;
+				*width: 13px;
+			}
+			.cs-ats-crt-jb-alt label {
+				margin-right: 10px;
+			}
+			.cs-ats-crt-jb-alt div {
+				margin-top: 10px;
+			}
+			.cs-ats-crt-jb-alt div:first-child {
+				margin-top: 0;
+			}
+			Job alerts are sent when job opportunities that match your search criteria become available.
+					What would you like to title your Job Alert?
+					How often would you like to be notified of new opportunities?
+					DailyWeekly
+				Create
+				Share Search
+                    This link will load the career site and automatically perform a search with the same crieria that were just entered.
+                	Done
+KU Memorial Unions | union.ku.edu
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Human Resources:  (785)-864-2450 | unionhr@ku.edu
+

@@ -1,0 +1,101 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+            Chocolate blackout cake with caged berries&#8230;
+            KU Catering : Quinoa Appetizer
+            KU Catering : Fennel Salad
+Our professional catering staff can make your event!With years of experience, great choices and great facilities, we can provide you with an unequaled catered experience.
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringguide.php',{pageid:jQuery("#pageid").val()},
+	      		function (output){
+			  	jQuery('#cateringguide').html(output).show();
+			  	jQuery('#delete_me_spinner2').remove();
+				jQuery('#cateringlinks').css({'display':'none'});
+ 				jQuery('#ctrgaboutblocks').css({'display':'none'});
+ 				 });
+ 				 }
+VIEW ONLINE CATERING GUIDE
+						Commencement 2016
+						Commencement 2016
+						Just One Frill
+						Just One Frill
+						Pick-me-ups
+						Pick-me-ups
+				Commencement 2016
+Make your graduation reception plans easy!
+The Kansas Union is offering their private meeting rooms at no cost to graduates of the 2016 class with purchase of a reception package from KU Catering. With convenient access to the parking garage and Memorial Stadium, the Union is the ideal spot to hold your reception. Our catering department has put together pre- and post-ceremony reception and lunch packages. Let other families fight for parking and restaurant reservations. You’ve done the hard work of earning your degree; take the easy route to planning your party.
+Commencement 2016 KU Catering Reception Package Order Form
+Please take advantage of our new KU Catering reception PDF order form to help plan your Commencement event at the Kansas Union. The form (click to download) includes functionalities that add convenience and usability for our guests: &#8220;Submit Form&#8221; button. This function automatically prepares an email document containing your catering selections as a PDF. Simply download and complete the form and hit &#8220;Submit Form&#8221; (upper right-hand corner, on the purple bar). The form is programmed to generate a new email using your own software (Microsoft Outlook, Apple Mail, etc.) by default; however, you have the option to simply save the form (see below) if you do not want to use this method.
+Save capability The form can be saved to your computer with all selections intact. Saved, custom PDFs such as these are beneficial in saving time preparing your order.
+You may also always fax your order to 785-864-5030. If you have any questions about the ordering process, please do not hesitate to contact KU Catering Coordinator Whitney Fox.Just One Frill
+Just One Frill: Simply. Great. Food. For the times when all you need is the food, this menu offers soups, salads, hot entreés and any extras you might want. All prices are à la carte so you can customize your order to fit the event. No attendants will remain with the meal and we won´t be back to pick-up or clean-up. The only frill is the great food!
+Feel free to peruse our menu (PDF download).
+To order, please call 864.2444 or email us. If you´re looking for inexpensive breakfast options, check out our Pick-Me-Ups menu.
+Pick-me-ups
+KU Dining Services has the perfect &#8220;pick me up&#8221; for your next meeting or office gathering!Introducing Pick-Me-Ups, our newest guest services innovation. Purchase any one of our crowd-pleasing, wallet-friendly snack trays or Roasterie® coffee totes and be the star of your next faculty or campus group get-together.
+PLACE YOUR ORDER ONLINE!
+Pick-me-ups MenuPick-Me-Ups FAQ
+Bagel Tray ~ $15.25
+A dozen assorted bagels including plain, blueberry and cinnamon raisin and cream cheese singles.
+Fruit Danish Tray ~ $12.50
+A dozen assorted Danish including cheese, apple, and cherry.
+Otis Spunkmeyer Tulip Muffins ~ $15.25
+Eight of the traditional favorites including Apple Cinnamon, Berry Whole Grain, Blueberry Crumb and Chocolate Chunk Supreme.
+Cookie Tray ~ $12.25
+18 assorted decadent cookies – perfect for sharing (or not!) fresh baked when you order!
+Coffee on the Go ~ $14.50
+One gallon of our own Roasterie Signature Blend, regular or decaf, with all the necessary accessories for your group.
+Soda  ~ $1.65/each
+Assorted Coca-Cola® products. Choose from Classic Coke®, Diet Coke®, Sprite® 20oz bottles.
+Water  ~ $1.55/each
+Dasani® 20oz bottles.
+ Pick-Me-Ups FAQ
+ How do I order Pick-Me-Ups?
+	Online through our new reservation ordering system. Please note this is simply a reservation &#8211; one of our employees will contact to confirm details of your order and arrange payment. Orders are not considered &#8220;final&#8221; until confirmation via email or phone.
+	A short order form available at Pick-Me-Ups locations (Kansas Union Roasterie® Coffee, Mortar &#038; Pestle in the Pharmacy Building, and Jay Break in the Engineering Commons at the Leep2 Building).
+	Place order with Whitney Fox, catering coordinator, by 3pm for next day pick up. Whitney can be contacted at 864-2444 or by email at wlfox@ku.edu.
+	Pick Me Ups are only available during regular Roasterie® business hours. Orders must be placed Monday – Friday between 8:00am and 4:00pm.
+Can I order Pick-Me-Ups directly at the Roasterie® counter?
+	Of course! At our Pick-Me-Ups location (Kansas Union Roasterie®), simply consult with a Roasterie® employee to fill out an order form.
+	Provide all necessary information including department if you would like to charge it to a departmental account.
+	If the pick up is for the same day, please allow 2 hours in order to make and package the products.
+	If the pick up is for the next day, please provide a preferred time of pick up.
+	If it is not a departmental charge, payment is due at the time of pick up.
+Can I order Pick-Me-Ups from the Underground Roasterie®?
+	Unfortunately, the Underground Roasterie® is not currently a Pick-Me-Ups location. The Underground employees will direct you to the Roasterie® location nearest to your event.
+Can I get a coffee tote at any Roasterie® location?
+The new one gallon coffee tote is now a permanent offering at any one of our four Roasterie® locations. You may order the coffee tote in your favorite Roasterie coffee blend. Payment is due at the time of pick up.
+&nbsp;
+Contact Us!Catering Coordinator Whitney Fox (785-864-2444)
+Catering Manager Robert Pierrelee (785-864-2400)
+Years of experience.With our professional staff, great choices and great facilities, we can provide you with an unequaled catered experience.
+Professional and FlexibleFirst visit with our catering coordinator Whitney Fox to come up with the plans for your event. Then sit back while Catering Manager Robert Pierrelee and his staff do their magic and make your event memorable.
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

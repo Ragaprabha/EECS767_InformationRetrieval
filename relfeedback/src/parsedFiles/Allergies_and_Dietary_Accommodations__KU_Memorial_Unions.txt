@@ -1,0 +1,101 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+Allergies and Dietary Accommodations for Medical and Religious Reasons
+KU Dining Services provides dietary accommodations for medical or religious reasons. If you have specific questions or concerns, please contact the KU Dining Services registered dietitian, Christine Ebert, at cmebert@ku.edu or 785-864-2424.
+You may also wish to register with the Academic Achievement &#038; Access Center
+785-864-4064 Fax: 785-864-2817 or achieve@ku.edu should you find your dietary needs require specialized accommodation.
+Did you Know?
+40+ members of our leadership team have received a certificate from AllerTrainU in managing food allergens and gluten.
+This certification is approved by FARE (Food Allergy Research and Education). ...read more
+        ...read less
+		AllerTrain U™ provides a clear understanding of food allergies, intolerances and sensitivities, celiac disease and other special dietary needs of college and university students and offers best practices for food allergen and gluten-free food service management.
+The Procedure for Allergies and Dietary Accommodations for Medical and Religious Reasons is as follows:
+1. The KU Dining Services registered dietitian* will meet with the student and/or parent(s) to discuss the student’s specific dietary needs. At this meeting:
+	The KU Allergies and Dietary Accommodations Request Form will be discussed and completed. Please be sure to bring your documentation from your medical doctor concerning your food allergy. Please click here to download a PDF of the required documentation &#8220;Medical Statement for Students Requesting Dietary Accommodations for Medical Reasons.&#8221; Copies of the completed KU Allergies and Dietary Accommodations Form will be sent to all residential dining centers.
+	Net Nutrition, the online nutritional analysis program, will be explained. This program provides a convenient method to calculate the approximate nutritional values of food selections from various KU campus dining locations. The KU community can access this service through www.kudining.com and be able to identify and flag their particular allergen(s). The program then filters out the menu item(s) that contain the flagged allergen.
+2. After this initial meeting, KU Dining Services registered dietitian* will:
+	Contact the management team of the dining center that the student will frequent most often and inform them of the student’s specific dietary accommodations.
+	Coordinate a meeting with the student and the dining center manager* as soon as the student arrives on campus at the start of the semester.
+3. At the initial meeting between the student and the dining center manager*, the dining center manager* will:
+	Review the KU Allergies and Dietary Accommodations Request From.
+	Take the student on a tour of the dining center. This tour will include food storage and production areas, service and self-access locations for specialized foods and equipment and will highlight areas of concern for the specific diet concern.
+	Introduce the student to other members of the dining center management team. This will ensure the student is familiar with whom to ask questions.
+	Identify specialized signage and location of signage for menu and/or ingredient alerts.
+	Review the instructions on the use of Net Nutrition.
+	Answer any questions/concerns the student may have.
+4. After the initial meeting between the student and the dining center manager*:
+	The dining center manager* will inform the dining center staff of the dietary accommodations.
+	KU Dining Services is committed to providing updated and ongoing training to our staff to safely prepare and serve foods to students with special dietary needs.
+	On request from the student:
+	The dining center manager* will provide recipe information and ingredient/ label information to the student.
+	The dining center manager* will be available throughout the semester to assist the student with any questions/concerns.
+KU Dining Services registered dietitian* will contact the student periodically throughout each semester to ensure the student’s dietary needs are being fulfilled. If the student has concerns or issues, the student, dining center manager* and the KU Dining Services registered dietitian* will work together to address the concerns and agree on a resolution.
+YOU do, in partnership with KU Dining Services, to have a fulfilling dining experience?"  >What can YOU do, in partnership with KU Dining Services, to have a fulfilling dining experience?
+	Know your allergy.  Choose menu items that you know are safe with your specific food restriction.  If in doubt, ask!  We are always happy to show you labels or recipes.  The KU Dining Services Staff have many talents but we cannot read your mind!
+	Be your own advocate.
+	Don’t be shy to create relationships with KU Dining Services Staff.  This will help make your dining experience less stressful. We are here to help you and we look forward to working with you.  We believe that by working together we can help you develop your knowledge about the menu items that fit your food restriction.
+	Use Net Nutrition.
+	Review the menu items served at the dining center before you arrive.
+	Please realize if you need to have a special menu item prepared, it will take extra time.  Please plan accordingly.
+	Until you become familiar with the menu items and dining center, coming at less busy times is optimal.
+&nbsp;
+In the case of an allergic reaction while in the dining center:
+The KU Dining Services procedure is to contact 911 immediately and request medical assistance.  Following an incident, the dining center manager* will inform the Director and Assistant Director of Dining as well as the Director of Housing.  When the timing is appropriate, the dining center manger* or KU Dining Services registered dietitian* will follow up with that student to check on their situation and well-being.
+Please recognize…..
+KU Dining Services is committed to providing an allergy friendly dining experience.  However, the ingredients and nutritional content of food items served in the campus dining locations may vary. In addition, manufacturers may change their product formulation or consistency of ingredients without our knowledge, and product availability may fluctuate. While we make every effort to identify ingredients, we cannot assure against these contingencies. It is ultimately YOUR responsibility to determine whether to question ingredients or eat selected foods. KU Dining Services cannot guarantee the safety of students with life-threatening allergies.
+*or designate
+Download a PDF of this information
+'Feel Better' mealsDo you need medical help? 
+If you suspect the flu and feel you need medical attention, please contact University Health Services. http://www.studenthealth.ku.edu/ or (785) 864-9500. Download PDF content.  Or visit the &#8220;Feel Better&#8221; Meals page.
+Using netNUtrition you can screen KU Dining Services menus for these allergens
+Net Nutrition Page
+Fish/Shellfish
+Tree Nuts
+Peanuts
+Eggs
+Dairy
+Soy/Bean Oil
+Wheat/Gluten
+Coconut
+Corn Syrup
+Food Color
+Caramel Color
+Honey
+Sulfite
+Garlic
+Pork
+Nitrites
+MSG
+Beef
+Poultry
+Cheryl Wiley
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

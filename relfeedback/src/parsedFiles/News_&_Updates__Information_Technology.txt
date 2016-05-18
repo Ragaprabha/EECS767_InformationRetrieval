@@ -1,0 +1,490 @@
+      News &amp; Updates | Information Technology
+@import url("http://technology.ku.edu/modules/system/system.base.css?o6kacu");
+@import url("http://technology.ku.edu/modules/system/system.menus.css?o6kacu");
+@import url("http://technology.ku.edu/modules/system/system.messages.css?o6kacu");
+@import url("http://technology.ku.edu/modules/system/system.theme.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/ku_template_2012_3col/css/base.css?o6kacu");
+@import url("http://technology.ku.edu/modules/aggregator/aggregator.css?o6kacu");
+@import url("http://technology.ku.edu/modules/comment/comment.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/date/date_api/date.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o6kacu");
+@import url("http://technology.ku.edu/modules/field/theme/field.css?o6kacu");
+@import url("http://technology.ku.edu/modules/node/node.css?o6kacu");
+@import url("http://technology.ku.edu/modules/search/search.css?o6kacu");
+@import url("http://technology.ku.edu/modules/user/user.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/views/css/views.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/ckeditor/css/ckeditor.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/ctools/css/ctools.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/ku/ku_whyku/theme/ku-whyku-3col.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/ku/ku_today/theme/ku-today.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/ku/ku_static/theme/ku-static.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/alpha/css/alpha-reset.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/alpha/css/alpha-mobile.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/alpha/css/alpha-alpha.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/formalize.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-text.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-branding.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-menu.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-forms.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-visuals.css?o6kacu");
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                Information Technology
+                                        connect. communicate. collaborate.
+      Search form
+  Search 
+      Home
+AccountsPersonal Accounts
+Departmental Accounts
+KU Distribution/Group Lists
+Web Accounts
+EmailKU Email
+Outlook Web Access
+Mobile
+Departmental Email
+Mailing Lists
+Spam
+WirelessWi-Fi Overview
+Configure Wi-Fi
+Wi-Fi Expansion
+Wi-Fi When Traveling
+Computer LabsComputer Labs Overview
+Lab Locations
+Find Software
+Lab Policy
+Reserve a Lab
+Printing & Copying Info
+SoftwareOverview
+Microsoft Office
+Antivirus
+Virtual Lab
+KU Web Store
+ServicesOverview
+Print, Copy & Scan
+SecuritySecurity Overview
+Consulting & Assessment
+Help with Firewalls
+Security Training
+Email Security
+IT Security Incident Survey
+Contact ITSO
+Phishing
+Antivirus Software
+Storage
+Voice
+Internet & Network
+Video
+Client Consulting
+Projects
+Office of CIOWelcome
+About KU ITLeadership
+Employee Kudos
+Publications
+SustainabilitySustainability Overview
+Power Management
+Useful Sustainability Links
+eWaste Recycling
+CIO Messages
+Price Computing Center
+UpdatesAlerts
+News & Updates
+HelpTechnology Support - Students
+Faculty & Staff
+Classroom Support
+Knowledge Base
+Training
+New2KU &raquo
+Lync Overview
+How do I get Lync?
+Using Lync
+Lync FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync 2013
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice &  Video
+Online Meetings
+Online Meetings for Presenters
+Online Meetings for Attendees
+Collaboration
+Recording
+Tips & Tricks
+Lync Tips & Tricks
+myCommunity Overview
+Outlook 2013 OverviewOutlook 2013 – Getting Started
+Email at KU
+Add a Delegate
+Calendar Sharing
+Calendar Views
+Contacting Groups
+Contacts
+Create a Meeting
+Create an Appointment
+Create Recurring Meetings
+Edit a Scheduled Meeting
+Email Views
+Folders
+Out-of-office message
+Respond to a Meeting Request
+Scheduling Assistant
+Search
+Signatures
+Media Production Studio
+Equipment Checkout
+Recording Resources
+Editing Resources
+Workshops & Training
+Drop-off Services
+MPS Staff
+Skype for Business 2015
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice
+Skype for Business Phone Service &raquo;
+Video
+Online Meetings for Presenters
+Online Meetings for Participants
+Collaboration
+Recording
+Tips & Tricks
+Skype for Business OverviewSkype for Business Overview
+Get Skype for Business
+Using Skype for Business
+Skype for Business FAQs
+Recommended Devices
+Skype for Business - Phone Service
+Support & Troubleshooting
+Using Lync (Mac)Lync for Mac
+Getting Started
+Presence
+Contacts & Groups
+Instant Messaging
+Privacy
+Voice & Video
+Online Meetings
+Collaboration
+Lync Phone Service (Mac)
+Skype for Business Phone Service (PC)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for PC UsersCall Control Options
+Call Ringing Options
+Forwarding Calls
+Simultaneous Ring
+Instructions for Enabled PhonesChange Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync Phone Service (Mac)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for Mac UsersCall Control Options
+Change How Calls Are Answered
+Instructions for Enabled PhonesCall Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+      MenuHome
+AccountsPersonal Accounts
+Departmental Accounts
+KU Distribution/Group Lists
+Web Accounts
+EmailKU Email
+Outlook Web Access
+Mobile
+Departmental Email
+Mailing Lists
+Spam
+WirelessWi-Fi Overview
+Configure Wi-Fi
+Wi-Fi Expansion
+Wi-Fi When Traveling
+Computer LabsComputer Labs Overview
+Lab Locations
+Find Software
+Lab Policy
+Reserve a Lab
+Printing & Copying Info
+SoftwareOverview
+Microsoft Office
+Antivirus
+Virtual Lab
+KU Web Store
+ServicesOverview
+Print, Copy & Scan
+SecuritySecurity Overview
+Consulting & Assessment
+Help with Firewalls
+Security Training
+Email Security
+IT Security Incident Survey
+Contact ITSO
+Phishing
+Antivirus Software
+Storage
+Voice
+Internet & Network
+Video
+Client Consulting
+Projects
+Office of CIOWelcome
+About KU ITLeadership
+Employee Kudos
+Publications
+SustainabilitySustainability Overview
+Power Management
+Useful Sustainability Links
+eWaste Recycling
+CIO Messages
+Price Computing Center
+UpdatesAlerts
+News & Updates
+HelpTechnology Support - Students
+Faculty & Staff
+Classroom Support
+Knowledge Base
+Training
+New2KU &raquo
+Lync CommunicationsLync Overview
+How do I get Lync?
+Using Lync
+Lync FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync 2013
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice &  Video
+Online Meetings
+Online Meetings for Presenters
+Online Meetings for Attendees
+Collaboration
+Recording
+Tips & Tricks
+Lync Tips & Tricks
+Lecture Capture
+myCommunity MenumyCommunity Overview
+Outlook 2013Outlook 2013 OverviewOutlook 2013 – Getting Started
+Email at KU
+Add a Delegate
+Calendar Sharing
+Calendar Views
+Contacting Groups
+Contacts
+Create a Meeting
+Create an Appointment
+Create Recurring Meetings
+Edit a Scheduled Meeting
+Email Views
+Folders
+Out-of-office message
+Respond to a Meeting Request
+Scheduling Assistant
+Search
+Signatures
+Digital Signage
+Media Production StudioMedia Production Studio
+Equipment Checkout
+Recording Resources
+Editing Resources
+Workshops & Training
+Drop-off Services
+MPS Staff
+Skype for Business TrainingSkype for Business 2015
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice
+Skype for Business Phone Service &raquo;
+Video
+Online Meetings for Presenters
+Online Meetings for Participants
+Collaboration
+Recording
+Tips & Tricks
+Skype for Business MainSkype for Business OverviewSkype for Business Overview
+Get Skype for Business
+Using Skype for Business
+Skype for Business FAQs
+Recommended Devices
+Skype for Business - Phone Service
+Support & Troubleshooting
+Using Lync (Mac)Lync for Mac
+Getting Started
+Presence
+Contacts & Groups
+Instant Messaging
+Privacy
+Voice & Video
+Online Meetings
+Collaboration
+Lync Phone Service (Mac)
+Skype for Business Phone Service (PC)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for PC UsersCall Control Options
+Call Ringing Options
+Forwarding Calls
+Simultaneous Ring
+Instructions for Enabled PhonesChange Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync Phone Service (Mac)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for Mac UsersCall Control Options
+Change How Calls Are Answered
+Instructions for Enabled PhonesCall Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+Search
+      Search form
+  Search 
+            HomeUpdatesNews &amp; Updates  
+            05/02/16 - Semester Break System Maintenance
+        Below is a list of system maintenance that will occur during the break between Spring and Summer semesters.Read more about Semester Break System Maintenance
+            04/28/16 - Hawkdrive Access Has Been Restored
+        Issues accessing Hawkdrive have been resolved. If you continue to experience any problems with KU Information Technology services, please contact the KU IT Customer Service Center at 864-8080.
+Read more about Hawkdrive Access Has Been Restored
+            04/27/16 - Hawkdrive Access Has Been Restored
+        Issues accessing Hawkdrive have been resolved. If you continue to experience any problems with KU Information Technology services, please contact the IT Customer Service Center at 864-8080.
+Read more about Hawkdrive Access Has Been Restored
+            04/17/16 - KU Lawrence campus brief loss of internet connectivity
+        KU Lawrence campus had a brief loss of internet connectivity from approximately 9:50 pm to 10:00 pm on 4/17/16. If you continue to experience any problems with internet connectivity, please contact KU IT Customer Service Center at 864-8080.
+Read more about KU Lawrence campus brief loss of internet connectivity
+            Skype for Business phone service brings new era of communications to KU
+        With Skype for Business phone service, KU faculty and staff will use their computer to make and receive traditional phone calls via their KU work number.&nbsp;
+Read more about Skype for Business phone service brings new era of communications to KU
+            KU Students, Faculty &amp; Staff Get 1TB of Cloud Storage and Access to Office 365
+        KU students, faculty and staff now have 1TB of free cloud storage via OneDrive for Business and access to online versions of Microsoft Office products through Office 365 as part of a new service at KU called myCommunity.Read more about KU Students, Faculty &amp; Staff Get 1TB of Cloud Storage and Access to Office 365
+            Email upgrade at KU brings changes and improvements
+        Beginning on Tuesday, Aug. 11, KU Information Technology is upgrading the University’s email platform. This upgrade will not significantly change the Windows Outlook desktop client, but you will see improved design and new features in the Outlook Web App.Read more about Email upgrade at KU brings changes and improvements
+            Update to KU’s email sync service prompts alert message on mobile devices
+        On Thursday, June 18, we made a change to the service that allows KU students, faculty and staff to synchronize their KU email and calendars to smartphones and other mobile devices.Read more about Update to KU’s email sync service prompts alert message on mobile devices
+            Lync is helping to change how KU communicates. And, it&#039;s got a familiar new name.
+        Lync is now Skype for Business.Read more about Lync is helping to change how KU communicates. And, it&#039;s got a familiar new name.
+            Lync is changing to Skype for Business
+        Microsoft is changing Lync to Skype for Business. KU faculty, staff and students may begin seeing the change to Skype for Business beginning April 14.
+Read more about Lync is changing to Skype for Business
+            Do More with the myKU Portal
+        Your KU experience is filled with a wide range of websites and applications.Read more about Do More with the myKU Portal
+            Faculty and staff Adobe Creative Cloud subscriptions just $10 per year
+        Thanks to a new three-year licensing agreement with Adobe, KU faculty and staff can now purchase a home use subscription to Adobe Creative Cloud (Photoshop, InDesign, Illustrator, etc.) for just $10 per year. That’s a savings of more than 95% off the standard educational price of $240 per year.Read more about Faculty and staff Adobe Creative Cloud subscriptions just $10 per year
+            KU IT is Hiring: Learn Why KU is a Great Place to Work
+        Do you want to work in a dynamic, flexible environment where you can make a difference? At KU Information Technology, our employees support the University of Kansas in its mission to educate leaders, build healthy communities and make discoveries that change the world.Read more about KU IT is Hiring: Learn Why KU is a Great Place to Work
+            Personal Profiles Enhance Blackboard
+        As of Jan. 27, all KU Blackboard users can now create a Blackboard profile. If you haven't logged in since before Jan. 27, you’ll see a welcome screen with details about the new Blackboard profile found in the global navigation menu.Read more about Personal Profiles Enhance Blackboard
+            Now You Can Customize myKU Portal
+        Earlier this year we redesigned and added new functionality to the myKU portal. The changes we made were based on customer feedback about the portal, and since that time we’ve continued to gather customer feedback and make small changes in the portal to improve the user experience.Read more about Now You Can Customize myKU Portal
+            Apply to be IT Faculty Fellow and help guide academic technology at KU
+        KU Information Technology is seeking a tenured faculty member to serve as an IT Faculty Fellow. This person will help KU IT better understand faculty needs and provide guidance on innovative solutions to support the academic and research goals of all KU faculty.Read more about Apply to be IT Faculty Fellow and help guide academic technology at KU
+            Blackboard: New Look and New Features
+        We have upgraded Blackboard to the most recent version and added a number of new, exciting features and enhancements contained in four new modules to help instructors and students better manage their courses and provide a more interactive and engaging learning environment.Read more about Blackboard: New Look and New Features
+            New Features Coming to Blackboard
+        As part of our efforts to improve Blackboard, KU is introducing four new Blackboard modules: Collaborate Suite, Content Management, Community Engagement and Outcomes Assessment. We expect to launch Collaborate Suite this fall.Read more about New Features Coming to Blackboard
+            Technology to Support Research
+        Nearly every day in the KU Today e-newsletter from KU News, you can read about the innovative research your colleagues are working on here at KU. Strong research is vitally important to our standing as the state’s flagship university and our membership in the elite Association of American Universities (AAU). KU Information Technology is collaborating with campus partners to strengthen our technology infrastructure and implement new solutions to support KU researchers.
+Read more about Technology to Support Research
+            Computer Center Renamed in Honor of Mathematics Pioneer
+        The Computer Services Facility at the University of Kansas is being renamed Price Computing Center in honor of Griffith Baley Price.Read more about Computer Center Renamed in Honor of Mathematics Pioneer
+      View all news >>    
+      &nbsp; &nbsp; 
+      Technology Help
+			785-864-8080
+			Phone support
+			itcsc@ku.edu
+			Support via Email
+			Faculty/Staff Support
+			Technology Support Centers
+			Knowledge Base
+			FAQs &amp; More
+			Virtual Service Desk
+			Online Help
+  Comments or ideas on how we can serve you better? Send us your feedback!
+            Why KU
+                                    Apply &raquo;
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+                                            44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report
+                                            Top 50 nationwide for size of library collection.
+&mdash;ALA
+                                            23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times
+    KU Today
+        Give to KU &raquo;
+      Contact Information Technology
+                    itcsc@ku.edu
+                            785-864-8080
+        1001 Sunnyside Ave.
+Lawrence KS 66045    
+IT Staff Login
+Log Me In Rescue Login
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

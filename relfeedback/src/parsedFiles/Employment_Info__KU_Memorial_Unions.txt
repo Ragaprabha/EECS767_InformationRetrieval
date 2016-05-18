@@ -1,0 +1,52 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+Download Application Form
+(You may use our on-line application process OR our downloadable application form. If you decide to use the downloadable form please print, fill out, and hand it in to the HR desk located on the 3rd floor of the Kansas Union)
+Apply Online or view Positions / Openings
+Great Food. Great People. If you´re looking for a job that´s close to where you live and offers good pay and a flexible schedule, look no further. KU Dining Services is one of the largest employers of students on campus, and with good reason!
+There are approximately 200 full-time positions within the Unions offering benefits including health insurance, retirement benefits and paid vacation and sick leave. We also employ hundreds of people in temporary positions each year. Join us in serving the University of Kansas!
+Why Join?Applications / PositionsSubmitting Application Locations
+Why Join the KU Dining Team?
+	A starting hourly (student) rate of $9.22* an hour for retail and residential employees. (*catering rates are $9.22 an hour)
+	Discounted meals for shifts worked
+	Annual academic scholarship opportunities available
+	A huge variety of positions to suit your unique talents, including clerical support, baristas, cashiers, food prep, line service, custodial, restaurant servers and catering attendants, as well as student supervisor/crew leader positions
+Check here for both full-time and temporary positions available in the Unions.
+Submitting your Application
+&nbsp;
+There are two ways to submit your job application:
+	Apply Online
+	Stop by the KU Memorial Unions Business/Human Resources office, located on the 3rd floor of the Kansas Union, and drop off your application.
+Where On Campus Can I Work?
+KU Dining Services operates over 20 different locations across campus that include Residential Dining Centers, retail cafés, snack bars, coffeehouses and a full-service sit down restaurant. Find the location that works best for you here.
+&nbsp;                 
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

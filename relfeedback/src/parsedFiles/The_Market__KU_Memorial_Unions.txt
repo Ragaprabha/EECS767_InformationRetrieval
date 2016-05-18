@@ -1,0 +1,62 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+The Kansas Union &#8211; KU&#8217;s central student union &#8211; features not only a wealth of activities and convenient services tailored for you, but a variety of popular dining options. Here you can grab a Personal Pan Pizza from Pizza Hut®; or a hand-crafted wrap at Brellas.
+today is : Taco TUESDAY
+              today is : Taco TUESDAYEvery Tuesday is Taco Tuesday at Serrano&#8217;s in The Market! Get $1 Beef Tacos &#8211; limit of 4 . Includes beef, lettuce, tomato and cheese. Vegetarian options available.
+Dining Choices at The Market"  >Dining Choices at The Market
+Brellas
+: Home of KU’s famous Crunchy Chicken Cheddar Wrap and other deli creations. Three locations on campus : The Market on Level 3 of the Kansas Union, Courtside Café at The DeBruce Center and The Underground at Wescoe Hall. View Everyday Items Hoagies, Snack Wraps and Signature Wraps.Boulevard Grill : Burgers, veggie burgers from Lawrence’s own Local Burger, spicy chicken sandwiches and chicken tenders. Regular Hours during semesters : 10am-3pm M-F. Only at The Market! View Everyday Items menu.Serrano's : Only at The Market! Quesadillas, burritos, and taco salads with a variety of shredded meats, fresh vegetables and house-made salsas. Regular Hours during semesters : 11am-2:30pm M-F. View Everyday Items menu.Pizza Hut&nbsp;: America’s Favorite Pizza. Has three locations : The Market, Level 3 of the Kansas Union, and The Underground at Wesco Hall.  Personal pan pizzas, cheesesticks,breadsticks, hot wings, and chocolate dunkers. Sushi with Gusto&nbsp;: Sushi with Gusto – Fresh sushi selections prepared daily! Has two locations on campus : The Market on Level 3 of the Kansas Union and at The Underground on Level 1 of Wescoe Hall.Sweet Baby Jay's : Bagels, pastries, muffins, cookies, and desserts prepared daily. Regular Hours during semesters : 8am-4pm M-F. The Press : Enjoy hot-pressed, and made-to order sandwiches. Regular Hours during semesters : 11am-2:30pm M-F. Only at The Market! View Everyday Items menu.Garden Gourmet&nbsp;:  Salads, vegetables, fruits, and soups. Has three locations : The Market on Level 3 of the Kansas Union, and The Underground at Wesco Hall. View menu.Tempo&nbsp;: For our guests who need grab-n-go options -- salads, sandwiches, wraps and snacks.
+	1301 Jayhawk Blvd.Mgr. 785-218-5394Keith Lake
+		Dining Locations			all you care to eat meals at:
+        all you care to eat meals at:
+		mrs. E'snorth college Caféoliver dining Hall
+	    use cuisine cash at:
+        use cuisine cash at:
+		The Studio Cafe
+Jayhawk Grocer
+The Market
+The Underground
+Mortar &#038; Pestle Café
+O&#8217;Zone
+Impromptu Cafe
+Jay Break
+Roasterie Coffeehouse
+Courtside Café
+');
+	  jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-menudata-market.php',{name:jQuery("#datepicker").val()},
+	      function (output){
+			  jQuery('#esmenu').html(output).show();
+			 jQuery('#mealname option:first').attr('selected',true);
+			  jQuery('#delete_me_spinner2').remove();
+  });
+  }
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

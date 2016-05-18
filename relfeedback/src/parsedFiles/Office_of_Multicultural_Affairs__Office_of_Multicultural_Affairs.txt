@@ -1,0 +1,205 @@
+      Office of Multicultural Affairs | Office of Multicultural Affairs
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                Office of Multicultural Affairs
+      Search form
+  Search 
+      Home
+AboutStaff
+Building InfoSMRC Rental Request
+Our StoryPhoto GalleriesFrom Annex...
+...to Apex
+Events & Programs
+Contact Us
+Mission, Vision, Pillars
+Academic Enrichment ProgramsHawk Link & TransitionsHawk Link & Transitions
+Hawk Link Application
+Hawk Link Guides
+Hawklink Graduation
+Diversity Education & Social JusticeWhere We Stand
+In the News
+VideosOMA Events & Info
+Last Lecture Series 2013
+Diversity Issues
+Last Lecture Series 2014
+      MenuHome
+AboutStaff
+Building InfoSMRC Rental Request
+Our StoryPhoto GalleriesFrom Annex...
+...to Apex
+Events & Programs
+Contact Us
+Mission, Vision, Pillars
+Academic Enrichment ProgramsHawk Link & TransitionsHawk Link & Transitions
+Hawk Link Application
+Hawk Link Guides
+Hawklink Graduation
+Diversity Education & Social JusticeWhere We Stand
+In the News
+VideosOMA Events & Info
+Last Lecture Series 2013
+Diversity Issues
+Last Lecture Series 2014
+Search
+      Search form
+  Search 
+                                Office of Multicultural Affairs
+  .page-node-129 .field-name-field-slideshow-area { margin-top: -20px; }
+  .page-node-129 h1.title { display: none; }
+#block-block-12{
+background-color: white;
+box-shadow: 0 0 10px 0 #ccc !important;
+padding: 10px;
+width: 49%;
+float: right;
+}
+#block-block-12 > div{
+padding: 5px;
+}
+#block-block-13{
+float: left;
+width: 48.75% !important;
+background-color: white;
+box-shadow: 0 0 10px 0 #ccc;
+}
+#block-block-13 > div > div.content.clearfix > h3:nth-child(1){
+padding-left: 5px;
+}
+@media all and (min-width: 960px) and (max-width: 1199px) {
+  #block-block-12, #block-block-13 {
+    clear:both;
+    width: 100% !important;
+    float:none;
+  }
+  #node-multicultural-affairs-homepage-129 > div.content.clearfix > div.field-group-format.group_content_areas.field-group-div.group-content-areas.speed-fast.effect-none > div.field{
+    width: 43.5%;
+    height: auto;
+  }
+}
+@media all and (min-width: 720px) and (max-width: 959px) {
+  #block-block-13 {
+    clear:both;
+  }
+  #node-multicultural-affairs-homepage-129 > div.content.clearfix > div.field-group-format.group_content_areas.field-group-div.group-content-areas.speed-fast.effect-none > div.field{
+    width: 43.5%;
+    height: auto;
+  }
+}
+@media all and (min-width: 480px) and (max-width: 719px) {
+  #block-block-12, #block-block-13 {
+    clear:both;
+    width: 100% !important;
+    float:none;
+  }
+  #node-multicultural-affairs-homepage-129 > div.content.clearfix > div.field-group-format.group_content_areas.field-group-div.group-content-areas.speed-fast.effect-none > div.field{
+    width: 95%;
+    height: auto;
+    margin: 10px 0 0 0;
+  }
+  #node-multicultural-affairs-homepage-129 .view-gallery-view {
+    display:none;  
+  }
+}
+@media screen and (max-width: 479px) {
+  #block-block-12, #block-block-13 {
+    clear:both;
+    width: 100% !important;
+    float:none;
+  }
+  #node-multicultural-affairs-homepage-129 > div.content.clearfix > div.field-group-format.group_content_areas.field-group-div.group-content-areas.speed-fast.effect-none > div.field{
+    width: 95%;
+    height: auto;
+    margin: 10px 0 0 0;
+  }
+  #node-multicultural-affairs-homepage-129 .view-gallery-view {
+    display:none;  
+  }
+}
+                                                                                                            Sabatini Multicultural Resource Center | Dedicated April 2008
+                                                                                                            Chancellor’s Reception for Students of Color
+                                                                                                            Far Above the Golden Valley, Glorious to View
+Hawk Link Program Information
+Hawk Link Info
+Hawk Link Application
+Tutor Request Form
+&nbsp;
+Diversity Education &amp; Social Justice
+Request a training for your group
+&nbsp;
+Connection &amp; Collaboration
+Academic Partners
+Student Services on Campus
+Student Involvement &amp; Leadership
+&nbsp;
+Where To Go? Now You Know.
+Groceries/Restaurants
+Spirituality/Worship
+Haircut/Style/Nails
+Submit Your Own Resource
+Submit Your Own Story
+      OMA Calendar of Events
+              Student Spotlight
+      Congratulations to Nicole and Sean Gilmore, Hawk Link graduates who are entering into graduate study at the University of Washington! Nicole joins the School of Social Work, concentrating on Administration &amp; Policy Practice. Sean is studying Medical Speech-Language Pathology.&nbsp;Rock Chalk, ladies!
+      &nbsp;
+Office of Multicultural Affairs
+      Tweets by @KU_OMA 
+              OMA Today
+      Celebrating the Legacy of Dr. Martin Luther King, Jr.
+We are so excited to have Precious Porras serve as our new Director!
+Apply now for Hawk Link Tutoring!  Make sure to include your availability and the course.
+Subscribe to the OMA List Serve! Replace "firstname lastname" but make no other edits.
+              Calendar of Events
+      Your browser must support JavaScript to view this content.
+Please enable JavaScript in your browser settings then try again.    
+            Why KU
+                                    Apply &raquo;
+                                            Home to 50+ departments, centers, and programs, the School of the Arts, and the School of Public Affairs and Administration
+                                            KU offers courses in 40 languages
+                                            No. 1 ranking in city management and urban policy
+—U.S. News and World Report
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+                                            44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report
+                                            Top 50 nationwide for size of library collection.
+&mdash;ALA
+                                            23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times
+    KU Today
+        Give to KU &raquo;
+      Contact Office of Multicultural Affairs
+                    oma@ku.edu
+                            785-864-4350
+                            Routes 10, 11, 29, 30, 36, 38, 43
+        1299 Oread Avenue
+Lawrence, KS 66045
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

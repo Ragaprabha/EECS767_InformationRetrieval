@@ -1,0 +1,179 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+Our new 2015-16 catering guide has arrived!
+Our catering guide is a great place to start planning your event. Have different ideas or special requests? Let us know!
+Download PDF version of the Catering Guide or view our online guide below.
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#94502").val(),slug:jQuery("#welcome").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".welcome .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Welcome
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#94631").val(),slug:jQuery("#our-services").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".our-services .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Our Services
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#94871").val(),slug:jQuery("#beverages").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".beverages .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Beverages
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95011").val(),slug:jQuery("#bakery").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".bakery .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Bakery
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95015").val(),slug:jQuery("#snacks").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".snacks .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Snacks
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95017").val(),slug:jQuery("#party-trays").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".party-trays .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Party Trays
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95019").val(),slug:jQuery("#hors-doeuvres").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".hors-doeuvres .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Hors D&#8217;oeuvres
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95024").val(),slug:jQuery("#dips-and-spreads").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".dips-and-spreads .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Dips and Spreads
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95026").val(),slug:jQuery("#breakfast").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".breakfast .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Breakfast
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95028").val(),slug:jQuery("#buffets").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".buffets .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Buffets
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95111").val(),slug:jQuery("#salads").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".salads .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Composed Salads
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95113").val(),slug:jQuery("#boxed-lunches").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".boxed-lunches .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Boxed Lunches
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95115").val(),slug:jQuery("#served-meals").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".served-meals .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Served Meals
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95117").val(),slug:jQuery("#side-dishes").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".side-dishes .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					Side Dishes &#038; Salads
+				');
+	  			jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-cateringdata.php',{id:jQuery("#95121").val(),slug:jQuery("#desserts").val()},
+	      		function (output){
+			  	jQuery('#cateringpages').html(output).show();
+				jQuery(".desserts .text").addClass("currentpage"); 
+			  	jQuery('#delete_me_spinner2').remove();
+ 				 });
+ 				 }
+					A la Carte Desserts
+    			' );					 						w.document.write('');
+       		 			w.document.write(jQuery('#cateringpages').html());
+						w.document.write('');
+       	 				w.document.close();
+        				w.focus();
+        				w.print();
+    				}
+    			WelcomeThank you for letting us be a part of your event. In this guide you will find everything you need to plan your catering order. The information includes our various services, timelines, policies and menu options including everything from casual refreshment orders to upscale hors d’ouevre receptions and full-service buffet and served meals. However, your choices are not limited to the listed selections. We will work with you to meet the unique needs of your group with customized menus and event packages. Please let us know how we can be of service.
+RobertPierreleerpierrelee@ku.eduKU DiningDirector of Catering785-864-2400WhitneyFoxwlfox@ku.eduKU DiningCatering Coordinator785-864-2444JannaTraverjtraver@ku.eduKU DiningExecutive Chef785-864-0195
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

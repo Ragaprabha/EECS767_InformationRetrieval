@@ -1,0 +1,934 @@
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7a1ff40486","applicationID":"12498524","transactionName":"ZARQMUpYDBJUVEdbXl1OfzN7FioOWFJwXV9HE10JVFwQTnxZV1dJ","queueTime":0,"applicationTime":54,"ttGuid":"3FD6C3E2B73A793C","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/Assets/clink/images/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/Assets/clink/images/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/Assets/clink/images/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/Assets/clink/images/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/Assets/clink/images/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/Assets/clink/images/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/Assets/clink/images/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/Assets/clink/images/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/Assets/clink/images/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/Assets/clink/images/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/Assets/clink/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/Assets/clink/images/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/Assets/clink/images/favicon-16x16.png">
+	<link rel="shortcut icon" href="/Assets/clink/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/Assets/clink/images/favicon.ico" type="image/x-icon">
+
+    
+		<meta name="apple-itunes-app" content="app-id=940682997">
+    <title>
+	Rock Chalk Central - Home
+</title>
+    
+    <link rel="stylesheet" type="text/css" href="https://cdn1.campuslabs.com/assets/core/v3.9/css/jqueryui/campuslabs.core.jquery.ui.v3.9.105.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn2.campuslabs.com/assets/kendoui/v3.9/css/campuslabs.kendoui.v3.9.105.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn1.campuslabs.com/assets/core.bootstrap3/v3.9/scss/core/core.v3.9.105.css" />
+
+    <link rel="stylesheet" type="text/css" href="https://cdn2.campuslabs.com/assets/clink/v3.9/scss/site.v3.9.105.css" />
+    
+
+	<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,900,300italic,400italic,900italic|Noto+Sans:400,700,400italic|Droid+Sans:400,700|Rokkitt:400,700|Open+Sans:300italic,400italic,700italic,400,700,300|Montserrat:400,700|Raleway:400,900,600|Bree+Serif|Roboto+Slab:400,700|Lato:400,300,700,400italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn1.campuslabs.com/assets/core/v3.9/css/campuslabs.core.icons.v3.9.105.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn2.campuslabs.com/assets/kendoui/v3.9/css/campuslabs.kendoui.v3.9.105.css" />
+    <script type="text/javascript" src="https://cdn2.campuslabs.com/assets/core/v3.9/js/libs/campuslabs.jquery.v3.9.105.js"></script>
+    <script type="text/javascript" src="https://cdn1.campuslabs.com/assets/core/v3.9/js/libs/campuslabs.core.head.v3.9.105.js"></script>
+    <script type="text/javascript" src="https://cdn2.campuslabs.com/assets/core/v3.9/js/libs/campuslabs.jquery.ui.v3.9.105.js"></script>
+    <script type="text/javascript" src="https://cdn1.campuslabs.com/assets/core/v3.9/js/libs/campuslabs.jquery.libs.v3.9.105.js"></script>
+    <script type="text/javascript" src="https://cdn1.campuslabs.com/assets/core/v3.9/js/campuslabs.core.v3.9.105.js"></script>
+
+    <script type="text/javascript">var cl_userLang = '';</script>
+
+    <script type="text/javascript" src="https://cdn2.campuslabs.com/assets/clink/v3.9/js/svg/cl.datepickerlocalizationoverride.v3.9.105.js"></script>
+    <script type="text/javascript" src="https://cdn2.campuslabs.com/assets/clink/v3.9/js/libs/cl.jquery.libs.v3.9.105.js"></script>
+    <script type="text/javascript" src="https://cdn2.campuslabs.com/assets/clink/v3.9/js/svg/cl.svg.main.v3.9.105.js"></script>
+
+    <script type="text/javascript" src="https://cdn1.campuslabs.com/assets/core4/v3.9/js/angular/campuslabs.core4.angular.v3.9.105.js"></script>
+    <script type="text/javascript" src="https://cdn2.campuslabs.com/assets/core4/v3.9/js/angular-bootstrap/campuslabs.core4.angular-bootstrap.v3.9.105.js"></script>
+
+    
+    
+
+    <script type="text/javascript" src="https://cdn2.campuslabs.com/assets/kendoui/v3.9/js/campuslabs.kendoui.custom.v3.9.105.js"></script>
+
+    
+	<script>
+	    (function (i, s, o, g, r, a, m) {
+	        i['GoogleAnalyticsObject'] = r;
+	        i[r] = i[r] || function () {
+	            (i[r].q = i[r].q || []).push(arguments)
+	        }, i[r].l = 1 * new Date();
+	        a = s.createElement(o),
+	            m = s.getElementsByTagName(o)[0];
+	        a.async = 1;
+	        a.src = g;
+	        m.parentNode.insertBefore(a, m)
+	    })(window, document, 'script', '//www.google-analytics.com/analytics.js', '_ga');
+
+	    _ga('create', 'UA-38298106-6', 'auto', 'collegiatelink');
+	    _ga('collegiatelink.send', 'pageview');
+	</script>
+
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37880618-9']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+	
+	<script type="text/javascript" src="//tinymce.cachefly.net/4.2/tinymce.min.js"></script>
+	<script type="text/javascript" src="https://cdn2.campuslabs.com/assets/clink/v3.9/js/tinymce.init.v3.9.105.js"></script>
+	
+
+
+    
+	<script type="text/javascript">
+	    $(function () {
+	        var URLS = SVG.URLS;
+	        URLS.TinyMCEUrl = '/assets/tinymce/js/tiny_mce.js';
+
+	        SVG.InitPlugins();
+	    });
+	</script>
+
+	<style>
+		.container-social .social-links .social-icon:hover {
+			border-color: #2199c9 !important;
+		}
+
+		.navbar-inverse .navbar-nav > li.active > a,
+		.navbar-inverse .navbar-nav > li.active > a:hover,
+		.container-subnav .navbar-inverse .navbar-nav .dropdown-menu > li.active > a,
+		.container-subnav .navbar-inverse .navbar-nav .dropdown-menu > li.active > a:hover {
+			border-bottom-color: #2199c9 !important;
+		}
+
+		.navbar-user .dropdown-menu > li {
+			border-left-color: #2199c9 !important;
+		}
+
+		.section-tiles-tile .tile-image {
+			border-top-color: #1A7AA0 !important;
+		}
+
+		.navbar-nav .badge,
+		.navbar-nav li.section-globalnav-signin a.btn-primary,
+		.navbar-nav li.section-globalnav-signin a.btn-primary:active,
+		.section-footer .btn-primary,
+		.section-footer .btn-primary:active,
+		.section.container-coverphoto .btn-primary,
+		.section.container-coverphoto .btn-primary:active,
+		.btn-accent,
+		.btn-accent:active,
+		.tagline,
+		.mainStart-container .optionContainer .mainStart-optionIcon,
+		.mainStart-container .optionContainer .mainStart-optionIcon:active,
+		.container-social .social-links .social-icon:hover {
+			background-color: #2199c9 !important;
+		}
+
+		.navbar-nav li.section-globalnav-signin a.btn-primary:hover,
+		.section.container-coverphoto .btn-primary:hover,
+		.section-footer .btn-primary:hover,
+		.btn-accent:hover,
+		.mainStart-container .optionContainer .mainStart-optionIcon:hover {
+			background-color: #1A7AA0 !important;
+		}
+
+	</style>
+<style>
+	h3,
+	h4,
+	.section.container-coverphoto h2,
+	.section.container-coverphoto h2 .h2,
+	h2 .section.container-coverphoto .h2,
+	.section.container-coverphoto h3,
+	.statusSection,
+	.org-stats .number,
+	.container-social .social-icons .social-title h2, .container-social .social-icons .social-title h2 .h2,
+	h2 .container-social .social-icons .social-title .h2, .navbar-user-container {
+		font-family: Roboto Slab!important;
+	}
+
+	body,
+	h2,
+	h5,
+	h6,
+	.btn,
+	.img-avatarinitials,
+	.org-registration-text,
+	.metric .dataItem-data,
+	.approvalSection .arrow_box .number,
+	.message-email_container,
+	.approvalSection .arrow_box .number,
+	.additionalFields legend,
+	.metric .dataItem-data,
+	.metric h4,
+	.createEvent-header,
+	.monetaryImpactHours,
+	#monetaryImpact,
+	#userNav-container,
+	.organization-navigation li a,
+	table.table.roster-table > tbody > tr > td, table.table.roster-table > thead > tr > th, #InterestRanker ul, #InterestManager ul, .linkList {
+		font-family: Lato!important;
+	}
+</style>
+
+</head>
+	<body>
+		<noscript>
+			<div id="javascript-message">
+				<h1>JavaScript is disabled on your browser. Please enable JavaScript to use this site.</h1>
+			</div>
+		</noscript>
+
+		<div id="statusBar" class="statusBar"></div>
+
+
+    <div class="acessibility-skip" id="mainNavSkip">
+        <a href="#mainContent" id="mainNavSkipToContent">Skip to Content</a>
+        <a href="#subNavSkipToContent" id="mainNavSkipNav">Skip Main Navigation</a>
+    </div>
+<div id="userToolBar" ng-controller="ToolBarCtrl">
+
+    <div class="section-globalnav navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" ng-click="showMobileNav = !showMobileNav" class="navbar-toggle collapsed" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="glyphicon glyphicon-chevron-down"></span>
+                </button>
+                <a class="navbar-brand" href="/">Rock Chalk Central</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse" ng-class="{ 'collapse': !showMobileNav }" role="navigation" aria-label="Main menu">
+                <ul class="nav navbar-nav navbar-right" role="menu">
+                    <li role="menuitem"class=active><a href="/">Home</a></li>
+                    <li role="menuitem"><a href="/events">Events</a></li>
+                    <li role="menuitem"><a href="/organizations">Organizations</a></li>
+                                            <li role="menuitem" dropdown aria-haspopup="true">
+                            <a href="#" class="dropdown-toggle" dropdown-toggle role="button" aria-expanded="false" tabindex="0">Campus Links <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu" aria-label="submenu">
+                                    <li role="menuitem" tabindex="-1"><a href="http://www.ku.edu">KU Homepage</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="http://silc.ku.edu/">Student Involvement &amp; Leadership Center</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="http://studentsenate.ku.edu/">Student Senate</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="http://www.silc.ku.edu/leaderbits">Resources for Student Organizations</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/organization/silc/DocumentLibrary/view/445123">Space Application Form (2016-17)</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/organization/silc/DocumentLibrary/view/445117">Summer Interest Survey (Summer 2016)</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/organization/silc/DocumentLibrary/view/428613">Student Organization Officer Handbook</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/organization/silc/DocumentLibrary/view/345859">Advisor&#39;s Manual</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/organization/silc/DocumentLibrary/view/383328">Officer Transition Manual</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/organization/silc/DocumentLibrary/view/385329">Constitution and By-Laws</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="http://studentaffairs.ku.edu/coke-program">Coca-Cola Product/Programming Requests</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/organization/silc/DocumentLibrary/View/293122">Rock Chalk Dream Maker Fund Application</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/form/start/25921">Office/Cubicle Key Card Computer List</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/form/start/29199">Greek Life Interest Form</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="http://union.ku.edu/event-services/room-reservations/">Kansas and Burge Union Room Reservations</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/form/start/31460">Card Swipe Reader Checkout Form</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://rockchalkcentral.ku.edu/form/start/23815">Request New Email Account/Password Reset</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="http://silc.ku.edu/orgs-l">Orgs-l Listserve  (Add to List)</a></li>
+                                    <li role="menuitem" tabindex="-1"><a href="https://www.nationsprint.com/clients/ku/">Student Organization Business Cards</a></li>
+                            </ul>
+                        </li>
+                                        <li role="menuitem" class="dropdown-toggle">
+                        <a href="javascript:" ng-click="toggleSearch()"><span class="icon-search">Search</span></a>
+                    </li>
+                        <li role="menuitem" class="section-globalnav-signin">
+                            <a href="/account/logon" class="btn btn-primary">Sign In</a>
+                        </li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </div>
+    <style>
+        li.header {
+            list-style-type: none;
+        }
+    </style>
+    <div collapse="isCollapsed" class="search-container" ng-keyDown="collapseOnESCKey($event)" ng-cloak>
+        <div class="container-fluid">
+            <div class="form-group">
+                <label for="global-search" class="visuallyhidden">Search the Site</label>
+                <div class="input-group">
+                    <span class="input-group-addon">
+                            <span class="icon-search">Search</span>
+                        </span>
+                    <input cl-search focus="focusSearch" id="global-search" type="text" class="form-control" placeholder="Search" ng-model="search" ng-change="query()"/>
+                </div>
+            </div>
+            <div class="row search-results">
+                <div class="col-sm-4" ng-show="search.length && (events.Results.length || news.Results.length || orgs.Results.length)">
+                    <ul>
+                        <li>Organizations</li>
+                        <li ng-repeat="result in orgs.Results"><a ng-href="{{ result.GroupUrl }}" ng-click="clickResult(result,'Organizations', $event)">{{ result.DisplayName }}</a></li>
+                        <li class="list__noresults" ng-show="!orgs.Results.length">
+                            <span>No Results</span>
+                        </li>
+                        <li class="list__showmore" ng-show="orgs.TotalCount > 10">
+                            <a ng-href="{{ orgs.MoreUrl }}" ng-click="clickResultMore(orgs.MoreUrl,'Organizations', $event)"> Show more
+                                <div class="glyphicon glyphicon-chevron-right">&nbsp;</div></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-4" ng-show="search.length && (events.Results.length || news.Results.length || orgs.Results.length)">
+                    <ul>
+                        <li>Events</li>
+                        <li ng-repeat="result in events.Results"><a ng-href="{{ result.EventUrl }}" ng-click="clickResult(result,'Events', $event)">{{ result.Name }}</a></li>
+                        <li class="list__noresults" ng-show="!events.Results.length">
+                            <span>No Results</span>
+                        </li>
+                        <li class="list__showmore" ng-show="events.TotalCount > 10">
+                            <a ng-href="{{ events.MoreUrl }}" ng-click="clickResultMore(events.MoreUrl,'Events', $event)"> Show more
+                                <div class="glyphicon glyphicon-chevron-right">&nbsp;</div></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-4" ng-show="search.length && (events.Results.length || news.Results.length || orgs.Results.length)">
+                    <ul>
+                        <li>News</li>
+                        <li ng-repeat="result in news.Results"><a ng-href="{{ result.Url }}" ng-click="clickResult(result,'News', $event)">{{ result.Title }}</a></li>
+                        <li class="list__noresults" ng-show="!news.Results.length">
+                            <span>No Results</span>
+                        </li>
+                        <li class="list__showmore" ng-show="news.TotalCount > 10">
+                            <a ng-href="{{ news.MoreUrl }}" ng-click="clickResultMore(news.MoreUrl,'News', $event)"> Show More
+                                <div class="glyphicon glyphicon-chevron-right">&nbsp;</div></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-12" ng-show="search.length && !events.Results.length && !news.Results.length && !orgs.Results.length">
+                    <ul>
+                        <li class="list__noresults text-center"><strong>No Results</strong></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="search-closebutton">
+                <a class="btn btn-warning btn-small" ng-click="toggleSearch();">Close Search</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+		
+
+			<section class="section container-androidapp-corq" id="corqAndroidApp">
+				<a href="#" title="close" class="androidapp-corq-close" id="androidAppCorqClose">X</a>
+				<img class="androidapp-corq-appimage" src="https://cdn1.campuslabs.com/assets/clink/v3.9/images/corq_38x38.png" alt="Alternate Text" />
+				<p class="androidapp-corq-content">
+					<strong>Corq</strong>
+					<span>
+						for Android
+					</span>
+				</p>
+				<a class="androidapp-corq-playstorelink" href="market://details?id=com.campuslabs.collegiatelink">
+					View
+				</a>
+			</section>
+
+		
+
+
+
+
+
+
+<style>
+	.container-coverphoto {
+		background-image: url(https://images.collegiatelink.net/clink/images/6f6406bf-3378-4d27-9754-78150f591d6b46da50b0-cdf0-4f32-ba59-e981c85f8974.png?preset=large-h); background-image: linear-gradient(rgba(0, 0, 0, .10), rgba(0, 0, 0, .65)), url(https://images.collegiatelink.net/clink/images/6f6406bf-3378-4d27-9754-78150f591d6b46da50b0-cdf0-4f32-ba59-e981c85f8974.png?preset=large-h)!important;
+	}
+
+		@media handheld, only screen and ( max-width: 949px ) {
+			.container-coverphoto__home {
+			background-image: url(https://images.collegiatelink.net/clink/images/ff9acd41-06cb-4dde-9594-b2109d85ab492f0fdee8-fff5-47dc-bbb8-7de6284822f9.png?preset=large-h); background-image: linear-gradient(rgba(0, 0, 0, .10), rgba(0, 0, 0, .65)), url(https://images.collegiatelink.net/clink/images/ff9acd41-06cb-4dde-9594-b2109d85ab492f0fdee8-fff5-47dc-bbb8-7de6284822f9.png?preset=large-h)!important;
+			}
+		}
+	</style>
+
+<section class="section container-coverphoto container-coverphoto__home" role="complementary">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12">
+				<div id="flash" style="display: none">
+					<a href="#">Close</a>
+				</div>
+			</div>
+			<div class="col-sm-12">
+				<div class="label-hidden">
+					<h1>Rock Chalk Central Home</h1>
+				</div>
+				<h2 class="text-center text__shadow h2__home">
+					Sign in to the Rock Chalk Central experience
+				</h2>
+				<div id="mainContent" tabindex="-1">
+					<a href="/account/logon" class="btn btn-primary btn__signin">Sign In Now</a>
+				</div>
+				<a href="/support" class="btn btn__signinhelp btn__nocase text__shadow kmClickToSupportLocal"><i>Support</i></a>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="tagline">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12">
+				Jump in with these opportunities!
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+<section class="row section-tiles" id="opportunityBoard">
+	<div class="col-xs-12 prl-0">
+		<ul class="list-unstyled">
+			<carousel ng-cloak>
+					<slide>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/events/details/956504" >
+										<div class="tile-image themeborder-social text-center" style="background-image: url('https://images.collegiatelink.net/clink/images/ac63fb5f-d408-4ae1-96f0-b587895cca732c8427a6-3ebb-415a-8399-df7660ab03bb.png?preset=med-rect')">
+											<div class="tile-info col-xs-12 text-left">
+												<p class="tile-info-title">
+													KU Student Farm Potluck
+												</p>
+												<p class="tile-info-time">
+													<span class="glyphicon glyphicon-calendar">&nbsp;</span>
+													05 May 2016
+												</p>
+												<p class="tile-info-time">
+													<span class="glyphicon glyphicon-time">&nbsp;</span>
+													5:30 PM - 7:30 PM
+												</p>
+												<p class="tile-info-location">
+													<span class="glyphicon glyphicon-map-marker">&nbsp;</span>
+													Ecumenical Campus Ministeries
+												</p>
+												<p class="tile-info-copy">
+													<span class="themeicon themeicons-social">&nbsp;</span>
+													Social
+												</p>
+											</div>
+										</div>
+									</a>
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/taxclubku" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<div class="img-circle img-avatarinitials img-avatar__border"><span>T</span></div>
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Tax Club, KU
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/ieee" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<div class="img-circle img-avatarinitials img-avatar__border"><span>I</span></div>
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Institute for Electrical and Electronics Engineers
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/ubc" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/21173e76-0bfd-4b41-a83e-7812a7bb82b3255adc42-58c0-4812-9b5c-66723ebcd59d.jpg?preset=small-sq" alt="Undergraduate Business Council Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Undergraduate Business Council
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/sportsentertainmentlaw" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/994e6432-ce1b-41f8-bc6a-2c47b35beba7213cd5b2-4cfb-4d2a-ac8d-71748f492f6f.jpg?preset=small-sq" alt="Sports &amp; Entertainment Law Society Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Sports &amp; Entertainment Law Society
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/kuhillel" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/clink/images/63d10ff4-1518-42ae-a7af-c66d20b13e734c7f3e06-ae03-482f-a747-a11b19a20c45.png?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/clink/images/63d10ff4-1518-42ae-a7af-c66d20b13e734c7f3e06-ae03-482f-a747-a11b19a20c45.png?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/ad4e9b0a-59d4-487d-a045-cd062647e990ed160028-4774-465a-8777-fb505456b52d.jpg?preset=small-sq" alt="Hillel, KU Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Hillel, KU
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/KUHFC" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/7978a0a1-c11a-4c25-a569-8f0d58e7ba759d409d16-3eed-42f3-80b6-7e0ace0c0bd7.jpg?preset=small-sq" alt="Hilarity for Charity, KU Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Hilarity for Charity, KU
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/badmintonclub" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/6431f9e8-c714-4fcb-9911-a46acd1d6ba7b99028ec-3be0-4976-85ac-851dfcb8bf19.jpg?preset=small-sq" alt="Badminton Club Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Badminton Club
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+					</slide>
+					<slide>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/juniorPHA" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/e8bc18d7-41d8-40e5-b991-abe6f2ab2c182c0425fa-d6b8-4b6c-9ec2-f48eeeb248b4.JPG?preset=small-sq" alt="Junior Panhellenic Association Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Junior Panhellenic Association
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/kusustainability" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/f7ebb5d6-ff64-4016-a23b-c0581b6eff4229639776-b062-4b7b-8ec6-ab6d955dda58.jpg?preset=small-sq" alt="Center for Sustainability Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Center for Sustainability
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/theoc" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/ad0d477c-3806-453f-841d-529b8a720ea232abf519-e635-4446-a6f8-81060c535a68.jpg?preset=small-sq" alt="Oread Center (A Community for Christian Faith, Calling, and Culture)  Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Oread Center (A Community for Christian Faith, Calling, and Culture) 
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/lawjournal" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<div class="img-circle img-avatarinitials img-avatar__border"><span>K</span></div>
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Kansas Journal of Law and Public Policy
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/PhiKappaPsi" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/765472a4-cf8c-480d-8250-e4a12de52d124c4f5031-ffb9-41ed-aa48-d1dc61f533de.jpg?preset=small-sq" alt="Phi Kappa Psi Fraternity Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Phi Kappa Psi Fraternity
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/phialphadeltalawschoolchapter" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<div class="img-circle img-avatarinitials img-avatar__border"><span>P</span></div>
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Phi Alpha Delta (Law School Chapter)
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/silc" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/a6af7ebd-43b7-42f8-bd88-bee69a697a2ee73091e5-c171-49e7-828a-8c0b02b92137.jpg?preset=small-sq" alt="Student Involvement &amp; Leadership Center Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Student Involvement &amp; Leadership Center
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/lutherancampusministry" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/ff790812-bb96-48fc-9ea9-f6821715a71f2b38db99-6017-4c1f-b328-8c99296be9e3.JPG?preset=small-sq" alt="Lutheran Campus Ministry Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Lutheran Campus Ministry
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+					</slide>
+					<slide>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/CTG" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/f288ee9e-c2c1-414f-980f-6bd1677e59be79fbc1d0-b9ab-4c82-ae65-eff2bbfd8cbb.jpg?preset=small-sq" alt="Called To Greatness Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Called To Greatness
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/sacnas" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<div class="img-circle img-avatarinitials img-avatar__border"><span>S</span></div>
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Society for Advancement of Chicanos/Hispanics and Native Americans in Science, University of Kansas Chapter 
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/cssfa" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/47767f01-994b-45fc-9f54-ac5f640d3de0f1c6b00e-49f0-4190-bea8-bc3263b089d1.png?preset=small-sq" alt="Chinese Students &amp; Scholars Friendship Association (CSSFA) Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Chinese Students &amp; Scholars Friendship Association (CSSFA)
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/rugbywomens" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/e6245e3e-26c3-4da9-9eef-d9cafce0feeb16e553d2-5346-4a11-89a6-f9aba456310d.jpg?preset=small-sq" alt="Rugby, Womens&#39; Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Rugby, Womens&#39;
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/SigmaAlphaLambda" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/311bc266-ba32-43b5-b29b-2e957a54422fb695d5b0-0803-41c9-a4e9-8fea9fd6e485.jpeg?preset=small-sq" alt="Sigma Alpha Lambda  Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Sigma Alpha Lambda 
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/student_affairs" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/b3119f14-4f9a-4333-815d-5b1d7edf2b2068b5f6c6-fbf4-41f4-994b-ba07552a5414.jpg?preset=small-sq" alt="Student Affairs Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Student Affairs
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/lacrosseclubwomens" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/clink/images/bff46589-b235-4865-8d22-b64ec6a15f32e09c6aa3-5a5f-419e-92e9-6440f3be24e0.png?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/clink/images/bff46589-b235-4865-8d22-b64ec6a15f32e09c6aa3-5a5f-419e-92e9-6440f3be24e0.png?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/df03fa63-9cc6-4db7-84a9-707818aec0513325ac64-ce61-4f3c-9dc7-1ce4e486410a.jpg?preset=small-sq" alt="Lacrosse Club, Women&#39;s Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Lacrosse Club, Women&#39;s
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+								<li class="col-xs-6 col-md-3 col-lg-3 section-tiles-tile">
+									<a href="https://rockchalkcentral.ku.edu/organization/kugasp" >
+
+										<div class="tile-image themeborder-organization text-center"
+											 style="background-image: url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect'); background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, .5)), url('https://images.collegiatelink.net/images/collegiatelink/default/org_cover_photo.jpg?preset=grey-med-rect')">
+												<img class="img-circle img-avatar img-avatar__border" src="https://images.collegiatelink.net/clink/images/779e4064-0923-45a8-81b2-ba1cf5d03a8923fea7cc-5dc1-4031-b3f2-57bca2a439b6.png?preset=small-sq" alt="Graduate Association of School Psychologists Profile Picture">
+
+											<div class="tile-info tile-info__organization col-xs-12 text-left">
+												<p class="tile-info-title tile-info-title__organization tile-info-tile">
+													Graduate Association of School Psychologists
+												</p>
+											</div>
+										</div>
+									</a>
+
+								</li>
+					</slide>
+			</carousel>
+		</ul>
+	</div>
+</section>
+
+<script>
+	angular.element(document).ready(function() {
+		angular.module('cl.opportunityBoard', ['ui.bootstrap', 'ngTouch']);
+		angular.bootstrap(document.getElementById('opportunityBoard'), ['cl.opportunityBoard']);
+	});
+</script>
+
+<div class="mainStart-container">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12">
+				<h3>Not sure where to start in Rock Chalk Central?</h3>
+				<h4>Choose an option to jumpstart your experience!</h4>
+			</div>
+		</div>
+		<div class="row mainStart-optionContainer">
+			<div class=" col-sm-4 mainStart-option">
+				<a href="/organizations" class="optionContainer" aria-label="Find an Organization">
+					<span class="icon-users mainStart-optionIcon"></span>
+					<span class="mainStart-optionBreak"></span>
+					<span class="mainStart-optionText">Find an Organization</span>
+				</a>
+			</div>
+			<div class=" col-sm-4 mainStart-option">
+				<a href="/events" class="optionContainer" aria-label="Find an Event">
+					<span class="icon-flag mainStart-optionIcon"></span>
+					<span class="mainStart-optionBreak"></span>
+					<span class="mainStart-optionText">Find an Event</span>
+				</a>
+			</div>
+			<div class=" col-sm-4 mainStart-option">
+				<a href="/involvement/currentmemberships" class="optionContainer" aria-label="My Involvement">
+					<span class="icon-star mainStart-optionIcon"></span>
+					<span class="mainStart-optionBreak"></span>
+					<span class="mainStart-optionText">My Involvement</span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+	<div class="corq-section-background">
+		<section class="container-fluid section-corq">
+			<div class="row">
+				<div class="col-sm-5 col-sm-offset-1">
+					<p class="section-corq-logo">
+						<img src="https://cdn1.campuslabs.com/assets/clink/v3.9/images/Corq_logo.png" alt="Corq Mobile Event Engagement Application Logo" />
+					</p>
+					<ul class="list-unstyled section-corq-features">
+						<li>
+							<h3><span><i class="glyphicon glyphicon-list-alt"></i></span>Get the details</h3>
+							<p>From start time to ticket info get all of the details you need to know about your next adventure.</p>
+						</li>
+						<li>
+							<h3><span><i class="glyphicon glyphicon-map-marker"></i></span>Find your way</h3>
+							<p>Corq will bring you right to the door of an event whether it's a bike ride, road trip, or across the country.</p>
+						</li>
+						<li>
+							<h3><span><i class="glyphicon glyphicon-share"></i></span>Share your experience</h3>
+							<p>Get your friends involved by posting events that you are excited about to your favorite social media site.</p>
+						</li>
+					</ul>
+					<div class="section-corq-mobilebuttons">
+						<a href="https://play.google.com/store/apps/details?id=com.campuslabs.collegiatelink&hl=en">
+							<p class="googleappbutton"><span class="visuallyhidden">Download Corq from the Google Play Store</span></p>
+						</a>
+						<a href="https://itunes.apple.com/us/app/corq-by-collegiatelink/id940682997?ls=1&mt=8">
+							<p class="appleappbutton"><span class="visuallyhidden">Download Corq from the Aple App Store</span></p>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-5 corq-section-devices hidden-xs">
+					<img src="https://cdn2.campuslabs.com/assets/clink/v3.9/images/gs5cropped.png" class="section-corq-devices-left" alt="Corq Mobile App displayed on Samsung Galaxy S5" />
+					<img src="https://cdn1.campuslabs.com/assets/clink/v3.9/images/iphone6Cropped.png" class="section-corq-devices-middle" alt="Corq Mobile App displayed on iPhone 6" />
+					<img src="https://cdn1.campuslabs.com/assets/clink/v3.9/images/nexus5cropped.png" class="section-corq-devices-right" alt="Corq Mobile App displayed on LG Nexus 5" />
+				</div>
+			</div>
+		</section>
+	</div>
+
+
+		<footer class="container-fluid section-footer" role="contentinfo">
+			<div class="row">
+				<div class="col-xs-12 col-sm-5 col-sm-push-7 footer-signin">
+					    <a href="/account/logon" class="btn btn-primary btn-lg">Sign In</a>
+                  
+					
+				</div>
+
+				<div class="col-xs-12 col-sm-7 col-sm-pull-5 footer-copyright">
+					<p><strong>Powered by <a target="_blank" href="http://www.collegiatelink.net/">CollegiateLink</a>.</strong> CollegiateLink is part of <a target="_blank" href="http://www.campuslabs.com">Campus Labs</a>. &copy; Copyright 2016 Campus Labs.</p>
+				</div>
+			</div>
+		</footer>
+
+	<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
+		<style type="text/css" media="screen, projection">
+			@import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+		</style>
+
+	<script type="text/javascript">
+	    $(function() {
+	        new MasterPage({
+	            showAdditionalFields : 'False',
+	            additionalFieldUrl : '/profile/requiredadditionalfields',
+	            translateEnabled : 'False'
+	        });
+	    });
+	    core.siteRoot = '/';
+	</script>
+
+
+	<script type="text/javascript" src="https://cdn1.campuslabs.com/assets/clink/v3.9/js/campuslabs.collegiatelink.usertoolbar.v3.9.105.js"></script>
+	<script type="text/javascript">
+		angular.element(document).ready(function() {
+			angular.module('cl.userToolBarConstants', []).value('userToolBarConstants', { enableKissmetricsTracking : 'False' === 'True' });
+			angular.bootstrap(document.getElementById('userToolBar'), ['cl.usertoolbar', 'cl.userToolBarConstants']);
+		});
+	</script>
+
+<script type="text/javascript" src="https://cdn2.campuslabs.com/assets/clink/v3.9/js/campuslabs.collegiatelink.corqSmartBanner.v3.9.105.js"></script>
+	
+
+	</body>
+</html>

@@ -1,0 +1,58 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+Room requests may be made by email (eventservices@ku.edu), by phone (785-864-4651), or in person (Union administrative office, Room 476, 8am-5pm weekdays). If you represent a KU office or student organization, use the online system to request a rooom.
+What rooms are open?
+Room descriptions/rates
+AV Rates
+Click here for room Set Up options
+Individual Use RoomsCateringAudio Visual ServicesPick-Me-Ups
+Current KU students, faculty or staff may now reserve meeting space on an individual basis up to seven days in advance.  The Alcoves, located on Level 3 of the Kansas Union, offer quiet conference-style space with marker boards and audio-visual capabilities.
+To set up an account, follow the instructions for &#8220;individual accounts.&#8221; After your account has been approved, go to the log in page, then Room Reservations &gt; Booking alcoves for personal use.
+A Few Rules
+ Individual-Use Meeting Room Reservations
+&nbsp;
+A few rules:
+	All food and beverages served in the Kansas Union must be furnished by KU Dining Services.  Contact Whitney Fox, Union Catering Coordinator, wlfox@ku.edu, 785-864-2444, during regular business hours of 8 am to 5 pm if you wish to place a refreshment order (see refreshment list) for your session.
+	Please note that the Union’s room cancellation policy applies to these spaces.  Failure to cancel reservations at least 24 hours in advance may result in the loss of future booking privileges.
+	All reservation requests are subject to approval.  Requests will be processed between 8 am and 5 pm, Monday through Friday.
+	Policies for meeting room usage apply.
+The KU Memorial Unions offer top-notch catering for any event. With a large menu selection priced for any budget, our catering services can provide your event with a variety of tastes and attention to detail.
+Visit the Catering page for more info.
+The catering guide is a great place to start planning your event. Have different ideas or special requests? Don&#8217;t worry, we will do our best to meet your needs.
+Event Services offers a wide variety of audio/visual equipment to enhance your event.  With a broad selection of equipment and services to meet your needs, as well as a dedicated technical support staff, the equipment is designed to complement your event and allow you to focus on your event rather than your technology.
+Many of the meeting rooms have built-in audio/visual equipment.  In cases where a room does not already have the technology or equipment necessary for your event, portable equipment is supplied.  Go to the Audio Visual Menu for a list of available equipment. Questions? Please contact Event Services at eventservices@ku.edu; (785) 864-4651.
+KU Dining Services has the perfect ¨pick me up¨ for your next meeting or office gathering! Introducing Pick-Me-Ups, our newest guest services innovation. Purchase any one of our crowd-pleasing, wallet-friendly snack trays or Roasterie Coffee® totes and be the star of your next faculty or campus group get-together. Visit the Pick-Me-Ups page for more information.
+&nbsp;                 
+	Room AvailabilityPoliciesDaily ScheduleDirectories & MapsKansas UnionEdwards CampusDeBruce CenterCatering
+phone: 785-864-2444Just One FrillPick-Me-Ups Order FormCatering Guide
+Parking InfoMississippi St. and Allen Fieldhouse / Burge Garage info
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

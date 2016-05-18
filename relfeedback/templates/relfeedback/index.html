@@ -1,0 +1,59 @@
+<!-- Author: Bijal Parikh -->
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Simple search engine</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css">
+			<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+	</head>
+	<body>
+		<div class="container">
+			<div class="row text-center">
+				<h1>Simple Web Search</h1>
+				<form class="form-inline" method="post">
+					<div class="form-group">
+						<input class="form-control" type="text" name ="searchquery" id="searchquery" size="100" label="Search" value="{{sq}}" >
+						<input class="form-control" type="submit" value="Search" >
+					</div>
+			</div>
+			<br>
+			<br>
+			<div class="row">
+					{% if file_list %}
+					<div class="row">
+							<button class="form-control" type="submit" name="relfeed" onClick = 'relfeed=true' style = "width:200px">Provide Feedback!</button>
+						<br>
+					</div>
+						<p>Time taken for search <strong>{{diff}}</strong> seconds</p>
+						<br>
+						<table class="table table-striped">
+							<tr>
+								<th>Rank</th>
+								<th>Select</th>
+								<th>Filename</th>
+								<th>Similarity Value</th>
+							</tr>
+						{% for filename in file_list %}
+						<tr>
+							<td>{{forloop.counter}}</td> 
+							<td><input type = "checkbox" name = "result" value = "{{filename.0}}" /></td>
+							<td><a target="_blank" href="file:///Users/Ragaprabha/djangoWebServer/IRProject/relfeedback/src/originalFiles/{{filename.0}}">{{filename.0}}</a></td>
+							<td>{{filename.1}}</td>
+						</tr>
+						{% endfor %}
+						</table>
+						<br>
+						<br>
+					{% endif %}
+			</div>
+			</form>
+					<!-- Latest compiled and minified JavaScript -->
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"/>
+		</div>
+	</body>
+</html>

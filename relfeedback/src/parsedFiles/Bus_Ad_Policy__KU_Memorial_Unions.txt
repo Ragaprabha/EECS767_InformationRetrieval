@@ -1,0 +1,49 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+	The Union will not knowingly accept any ad that clearly identifies a person by photograph, illustration, first or last name, address or telephone number without the express written consent of the person who is the subject of such ad.  Ads discriminating against or implying discrimination of any person or group of persons based on race, sex, age, color, creed, religion, gender identity, nationality or disability will not be accepted.
+	No political ads, whether local, campus-wide, statewide or national, will be accepted.  Ads must be related to campus events and organizations and only ads submitted by registered student and campus organizations, university departments and university affiliates will be accepted.
+	Advertising must include an English language translation.
+	The advertiser agrees to defend and indemnify the Union against any and all liability, loss or expenses arising from claims of libel, unfair competition, unfair trade practices, infringement of trademarks, copyrights, trade names, patents or proprietary rights or violation of rights of privacy resulting from the posting of the advertiser is ad.
+	Advertising should not feature items that are for resale or competitive with the services of the KU Memorial Unions (e.g. Dining, KU merchandise, Textbooks.)  Event advertising from campus groups will be accepted regardless of event as long as other policies are followed.
+	Outdated advertising will be destroyed unless previous arrangements have been made with the Director of Public Affairs. Additional fees to retain the advertising may apply.
+Terms of Payment
+Campus departments and organizations will be billed providing an account has been established with the KU Memorial Unions Business Office on level three of the Kansas Union.  Payments are payable within 30 days of the agreement.  As this is a campus advertising program only, no commissions will be paid to Advertising Agencies.
+Student Organizations
+25% of advertising space, or 10 ads minimum, per bus, will be reserved for student organizations.  Posting fees are waived for  recognized student organizations, only production fees will be charged.  Each ad is permitted to run in a 4-week schedule.  Ads will be produced by Union Marketing Services.  The fee for this service will be posted on the Bus Ad Page.  Student ads are accepted on a first come, first served basis until all space is allotted.  Student ads will be limited to a one-month posting if space is unavailable.
+Ad Production
+Union Marketing Services will produce all ads for use in the bus advertising program to maintain consistency in the quality of the printing and lamination.  Current fees are 30% less than offered by local retail printing services.
+50 ads printed and laminated = $125.00
+(Price subject to change.  Changes will be posted on the bus ad page.
+All advertising graphics must be submitted to adsforbuses@ku.edu no later than the Tuesday preceding the posting date.
+Policies Statement Date: March 28, 2011
+These policies are subject to change.  Please contact the KU Memorial Unions Marketing Department for the most recent policies statement.                 
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

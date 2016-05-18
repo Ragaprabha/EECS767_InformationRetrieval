@@ -1,0 +1,552 @@
+      Print, Copy &amp; Scan | Information Technology
+@import url("http://technology.ku.edu/modules/system/system.base.css?o6kacu");
+@import url("http://technology.ku.edu/modules/system/system.menus.css?o6kacu");
+@import url("http://technology.ku.edu/modules/system/system.messages.css?o6kacu");
+@import url("http://technology.ku.edu/modules/system/system.theme.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/ku_template_2012_3col/css/base.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/field_group/horizontal-tabs/horizontal-tabs.css?o6kacu");
+@import url("http://technology.ku.edu/modules/aggregator/aggregator.css?o6kacu");
+@import url("http://technology.ku.edu/modules/comment/comment.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/date/date_api/date.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o6kacu");
+@import url("http://technology.ku.edu/modules/field/theme/field.css?o6kacu");
+@import url("http://technology.ku.edu/modules/node/node.css?o6kacu");
+@import url("http://technology.ku.edu/modules/search/search.css?o6kacu");
+@import url("http://technology.ku.edu/modules/user/user.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/views/css/views.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/ckeditor/css/ckeditor.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/ctools/css/ctools.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/ku/ku_whyku/theme/ku-whyku-3col.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/ku/ku_today/theme/ku-today.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/ku/ku_static/theme/ku-static.css?o6kacu");
+@import url("http://technology.ku.edu/profiles/kudrupal/modules/contrib/field_group/field_group.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/alpha/css/alpha-reset.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/alpha/css/alpha-mobile.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/alpha/css/alpha-alpha.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/formalize.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-text.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-branding.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-menu.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-forms.css?o6kacu");
+@import url("http://technology.ku.edu/sites/all/themes/omega/omega/css/omega-visuals.css?o6kacu");
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                Information Technology
+                                        connect. communicate. collaborate.
+      Search form
+  Search 
+      Home
+AccountsPersonal Accounts
+Departmental Accounts
+KU Distribution/Group Lists
+Web Accounts
+EmailKU Email
+Outlook Web Access
+Mobile
+Departmental Email
+Mailing Lists
+Spam
+WirelessWi-Fi Overview
+Configure Wi-Fi
+Wi-Fi Expansion
+Wi-Fi When Traveling
+Computer LabsComputer Labs Overview
+Lab Locations
+Find Software
+Lab Policy
+Reserve a Lab
+Printing & Copying Info
+SoftwareOverview
+Microsoft Office
+Antivirus
+Virtual Lab
+KU Web Store
+ServicesOverview
+Print, Copy & Scan
+SecuritySecurity Overview
+Consulting & Assessment
+Help with Firewalls
+Security Training
+Email Security
+IT Security Incident Survey
+Contact ITSO
+Phishing
+Antivirus Software
+Storage
+Voice
+Internet & Network
+Video
+Client Consulting
+Projects
+Office of CIOWelcome
+About KU ITLeadership
+Employee Kudos
+Publications
+SustainabilitySustainability Overview
+Power Management
+Useful Sustainability Links
+eWaste Recycling
+CIO Messages
+Price Computing Center
+UpdatesAlerts
+News & Updates
+HelpTechnology Support - Students
+Faculty & Staff
+Classroom Support
+Knowledge Base
+Training
+New2KU &raquo
+Lync Overview
+How do I get Lync?
+Using Lync
+Lync FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync 2013
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice &  Video
+Online Meetings
+Online Meetings for Presenters
+Online Meetings for Attendees
+Collaboration
+Recording
+Tips & Tricks
+Lync Tips & Tricks
+myCommunity Overview
+Outlook 2013 OverviewOutlook 2013 – Getting Started
+Email at KU
+Add a Delegate
+Calendar Sharing
+Calendar Views
+Contacting Groups
+Contacts
+Create a Meeting
+Create an Appointment
+Create Recurring Meetings
+Edit a Scheduled Meeting
+Email Views
+Folders
+Out-of-office message
+Respond to a Meeting Request
+Scheduling Assistant
+Search
+Signatures
+Media Production Studio
+Equipment Checkout
+Recording Resources
+Editing Resources
+Workshops & Training
+Drop-off Services
+MPS Staff
+Skype for Business 2015
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice
+Skype for Business Phone Service &raquo;
+Video
+Online Meetings for Presenters
+Online Meetings for Participants
+Collaboration
+Recording
+Tips & Tricks
+Skype for Business OverviewSkype for Business Overview
+Get Skype for Business
+Using Skype for Business
+Skype for Business FAQs
+Recommended Devices
+Skype for Business - Phone Service
+Support & Troubleshooting
+Using Lync (Mac)Lync for Mac
+Getting Started
+Presence
+Contacts & Groups
+Instant Messaging
+Privacy
+Voice & Video
+Online Meetings
+Collaboration
+Lync Phone Service (Mac)
+Skype for Business Phone Service (PC)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for PC UsersCall Control Options
+Call Ringing Options
+Forwarding Calls
+Simultaneous Ring
+Instructions for Enabled PhonesChange Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync Phone Service (Mac)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for Mac UsersCall Control Options
+Change How Calls Are Answered
+Instructions for Enabled PhonesCall Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+      MenuHome
+AccountsPersonal Accounts
+Departmental Accounts
+KU Distribution/Group Lists
+Web Accounts
+EmailKU Email
+Outlook Web Access
+Mobile
+Departmental Email
+Mailing Lists
+Spam
+WirelessWi-Fi Overview
+Configure Wi-Fi
+Wi-Fi Expansion
+Wi-Fi When Traveling
+Computer LabsComputer Labs Overview
+Lab Locations
+Find Software
+Lab Policy
+Reserve a Lab
+Printing & Copying Info
+SoftwareOverview
+Microsoft Office
+Antivirus
+Virtual Lab
+KU Web Store
+ServicesOverview
+Print, Copy & Scan
+SecuritySecurity Overview
+Consulting & Assessment
+Help with Firewalls
+Security Training
+Email Security
+IT Security Incident Survey
+Contact ITSO
+Phishing
+Antivirus Software
+Storage
+Voice
+Internet & Network
+Video
+Client Consulting
+Projects
+Office of CIOWelcome
+About KU ITLeadership
+Employee Kudos
+Publications
+SustainabilitySustainability Overview
+Power Management
+Useful Sustainability Links
+eWaste Recycling
+CIO Messages
+Price Computing Center
+UpdatesAlerts
+News & Updates
+HelpTechnology Support - Students
+Faculty & Staff
+Classroom Support
+Knowledge Base
+Training
+New2KU &raquo
+Lync CommunicationsLync Overview
+How do I get Lync?
+Using Lync
+Lync FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync 2013
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice &  Video
+Online Meetings
+Online Meetings for Presenters
+Online Meetings for Attendees
+Collaboration
+Recording
+Tips & Tricks
+Lync Tips & Tricks
+Lecture Capture
+myCommunity MenumyCommunity Overview
+Outlook 2013Outlook 2013 OverviewOutlook 2013 – Getting Started
+Email at KU
+Add a Delegate
+Calendar Sharing
+Calendar Views
+Contacting Groups
+Contacts
+Create a Meeting
+Create an Appointment
+Create Recurring Meetings
+Edit a Scheduled Meeting
+Email Views
+Folders
+Out-of-office message
+Respond to a Meeting Request
+Scheduling Assistant
+Search
+Signatures
+Digital Signage
+Media Production StudioMedia Production Studio
+Equipment Checkout
+Recording Resources
+Editing Resources
+Workshops & Training
+Drop-off Services
+MPS Staff
+Skype for Business TrainingSkype for Business 2015
+Getting Started
+Presence
+Contacts & Groups
+Privacy
+Instant Messaging
+Voice
+Skype for Business Phone Service &raquo;
+Video
+Online Meetings for Presenters
+Online Meetings for Participants
+Collaboration
+Recording
+Tips & Tricks
+Skype for Business MainSkype for Business OverviewSkype for Business Overview
+Get Skype for Business
+Using Skype for Business
+Skype for Business FAQs
+Recommended Devices
+Skype for Business - Phone Service
+Support & Troubleshooting
+Using Lync (Mac)Lync for Mac
+Getting Started
+Presence
+Contacts & Groups
+Instant Messaging
+Privacy
+Voice & Video
+Online Meetings
+Collaboration
+Lync Phone Service (Mac)
+Skype for Business Phone Service (PC)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for PC UsersCall Control Options
+Call Ringing Options
+Forwarding Calls
+Simultaneous Ring
+Instructions for Enabled PhonesChange Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+Lync Phone Service (Mac)Phone Service Overview
+Transition Schedule
+Essentials
+Service Introduction
+Initial Setup
+Instructions for Mac UsersCall Control Options
+Change How Calls Are Answered
+Instructions for Enabled PhonesCall Control Options
+Change How Calls Are Answered
+Voicemail Overview & Setup
+Checking Voicemail
+Advanced Voicemail Settings
+Phone Service FAQs
+Recommended Devices
+Support & Troubleshooting
+Search
+      Search form
+  Search 
+            HomePrint, Copy &amp; Scan  
+                                Print, Copy &amp; Scan
+        ContainerOverviewPrinting, copying and scanning services for students, faculty, staff and campus visitors are available in&nbsp;many central campus locations&nbsp;such as computing labs and libraries via your KU Online ID.
+See&nbsp;Campus Printing &amp; Copying Locations&nbsp;for a list of computer labs that have multifunction devices (MFD) that can print, copy and scan on one device. KU uses a tracking program connected to the KU Card system to identify users and track printing costs.&nbsp;
+Please select from the following links to learn more about Printing, Copying &amp; Scanning at KU:
+Printing for Faculty &amp; Staff
+	Using Multifunction Devices (MFD)
+	Department, Faculty &amp; Staff Quick Start Guide (pdf)
+	Printing from Blackboard
+	Printing from Enroll &amp; Pay
+	Multifunction Device (MFD) User Guides
+Printing for Students
+Students can print from computers in open computing labs and all library&nbsp;locations across the KU campus (see locations) using their KU Online ID. You also need available funds in your Beak 'Em Bucks account on your KU Card. When you log into a computer in these open locations, you will see the amount of free printing or Beak 'Em Bucks funds available to you. Be sure to log off the computers when you are done, so that others do not use your account to print.
+	Using Multifunction Devices (MFD)
+	Print from Anywhere&nbsp;- print from personal devices to campus printers
+	Campus Quick Start Guide (pdf)
+	Free Student Printing
+	Refunds
+	Printing from Blackboard
+	Printing from Enroll &amp; Pay
+	Printing from Windows
+	Printing from Mac
+Printing for Visitors to Campus
+	Printing Access for Visitors
+	Using Multifunction Devices (MFD)
+	Purchasing Locations
+	Campus Quick Start Guide (pdf)
+Printing for Departments
+	Printer Management for Departments
+	Multifunction Device (MFD) User Guides
+What is Express Printing?
+Express or Quick Print workstations allow users to print quickly from a USB drive, email attachment or web storage without logging in to the computer. Users must provide a KU Online ID and password when prompted, and their KU card must have sufficient funds to print. Usage of the Express Print station is limited to a maximum of five minutes per session. See Print, Copy &amp; Scan Locations for a list of locations that have Express Printing workstations.
+Eligibility:
+Departments
+Faculty &amp; Staff
+Graduate Research &amp; Teaching Assistants
+Graduate Students
+Undergraduate Students
+Visitors to Campus
+Cost:&nbsp;Printing or copying costs $.08 per page for black and white and $0.48 for color. You can pay with funds you add to your  KU Beak 'Em Bucks account  or by purchasing printing credits ($1.00 minimum).&nbsp;Visit&nbsp;Beak 'Em Bucks Overview&nbsp;to learn how to add funds to your KU Card "Beak 'Em Bucks" account.
+Checking Your Printing &amp; Copying Balance:
+To check your printing and copying balance, login to myprint.ku.edu&nbsp;with your KU Online ID.&nbsp;
+Visitors:
+See "Printing for Visitors to Campus" above for information on purchasing printing credits for visitors, including purchasing locations.
+AccessPrinting
+Anyone with a KU Online ID can log in and print from computers in open computing labs and all library&nbsp;locations across the KU campus. You will also need to have access to&nbsp;free printing&nbsp;(students only) or available funds in your  KU Card "Beak 'Em Bucks" account. When you log into a campus lab computer, you will see the amount of free printing or KU Card "Beak 'Em Bucks" funds available to you. Be sure to log off the computers when you are done, so that others do not use your account to print.&nbsp;
+Copying
+Copying options include both black and white and color copying, with optional duplexing. Copying costs are the same as printing: $0.08 per page for black and white and $0.48 for color. If you have a KU Online ID, you will enter that and your password at the device using the touch screen and keyboard. Campus users will see their available printing/copying balance through the touch screen, immediately after authentication. Visitors who have purchased printing credits will enter the user name and password on the visitor access form they purchased.
+Step-by-step instructions
+	On the touch screen, press "Username." Type your KU Online ID (or visitor access user name) using the attached keyboard, and press "Enter."
+	Press "Password." Type your password using the attached keyboard, and press "Enter."
+	Press "OK."
+	The screen will display your current copying/printing balances. Press "OK."
+	The touch screen now has all of the options and functions of a copier. Use the keypad to enter the number of copies, adjust color, size, and magnification.
+	Once you are finished, press the "Access" key on the keypad to log off of the device.
+Note: The device will automatically log off after 60 seconds of inaction.
+Scanning
+Scanning options via multifunction devices (MFD) include:
+	Scan to email&nbsp;- Scan print documents and email them to yourself. View&nbsp;video instructions&nbsp;or&nbsp;Knowledge Base article.
+	Scan to USB&nbsp;- Scan print documents to a USB drive. View&nbsp;video instructions&nbsp;or&nbsp;Knowledge Base article.
+SupportStudents &amp; Visitors:
+In the Lab: 
+For printer support, please begin by requesting assistance directly in the computer lab where you are experiencing difficulty.&nbsp;
+Additional Support:
+Additional support is available through the KU Information&nbsp;Technology Customer Service Center: itcsc@ku.edu&nbsp;| 785-864-8080
+Self Help:
+Printing-related articles - KU IT Knowledge Base
+Departments, Faculty &amp; Staff:
+Please contact your unit/department technology support staff directly for assistance with printers and multifunction devices (MFD). Please visit Technology Support Center for information about your unit/department's technology support team including: team members, contact information, hours, location, and key performance indicators.
+Additional Support:
+Support is also available through the KU Information&nbsp;Technology Customer Service Center:&nbsp;itcsc@ku.edu&nbsp;| 785-864-8080
+Self Help:
+Printing-related articles - KU IT Knowledge Base
+Guides:&nbsp;Multifunction Device (MFD) Help
+Multifunction Device (MFD) User Guides
+&nbsp;
+      &nbsp; &nbsp; 
+      Browse IT Services
+Find by Category
+All
+Accounts &amp; Access
+Audio &amp; Video Services
+Campus Services
+Classroom &amp; Dept. Technology
+Computer Labs &amp; Printing
+Email &amp; Messaging
+Help, Support &amp; Training
+Mobile, Wi-Fi &amp; Web
+Network, Phone &amp; Cable TV
+Security
+Servers, Data &amp; Storage
+Teaching &amp; Learning
+Find by Eligibility
+Departments
+Faculty &amp; Staff
+Graduate Research &amp; Teaching Assistants
+Graduate Students
+Undergraduate Students
+Visitors to Campus
+      Print, Copy &amp; Scan
+Print, Copy &amp; Scan Overview
+Campus Printing Locations
+Add Funds to Your KU Card
+Using Multifunction Devices
+Multifunction Device (MFD) Help
+Campus Quick Start Guide (pdf) - Students
+Campus Quick Start Guide (pdf) - Faculty &amp; Staff
+Printer Management for Departments
+&nbsp;
+      Technology Help
+			785-864-8080
+			Phone support
+			itcsc@ku.edu
+			Support via Email
+			Faculty/Staff Support
+			Technology Support Centers
+			Knowledge Base
+			FAQs &amp; More
+			Virtual Service Desk
+			Online Help
+  Comments or ideas on how we can serve you better? Send us your feedback!
+            Why KU
+                                    Apply &raquo;
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+                                            44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report
+                                            Top 50 nationwide for size of library collection.
+&mdash;ALA
+                                            23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times
+    KU Today
+        Give to KU &raquo;
+      Contact Information Technology
+                    itcsc@ku.edu
+                            785-864-8080
+        1001 Sunnyside Ave.
+Lawrence KS 66045    
+IT Staff Login
+Log Me In Rescue Login
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

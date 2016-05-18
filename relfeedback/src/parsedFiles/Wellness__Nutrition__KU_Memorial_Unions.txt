@@ -1,0 +1,130 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+Visit these pages to learn more about KU Dining Wellness
+"Feel Better" MealsAllergies and Dietary AccommodationsNet NutritionVegetarian / VeganWellness and Nutrition Blog
+Registered Dietitian
+Cheryl Wiley, MS,RD is KU Dining Service’s on staff Registered Dietitian. Cheryl is available to assist students with dietary counseling in addition to providing annual, up to date nutrition and wellness educational programs and materials. Cheryl can be contacted at: chwiley@ku.edu 785-864-3607
+16 Health Tips for 2016
+Eating right and staying fit are important no matter what your age. Help yourself to feel your best by making healthy food choices and being physically active every day. And, it doesn´t have to be complicated. Start with these recommendations from the Dietary Guidelines for Americans.
+Common Allergens
+Filter through these Allergens on the Net Nutrition site
+Fish/Shellfish
+Tree Nuts
+Peanuts
+Eggs
+Milk
+Soy
+Corn
+Wheat
+Gluten
+High Fructose Corn Syrup
+Food Color
+Garlic
+Pork
+MSG
+Beef
+A Healthy PlanA Healthy DietPortionsAsk A Dietitian
+A healthy eating plan:
+	Emphasizes fruit, vegetables, whole grains and low-fat or fat-free milk and milk products.
+	Includes lean meats, poultry, fish, beans, eggs and nuts.
+	Is low in saturated fats, trans fats, cholesterol, salt (sodium) and added sugars.
+Watch for nutrition information in your nearest dining locations and online with KU Dining Services.
+&nbsp;
+Calorie CountingCounting calories is no easy task! Many modern day calorie counting tools are available. Do you need assistance? Read on&#8230;
+Healthy Eating
+The Academy of Nutrition &amp; Dietetics stresses a normal diet should include 25-30% fat calories, 15-20% protein calories, and 55-60% carbohydrate calories. For the average person these amounts will keep the body functions working well. Learning what your body calorie consumption plan should be can help you with keeping calorie percentages for fat, protein, and carbohydrate in line with these guidelines.
+Label Reading
+The basis for nutrition fact calculations revolve around a 2,000 calorie consumption plan&#8230;
+Read the nutrition fact chart (on packaging) to find:
+	the serving size and gram weight
+	total calories for the serving size
+	fat grams and % daily value
+	carbohydrates and % daily value
+	protein grams and % daily value
+	sugar grams
+	ingredients
+Read the nutrition facts next to the menu items @ the point of service in your residential dining unit to find:
+	Total calories
+	Fat grams (1 gram = 9 calories)
+	Protein grams (1 gram = 4 calories)
+	Carbohydrates grams (1 gram = 4 calories)
+You can then decide whether the food has too many total calories or fat grams or carbohydrate grams to fit into your calorie control plan. Keep track of your serving to then utilize KU Dining´s NetNutrition® resource.
+&nbsp;
+&nbsp;
+Healthy Dieting Weight gain research over the years have shown that 18-19 yr old adults gain 15 pounds as a college freshmen. Recent research shows decreased gains of only 5-10 pounds. Want to prevent weight gain? Follow these tips.
+The Academy of Nutrition &amp; Dietetics advocates consuming nutrient dense foods packed with calcium/vitamin D, iron, zinc, vitamin A/C, potassium, high quality protein, and many other nutrients.
+New marketing packaging components show a check mark in various forms including the American Heart Association´s check in a heart. To consume healthier foods in a normal or weigh control diet eat adequate portions of dairy foods, red meat/fish/poultry each twice per week, whole fruits/vegetables/grains plus watch for the new symbol packaging marking.
+Dieting tips include:
+	Decrease calories by 3500 calories per week or 500 calories daily to lose 1 pound.
+	Calorie consumption totals not falling below 1500 for men and 1200 for women.
+	Drinking milk or water before meals
+	Eating more slowly as takes 20 minutes for brain to tell you fullness is near
+	Drink less calorie-laden sodas, juices
+	Make your plate ½ vegetables, ¼ starch, ¼ protein
+	Limit protein to 6 oz. daily
+	Calculating your calorie needs by determining your basal metabolic rate, sedentary/moderate/high activity rates, using number calculator factors
+&nbsp;
+Portion ControlPortion control! Portion control! Hmm&#8230;What is this commonly used nutrition term? How can I make portion control work for me to win the eating nutritious foods and weight maintenance battle?
+Portion control describes controlling basic daily food intake needs by consuming set amounts of food industry standard serving sizes. These standard serving sizes can further be broken down into fat or carbohydrate or protein grams to calculate total accumulated calories for a particular food or several foods consumed in a meal or day.
+Standard Measurements
+Your dining center uses standard serving utensils (with measures in ¹/³, ¼, ½, Â¾¾ , &amp; 1 cup) or purchased preweighed foods to control portions. Basic measurements can be compared w/ objects or measured in thickness/inches. Standard portion size examples are:
+	3 oz. meat (3 ½ by 2 ½ by ½ inch thickness/size) &#8211; average hand palm size/card deck thickness
+	8 oz. glass of milk or equivalent (1 cube cheese 1 inch by 1 inch size)
+	½ c. cooked pasta/rice or vegetable or pudding or canned fruit (2 3/8 inch ball diameter)
+	1 c. salad (closed fist)
+	1 slice bread (CD case) or ½ bagel
+	¾ c. cereal or soup (baseball)
+	1 oz. = 1 egg or 2 tbsp. peanut butter
+Keep a food journal. Write down every item consumed during meals all day long using the above portion size guidelines. This will help you in utilizing KU Dining´s NetNutrition® resource.
+&nbsp;
+&#8220;Ask A Dietitian&#8221;-Questions and Answers Do you have a dietary, nutrition, and/or exercise question? Let our dietitian help! Click here to submit your question!
+&nbsp;
+Learn more about&#8230;
+Calorie CountingPortion ControlGeneral Nutrition
+	KU Dining Services
+	Choose My Plate
+	Calorie Control Council
+	ShapeFit
+	My Calorie Counter
+	Fit Watch
+	Academy of Nutrition &amp; Dietetics
+	Choose My Plate
+General Nutrition
+	Hawk Health
+	Choose My Plate
+	Academy of Nutrition &amp; Dietetics
+	Food and Health Communications
+	American Heart Association
+This site offers nutritional information and is designed for educational purposes only. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. If you have any concerns or questions about your health, you should always consult with a medical doctor or other health-care professional. Talk to your doctor before starting any diet or exercise regime. 
+Sponsored by KU Dining Services                 
+Cheryl Wiley
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

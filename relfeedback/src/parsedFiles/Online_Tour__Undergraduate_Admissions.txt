@@ -1,0 +1,480 @@
+      Online Tour | Undergraduate Admissions
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                Undergraduate Admissions
+      Search form
+  Search 
+      Home
+PlanningEarly Planning
+U.S. High Schoolers
+U.S. Transfers
+Parents
+Counselors
+International »FAQs
+AcademicsMajors
+ExperienceExperience
+Research
+Study Abroad
+Experiential Learning
+Honors
+Your First Year
+Outcomes
+AffordabilityValueU.S. Freshmen
+U.S. Transfers
+International »
+Costs & ScholarshipsU.S. Freshmen
+U.S. Transfers
+International »
+Cost Calculator
+Private Scholarships »
+Financial Aid
+LifeLife at KU
+Traditions
+Lawrence
+Housing
+Student Orgs
+Recreation
+VisitSchedule a visitHigh School Students
+U.S. Transfers
+Special Group Visits and TRIO
+International »
+Online Tour
+AccommodationsLawrence
+Kansas City
+Wichita
+Directions
+Contact
+Map &raquo;
+ApplyHow to ApplyU.S. Freshmen
+U.S. Transfers
+Readmit / Nondegree
+International »Freshman- First Year
+Transfer
+Readmit
+ESL-non-degree English Language Studies
+Non-degree Exchange Student
+Non-degree Visiting Student
+Non-degree Other Student
+Academic Accelerator »
+Graduate Studies »
+RequirementsU.S. Freshmen
+U.S. Transfers
+International »Freshmen
+Transfer
+Academic Accelerator »
+Graduate Studies »
+DeadlinesU.S. Freshmen
+U.S. Transfers
+International »
+Check StatusU.S. Freshmen & Transfers
+International »
+Transfer creditsU.S. StudentsAbout Transfers
+CredTran
+KU Core Exemptions
+Credit by Exams
+Foreign Language
+Military Service
+Course Codes
+Transfer Guides
+Kansas Course Transfer/Reverse Transfer
+International »About Transfers
+CredTran
+ACT/SAT Exemptions
+Credit by Exams
+Military Service
+Course Codes
+Program Sheets
+Kansas Course Transfer/Reverse Transfer
+Reps
+Staff
+AdmittedU.S. Freshmen
+U.S. Transfers
+International »
+U.S. TransfersWelcome
+Planning
+AffordabilityValue
+Costs & Scholarships
+Private Scholarships
+Financial Aid
+ApplyHow To Apply
+Requirements
+Deadlines
+Check Status
+Transfer Credits
+Reps
+Staff
+Parents
+Counselors
+Kansas Course Transfer/Reverse Transfer
+International »Welcome
+PlanningOverview
+FAQs
+AffordabilityValue
+Costs & Scholarships
+ApplyHow to ApplyFreshman- First Year
+Transfer
+Readmit
+ESL-non-degree English Language Studies
+Non-degree Exchange Student
+Non-degree Visiting Student
+Non-degree Other Student
+Academic Accelerator »
+Graduate Studies »
+RequirementsFreshmen
+Transfer
+Academic Accelerator »
+Graduate Studies »
+Deadlines
+Check Status
+Transfer CreditsAbout Transfers
+CredTran
+Credit by Exam
+Course Codes
+Transfer Guides
+Kansas Course Transfer/Reverse Transfer
+Reps
+Staff
+ConnectStudent Ambassadors
+Alumni Profiles
+Schedule a Visit
+Virtual Events
+IRUA Social Media
+Video Challenge
+      MenuHome
+PlanningEarly Planning
+U.S. High Schoolers
+U.S. Transfers
+Parents
+Counselors
+International »FAQs
+AcademicsMajors
+ExperienceExperience
+Research
+Study Abroad
+Experiential Learning
+Honors
+Your First Year
+Outcomes
+AffordabilityValueU.S. Freshmen
+U.S. Transfers
+International »
+Costs & ScholarshipsU.S. Freshmen
+U.S. Transfers
+International »
+Cost Calculator
+Private Scholarships »
+Financial Aid
+LifeLife at KU
+Traditions
+Lawrence
+Housing
+Student Orgs
+Recreation
+VisitSchedule a visitHigh School Students
+U.S. Transfers
+Special Group Visits and TRIO
+International »
+Online Tour
+AccommodationsLawrence
+Kansas City
+Wichita
+Directions
+Contact
+Map &raquo;
+ApplyHow to ApplyU.S. Freshmen
+U.S. Transfers
+Readmit / Nondegree
+International »Freshman- First Year
+Transfer
+Readmit
+ESL-non-degree English Language Studies
+Non-degree Exchange Student
+Non-degree Visiting Student
+Non-degree Other Student
+Academic Accelerator »
+Graduate Studies »
+RequirementsU.S. Freshmen
+U.S. Transfers
+International »Freshmen
+Transfer
+Academic Accelerator »
+Graduate Studies »
+DeadlinesU.S. Freshmen
+U.S. Transfers
+International »
+Check StatusU.S. Freshmen & Transfers
+International »
+Transfer creditsU.S. StudentsAbout Transfers
+CredTran
+KU Core Exemptions
+Credit by Exams
+Foreign Language
+Military Service
+Course Codes
+Transfer Guides
+Kansas Course Transfer/Reverse Transfer
+International »About Transfers
+CredTran
+ACT/SAT Exemptions
+Credit by Exams
+Military Service
+Course Codes
+Program Sheets
+Kansas Course Transfer/Reverse Transfer
+Reps
+Staff
+AdmittedU.S. Freshmen
+U.S. Transfers
+International »
+U.S. TransfersWelcome
+Planning
+AffordabilityValue
+Costs & Scholarships
+Private Scholarships
+Financial Aid
+ApplyHow To Apply
+Requirements
+Deadlines
+Check Status
+Transfer Credits
+Reps
+Staff
+Parents
+Counselors
+Kansas Course Transfer/Reverse Transfer
+International »Welcome
+PlanningOverview
+FAQs
+AffordabilityValue
+Costs & Scholarships
+ApplyHow to ApplyFreshman- First Year
+Transfer
+Readmit
+ESL-non-degree English Language Studies
+Non-degree Exchange Student
+Non-degree Visiting Student
+Non-degree Other Student
+Academic Accelerator »
+Graduate Studies »
+RequirementsFreshmen
+Transfer
+Academic Accelerator »
+Graduate Studies »
+Deadlines
+Check Status
+Transfer CreditsAbout Transfers
+CredTran
+Credit by Exam
+Course Codes
+Transfer Guides
+Kansas Course Transfer/Reverse Transfer
+Reps
+Staff
+ConnectStudent Ambassadors
+Alumni Profiles
+Schedule a Visit
+Virtual Events
+IRUA Social Media
+Video Challenge
+Search
+      Search form
+  Search 
+            HomeVisitOnline Tour  
+      @media all and (max-width: 479px) {
+      .featured-slide_2025      {
+      width: 300px;
+ height: 110px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-320/public/virtual-tour-banner.jpg?itok=vC4IK-DI) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 480px) and (max-width: 719px) {
+      .featured-slide_2025      {
+      width: 480px;
+ height: 176px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-480/public/virtual-tour-banner.jpg?itok=yb32n9u_) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 720px) and (max-width: 959px) {
+      .featured-slide_2025      {
+      width: 680px;
+ height: 249px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-720/public/virtual-tour-banner.jpg?itok=6Hz12Hca) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 960px) and (max-width: 1199px) {
+      .featured-slide_2025      {
+      width: 580px;
+ height: 212px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-960/public/virtual-tour-banner.jpg?itok=HARaseeN) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 1200px) {
+      .featured-slide_2025      {
+      width: 820px;
+ height: 300px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-1200/public/virtual-tour-banner.jpg?itok=J9tiZx9F) no-repeat top left; background 
+      }
+        }
+      	      		&nbsp;
+                One of 34 U.S. public institutions in the prestigious Association of American Universities              
+                26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined              
+                Nearly $290 million in financial aid annually              
+                44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report              
+                Top 50 nationwide for size of library collection.
+&mdash;ALA              
+                23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times              
+                          Can&#039;t visit yet? Take the online tour.
+            Virtual Tour 
+Or, see:  Panoramas | Videos | Photos
+All links open in a new window.
+Get started
+Majors
+	Costs
+	Life
+	Housing
+	AP/IB Credits
+	Scholarships
+	Transfer Credit
+Request info
+Domestic students
+	International students
+	High School/Community College Counselors
+Visit
+Directions
+	Map
+	Online Tour
+Apply
+Requirements
+	Deadlines
+Next steps
+For admitted students
+          Megan Belgeri    
+          St. Louis Regional Representative    
+          314-696-2473    
+          meganb@ku.edu    
+          Kaci Bray    
+          Assistant Director for Diversity and Outreach, Admissions Representative    
+          785-864-5416    
+          krbray@ku.edu    
+          Facebook    
+          Twitter    
+          Lindsay Brunelli    
+          Chicago Regional Representative    
+          773-710-9527    
+          lbrunelli@ku.edu    
+          Bonnie Ewart-Fisher    
+          Admissions Representative    
+          785-864-5213    
+          bfisher@ku.edu    
+          Twitter    
+          Carly Froyum    
+          Minnesota Regional Representative    
+          602-717-9407    
+          carly.froyum@ku.edu    
+          Paige Gugat    
+          Mid-Atlantic Regional Representative    
+          785-550-5984     
+          pgugat@ku.edu    
+          Elisa Krapcha    
+          Assistant Director, Colorado Regional Representative    
+          719-344-9986    
+          ekrapcha@ku.edu    
+          Annie Frizzell Mills    
+          Southern California Regional Representative    
+          619-501-5453    
+          annie.mills@ku.edu    
+          Facebook    
+          Twitter    
+          Shannon O'Hagan    
+          International Admissions Representative    
+          issrecruit@ku.edu    
+          Twitter    
+          Chris Paradies    
+          Chicago Regional Representative    
+          785-764-6734    
+          paradies@ku.edu    
+          Taylor Rice    
+          Admissions Representative    
+          785-864-5424    
+          taylorrice@ku.edu    
+          Christina Rudolph    
+          Admissions Representative    
+          785-864-5410    
+          crudolph@ku.edu    
+          Ally Stanton    
+          Assistant Director for Freshmen Recruitment, Admissions Representative    
+          785-864-3920     
+          allystanton@ku.edu    
+          Amanda Swanson    
+          Admissions Representative    
+          785-864-5407    
+          akswanson@ku.edu    
+          Twitter    
+          Conor Taft    
+          Admissions Representative    
+          785-864-5370    
+          ctaft@ku.edu    
+          Katie Twist    
+          Admissions Representative    
+          785-864-5567    
+          ktwist@ku.edu    
+          Jessy Wilkes    
+          Transfer Admissions Representative    
+          785-864-5408    
+          jwilkes@ku.edu    
+          Danny Woods    
+          Admissions Representative    
+          785-864-2617    
+          dannywoods@ku.edu    
+Ask a rep
+ 
+Representatives are available for U.S. freshmen, transfer, and international students.
+ 
+ 
+              Chat with us
+      Lawrence, Kansas 66045-7576    
+              International Admissions
+issrecruit@ku.edu
+785-864-2616
+Strong Hall, Room 45, 1450 Jayhawk Blvd.
+Lawrence, Kansas 66045-7576
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+      Staff login
+U.S. Freshmen
+	U.S. Transfers
+	International
+	Graduate Studies
+	Law School
+	Medical School
+	Readmit: U.S. | International
+	Nondegree seeking: U.S. | International
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

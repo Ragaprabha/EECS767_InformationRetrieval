@@ -1,0 +1,45 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+To learn about positions available at the KU Memorial Unions, check out our job postings: Job Postings Page
+To email the KU Bookstore with questions regarding an online merchandise order, use this link: jayhawks@ku.edu
+AdministrationDavid Mucci Union Director, 785-864-4651
+KU Dining ServicesMark PetrinoKU Dining, Director of KU Dining, 785-864-7213Sheryl KidwellKU Dining, Residential, Asst. Director, 785-864-4627Alecia StultzKU Dining, Retail, Asst. Director, 785-864-2466Robert PierreleeKU Dining, Director of Catering, 785-864-2400Kamay AbelKU Dining, Roasterie Coffee Coordinator/Supervisor, 785-423-0270Brian ChambersKU Dining, Manager: Mortar & Pestle, 785-864-7086Karen CrossKU Dining, Meal Plan Administrator, 785-864-7274Christine EbertKU Dining, Student Coordinator/Registered Dietitian, 785-864-2424Cynthia FairclothKU Dining, Manager Courtside Café, 785-864-5694Whitney FoxKU Dining, Catering Coordinator, 785-864-2444Dave HurwitzKU Dining, Manager: Studio Cafe & Jayhawk Grocer, 785-864-1890Chris JohnstonKU Dining, Manager: Mortar & Pestle and Jay Break, 785-864-7086 or 785-423-3227Keith LakeKU Dining, Manager: The Market, 785-864-2412Mark MaranellKU Dining, Manager: Mrs. E's, 785-864-8211Shauna OwensKU Dining, Administrative Assistant, 785-864-2447Jim SchillingKU Dining, Manager: Oliver Dining Hall, 785-864-4087Janna TraverKU Dining, Executive Chef, 785-864-0195David WeakleyKU Dining, Manager: North College Café, 785-864-3120John WhittingtonKU Dining, Manager: The Underground, 785-864-5022
+KU BookstoreJennifer O'ConnorKU Bookstore, Director, 785 864-2640Sue ZippererKU Bookstore, Assistant Director-Operations, 785-218-4527James RourkeKU Bookstore, Assistant Director, 785-864-2472Rachel BarnesKU Bookstore, Jayhawk Ink Print Shop, 785-864-2470Lisa Eitner Event Coordinator, 785-864-2481Tech ShopKU Bookstore,  785-864-1361Textbook DepartmentKU Bookstore,  785-864-5263
+Business and Accounting ServicesJeffrey Dahnert Director, Finance & Administration, 785-864-5215Angie Bollinger Controller, 785-864-5237
+Computing ServicesAndrew LeBar IT Manager, 785-423-7138
+Event ServicesLisa KringEvent Services, Director, Building Services, 785-864-2420Whitney FoxKU Dining, Catering Coordinator, 785-864-2444Sharon LeathermanEvent Services, Event Services Manager, 785-864-2418Jamie Webb Event Services Coordinater, 785-864-2419
+Building ServicesKirby Ostrander Union Custodial Services, 785-864-3460Andrew Rea Maintenance Supervisor, 785-423-0375Jeremy Whetstone Operations Manager, 785-864-3653 or Cell 785-423-7128
+Human ResourcesJessica Boyle HR Director, 785-864-2450Kaidee Mehrer Human Resources Specialist, 785-864-4922Amanda Jaquays Administrative Assistant, 785-864-2450Teresa Ray Benefits Manager, 785-864-1438
+KU HistoryMike Reid Director, KU History Project, 785-218-0400 
+Marketing, Media and ProgramsJ.J. O'Toole-CurranMarketing, Media & Programs, Director, 785-864-2436Michelle ComptonUnion Programs, Associate Director, 785-864-2434Tom JohnsonUnion Programs, Asst. Director of Media and Outreach, 785-864-2422Lauren Haskin Marketing, Media & Programs Asst. Director, 785-864-6047Chad BeattyMarketing, Web Designer, 785-864-6454Jennifer Baker Graphic Designer, 785-864-9480Whitney MahoneyUnion Programs, Program Advisor, 785-864-2435Margaret HairUnion Programs, Program Coordinator, 785-864-4848Aman Reaka Senior Graphic Designer, 785-864-9480Donna Santaularia Marketing Administrative Assistant, 785-864-4842Tori StrobelUnion Programs, Graduate Assistant, 785-864-2428
+Welcome Center/SUA Box OfficeWelcome Center  785-864-7469
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

@@ -1,0 +1,673 @@
+         | Financial Aid &amp; Scholarships | KU
+                                        Financial Aid &amp; Scholarships
+                                                        Search form
+                                                            Search 
+        Home
+            Financial Aid
+                Overview
+                    How to apply
+                        1. File the FAFSA
+                            2. Review your SAR
+                                Verification Information
+                        3. Accept/Decline Awards
+                        4. Receive Your Aid
+                        Special Situations
+                    Eligibility
+                        Satisfactory Academic Progress
+                        Enrollment Status
+                    Grants
+                        All Grants
+                        KU's Pell Advantage
+                        Forms
+                    Work-study
+                        Federal Work-Study
+                        Kansas Career Work-Study
+                        Summer Work-Study
+                    Loans
+                        Federal loans
+                        Loan Forms
+                Summer Financial Aid
+            Scholarships
+                Overview
+                Scholarship FAQs
+                Private and State Scholarships
+            Costs
+                Tuition &amp; fees
+                Freshman calculator
+                Tuition compact
+            Billing &amp; Payments
+                Overview
+                    Paying your bill
+                        eBill explained
+                        Enrollment Deposit
+                        Due dates &amp; Late fees
+                        Returned checks
+                        Questions on Charges
+                        Payment FAQs
+                Holds
+                Refunds
+                Taxes
+                Contacts »
+        Forms
+            Help
+                Contact Us
+                FAQs
+                Videos
+                Consumer Info
+                Financial literacy
+                Definitions
+            Menu
+                Home
+                    Financial Aid
+                        Overview
+                            How to apply
+                                1. File the FAFSA
+                                    2. Review your SAR
+                                        Verification Information
+                                3. Accept/Decline Awards
+                                4. Receive Your Aid
+                                Special Situations
+                            Eligibility
+                                Satisfactory Academic Progress
+                                Enrollment Status
+                            Grants
+                                All Grants
+                                KU's Pell Advantage
+                                Forms
+                            Work-study
+                                Federal Work-Study
+                                Kansas Career Work-Study
+                                Summer Work-Study
+                            Loans
+                                Federal loans
+                                Loan Forms
+                        Summer Financial Aid
+                    Scholarships
+                        Overview
+                        Scholarship FAQs
+                        Private and State Scholarships
+                    Costs
+                        Tuition &amp; fees
+                        Freshman calculator
+                        Tuition compact
+                    Billing &amp; Payments
+                        Overview
+                            Paying your bill
+                                eBill explained
+                                Enrollment Deposit
+                                Due dates &amp; Late fees
+                                Returned checks
+                                Questions on Charges
+                                Payment FAQs
+                        Holds
+                        Refunds
+                        Taxes
+                        Contacts »
+                Forms
+                    Help
+                        Contact Us
+                        FAQs
+                        Videos
+                        Consumer Info
+                        Financial literacy
+                        Definitions
+        Search
+    -->
+            #header {
+                background: #001E9E;
+                width: 130%;
+                height: 50px;
+                color: #fff;
+                font-size: 36px;
+                font-family: Verdana, Geneva, sans-serif;
+                text-align: center;
+            }
+            #header label {
+                padding-top: 12px;
+            }
+            th.details-control.sorting_disabled {
+                width: 10%;
+            }
+            div#body {
+                width: 130%;
+            }
+            td.details-control {
+                background: url('images/details_open.png') no-repeat center center !important;
+                cursor: pointer;
+            }
+            tr.details td.details-control {
+                background: url('images/details_close.png') no-repeat center center !important;
+            }
+            #section-content .region-content-inner {
+                background: white !important;
+            }
+            div#finalTable_length {
+                padding-bottom: 15px;
+            }
+            .f_accordion {
+                cursor: pointer;
+                font-family: Georgia, Times, "Times New Roman", serif;
+                margin: 10px 0;
+                font-size: 14px;
+                font-weight: bold;
+                padding-left: 12px;
+                background: transparent url(https://webmedia.ku.edu/templates/cms/2012/images/accordion-closed.gif) no-repeat center left;
+                color: #0022B4;
+                cursor: pointer;
+            }
+            .f_active_accordion {
+                background: transparent url(https://webmedia.ku.edu/templates/cms/2012/images/accordion-open.gif) no-repeat center left;
+            }
+            .f_accordion_content {
+                padding: 0 0 10px 32px;
+            }
+    Private and State Scholarships
+    State of Kansas Scholarships:
+    Kansas Distinguished Scholarship
+                Deadline: No specific date must submit each semester
+                Award: Total cost of tuition and fees
+            Description:
+            This program is designed to assist Kansas resident grad student who have been designated as a Brasenose, Chevening, Fulbright, Madison, Marshall, Mellon, Rhodes or Truman Scholar to obtain funding for tuition and fees to further their graduate studies at a Kansas Public University..
+            Application instructions:
+            Students who meet the criteria as a Kansas Distinguished Scholar must submit a letter to KBOR regarding their educational intent along with documentation of their scholar status and a copy of their billing statement. Information should be mailed to Kansas Board of Regents, 1000 SW Jackson Street, Suite 520, Topeka, KS 66612-1368
+    Kansas Ethnic Minority Scholarship
+                Deadline: May 1st
+                Award: $1,850 annually
+            Description:
+            This program is designed to assist financially needy, academically competitive students who are identified as members of any of the following ethnic/racial groups: African American, American Indian, or Alaskan Native, Asian or Pacific Islander, or Hispanic.
+            Application instructions:
+            Students who meet the criteria as an Ethnic Minority can apply online with the Kansas Board of Regents by May 1st. Paper applications are also available in FAS at the Service Desk. A $12.00 processing fee is due at the time of application completion. sfa.kansasregents.org
+    Kansas State Scholarship
+                Deadline: May 1st
+                Award: $1,000 annually
+            Description:
+            This program is designed to assist financially needy students in the top 20-40% of Kansas high school graduates who are designated as a State Scholar during their Senior year in high school
+            Application instructions:
+            State of Kansas Student Aid Application completed and submitted either online or the paper version and the $12.00 application fee must be submitted. (Priority deadline May 1) Submit an official copy of all academic transcripts. (Priority deadline May 1) Submit at least one letter of recommendation; academic, or employment-related. (Priority deadline May 1) If a current teacher, submit a copy of your teaching certificate or license. sfa.kansasregents.org
+    Kansas Teacher Service Scholarship
+                Deadline: May 1st
+                Award: Varies
+            Description:
+            Knowing that there is an increased need to employ qualified teachers in hard-to- fill disciplines and underserved geographic areas of the state, this program was enacted to increase the number of licensed and fully endorsed teachers in the state of Kansas. This service obligation scholarship program provides financial assistance to both students pursuing bachelor's degree programs and currently licensed teachers pursuing endorsement in hard-to-fill disciplines or master's degrees in hard-to-fill disciplines or either group planning to teach (K-12) in an underserved geographic area in Kansas.
+            Application instructions:
+            State of Kansas Student Aid Application completed and submitted either online or the paper version and the $12.00 application fee must be submitted. (Priority deadline May 1) Submit an official copy of all academic transcripts. (Priority deadline May 1)
+            Submit at least one letter of recommendation; academic, or employment-related. (Priority deadline May 1)
+            If a current teacher, submit a copy of your teaching certificate or license.
+            sfa.kansasregents.org
+    Kansas Military Service Scholarship
+                Deadline: May 1st
+                Award: Varies
+            Description:
+            This scholarship will be available to students who meet specified criteria and who served in Iraq and Afghanistan and have need.
+            Application instructions:
+            Student who meet the scholarship criteria can apply online with the Kansas Board of Regents by May 1st. Paper applications are also available in FAS at the Service Desk. A $12.00 processing fee is due at the time of application completion. sfa.kansasregents.org
+    Kansas Army National Guard Army Reserve Officer's Training Corps(ROTC) Scholarship Program
+                Deadline: Fall semester is the third Friday in September. Spring semester is the third Friday in February
+                Award: Total cost of tuition and fees
+            Description:
+            The purpose of this program is to assist highly qualified individuals who are motivated to achieve a college degree and acquire a Reserve officer commission in the Kansas Army National Guard.
+            Application instructions:
+            Student who meet the scholarship criteria can apply online with the Kansas Board of Regents by May 1st. Paper applications are also available in FAS at the Service Desk. A $12.00 processing fee is due at the time of application completion. sfa.kansasregents.org
+    Coca Cola Scholarships:
+    Coca-Cola Transfer Scholarship
+                Deadline: Jun 1
+                Award: $500 to $1,000
+            Description:
+            This scholarship is for transfer students pursuing their first undergraduate degree who are the children (or step-children claimed as dependents) of benefits- eligible KU faculty or staff members. Scholarships will be awarded&nbsp; competitively based on the applicant's cumulative grade point average.
+            Application instructions:
+            Application may be made for the Coca-Cola Scholarship in one of two ways:
+            Indicate on the Application for Undergraduate Admission that you are the dependent of a KU employee; OR
+            Complete the following Application:
+            Coca-Cola Transfer Student Application
+    Coca-Cola Scholarship for Current Students
+                Deadline: not listed
+                Award: $500 to $1,000
+            Description:
+            Based on available funds, scholarships may be awarded to current KU students pursuing their first undergraduate degree who are the children (or step-children claimed as dependents) of benefits eligible KU faculty or staff members (KU affiliates included). 
+            Application instructions:
+            Complete the following application:
+            Coca-Cola Scholarship Application&nbsp;for Current Students
+    Coca-Cola Incoming Freshman Scholarship
+                Deadline: not listed
+                Award: $1,000
+            Description:
+            This scholarship is for students pursuing their first undergraduate degree who are the children (or step-children claimed as dependents) of benefits-eligible KU faculty or staff members. &nbsp;Priority deadline for the Coca-Cola Scholarship is June 1.
+            Application instructions:
+            Application may be made for the Coca-Cola Scholarship in one of two ways:
+            Indicate on the Application for Undergraduate Admission that you are the dependent of a KU employee; OR
+            Complete the following application:
+            Coca-Cola Scholarship Application for Incoming Freshmen
+    Featured Scholarships
+    LaVerne Noyes Scholarship
+                Deadline: June 1
+                Award: Varies
+            Description:
+                        The LaVerne Noyes Scholarship is for DIRECT blood descendants of anyone who served in the army/navy of the United States in World War I who fulfilled at least one of the following criteria: 
+                        (a) Served on active duty overseas between April 6, 1917 and November 11, 1918, 
+                        (b) Died in service between April 6, 1917 and November 11, 1918, OR 
+                        (c) Served at least 6 months on non-combat duty between April 6, 1917 and November 11, 1918.
+                The Noyes Scholarship can only be awarded to those who demonstrate financial need by filing the FAFSA.  First-time applicants must also submit a readable photocopy of military enlistment and discharge records of your descendant along with documentation (birth certificates, marriage licenses) verifying your relationship to the descendant. Renewal applicants need not resubmit documentation if you received the Noyes Scholarship at KU within the last four years
+            Application instructions:
+                Application can be requested by emailing scholarships@ku.edu or completing the following application
+                Laverne Noyes Scholarship Application
+    Jane M. Klausman Women in Business Scholarship
+                Deadline: June 15
+                Award: $1,000
+            Description:
+                        The Jane M. Klausman Women in Business Scholarships are awarded to women undertaking business studies who have demonstrated outstanding potential in the field. Zonta International offers up to 32 scholarships of $1,000 each at the district/region level and 12 international scholarships in the amount of $7,000 each. Any woman undertaking a business and/or business-related program at an accredited university/college/institute, in at least the second year of an undergraduate program through the final year of a Master’s program at the time the application is submitted, is eligible to apply. The Scholarship may be used at any university, college or institute offering accredited courses and degrees. Previous International Jane M. Klausman Women in Business Scholarship recipients may not apply to renew the Scholarship for a second year.
+            Application instructions:
+                Applicants will apply through a local Zonta Club in Johnson County, Kansas.  Submit the below application to amccleery@sbcglobal.net
+                JMK Application 2016
+    Central Kansas Community Foundation Scholarships
+                Deadline: Varies
+                Award: Varies
+            Description:
+                        Central Kansas Community Foundation (CKCF) has a wide variety of scholarships available to unified school districts in the Central Kansas Region as well as scholarships that are degree and region specific.
+            Application instructions:
+                To access all the scholarship opportunities that CKCF has to offer go to the CKCF website, https://centralkansascf.org/non-profit-organizations/scholarships/. Be sure to check each affiliate as you may qualify for scholarships outside of your community. New scholarships are being posted daily so check the website frequently.
+    Study Abroad Scholarships
+    *Scholarship administered by KU Office of Study Abroad
+    *OSA Merit and Financial Need General Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Oct 1st
+                Winter Break: Oct 1st
+                Spring Break: Oct 1st
+                Summer: Mar 1st
+                Award:
+                Academic Year: $1,000 - $5,000
+                Fall: $1,000 - $5,000
+                Spring: $1,000 - $5,000
+                Winter Break: $500
+                Spring Break: $500
+                Summer: $500
+            Country/Program Specific:
+            Any program for academic credit
+            General Eligibility Requirements:
+            Degree-seeking undergraduates or graduates; Merit scholarships are competitive, awarded on the basis of academic merit and essay; Financial Need scholarships are awarded based on financial need as determined by the FAFSA as well as a financial need statement.
+            Application instructions:
+            Find application information here.
+    *Allan W. Wicker and Edna Elnar-Wicker Study Abroad Scholarship
+                Deadline:
+                Fall: Mar 1st
+                Spring: Mar 1st
+                Award: $10,000
+            Country/Program Specific:
+            SIT Study Abroad Program
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; 2.5 GPA
+            Application instructions:
+            Find application information here.
+    *Anita Herzfeld Study Abroad Award for Latin America
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Summer: Mar 1st
+                Award: $500
+            Country/Program Specific:
+            Latin America
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; 3.0 GPA
+            Application instructions:
+            Find application information here.
+    *Boren Scholarship
+                Deadline:
+                Academic Year: Dec 1st
+                Fall: Dec 1st
+                Spring: Dec 1st
+                Summer: Dec 1st
+                Award: 
+                Academic Year: $20,000
+                Fall: $10,000
+                Spring: $10,000
+                Summer: $8,000
+            Country/Program Specific:
+            Non-traditional locations
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; Critical language study, including but not limited to Arabic, Chinese, Korean, Portuguese, Russian, and Swahili; Required to work for the U.S. Government one year upon return.
+            Application instructions:
+            For more information, make an appointment with Jenna Hunter-Skidmore, OSA Program Coordinator, 785-864-3742; Find application information here.
+    *Carl C. Krehbiel and L. Neil Slentz German Language Summer Institute Scholarship
+                Deadline:
+                Summer: Mar 1st
+                Award: up to $4,000
+            Country/Program Specific:
+            Eutin or Holzkirchen Germany Language Programs
+            General Eligibility Requirements:
+            Degree-seeking undergraduates, 2.5 GPA
+            Application instructions:
+            Find application information here.
+    *Costa Rica Early Start Program Scholarship
+                Deadline:
+                Fall: Mar 1st
+                Spring: Oct 1st
+                Award: $1,200
+            Country/Program Specific:
+            University of Costa Rica, Early start program
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; 3.0 GPA
+            Application instructions:
+            Find application information here.
+    *Drs. Dean T. and Elisabeth Collins Germany Study Abroad Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Oct 1st
+                Award: 
+                Academic Year: $20,000
+                Fall: $10,000
+                Spring: $10,000
+            Country/Program Specific:
+            Germany
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; 2.5 GPA
+            Application instructions:
+            Find application information here.
+    *Freeman East Asia Internship Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Summer: Mar 1st(15-Jan priority deadline)
+                Award: $5,000
+            Country/Program Specific:
+            East Asia Internship
+            General Eligibility Requirements:
+            U.S. citizens or permanent residents; Degree-seeking undergraduates
+            Application instructions:
+            Find application information here.
+    *ISEP - Andrew Debicki Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Oct 1st
+                Award: up to $2,000
+            Country/Program Specific:
+            KU ISEP exchange program
+            General Eligibility Requirements:
+            Degree-seeking undergraduates
+            Application instructions:
+            Apply through OSA Merit and Financial Need General Scholarship: Find application information here.
+    *Joan Fowler Kessler Watkins Women Study Abroad Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Oct 1st
+                Award: $500
+            Country/Program Specific:
+            A country in which English is not the primary language.
+            General Eligibility Requirements:
+            Watkins Scholarship Hall resident; Financial need as determined by the FAFSA.
+            Application instructions:
+            Find application information here.
+    *Kevin and Joann Nunnink Study Abroad Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Oct 1st
+                Winter Break: Oct 1st
+                Spring Break: Oct 1st
+                Summer: Mar 1st
+                Award: $500 - $2,000
+            Country/Program Specific:
+            Any program for academic credit
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; 3.0 GPA, Financial Need; St. Lawrence Catholic Center members; Graduated from high school in metro area under 75,000 pop. in KS, MO, CO, OK, IA, AR, NE
+            Application instructions:
+            Find application information here.
+    *University of Hong Kong Study Abroad Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Oct 1st
+                Award: $6,500
+            Country/Program Specific:
+            University of Hong Kong
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; Chinese language study
+            Application instructions:
+            Find application information here.
+    Ashley Soule Conroy Foundation Scholarship
+                Deadline:
+                Fall: Jul 1st
+                Spring: Dec 1st
+                Award: $3,000
+            Country/Program Specific:
+            Any program for academic credit
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; Must have demonstrated fi nancial need as determined by the FAFSA; 3.0 GPA
+            Application instructions:
+            Find application information here.
+    Benjamin A. Gilman International Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Oct 6th
+                Summer: Mar 1st(Oct 6th early deadline)
+                Award: average: $4,000
+            Country/Program Specific:
+            Any program that is at least 4 weeks (28 days); Preference given to nontraditional locations
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; Federal Pell Grant recipients
+            Application instructions:
+            For more information, make an appointment with your OSA Program Coordinator; 785-864-3742; Find application information here.
+    Bridging Scholarship
+                Deadline:
+                Academic Year: Apr 8th
+                Fall: Apr 8th
+                Spring: Oct 8th
+                Award: $2,500 - $4,000
+            Country/Program Specific:
+            Japan
+            General Eligibility Requirements:
+            U.S. citizens; Degree-seeking undergraduates
+            Application instructions:
+            Find application information here.
+    China Direct Exchange
+                Deadline: Mar 2nd
+                Award: Tuition, room and board
+            Country/Program Specific:
+            Nanjing University or Nankai University, China
+            General Eligibility Requirements:
+            Degree-seeking upper level undergraduates or graduates; 3.0 GPA; Preference to U.S. citizens or permanent residents
+            Application instructions:
+            Contact Sue Lorenz, Offi ce of International Programs, slorez@ku.edu;Find application information here.
+    Critical Language Scholarship Program
+                Deadline:
+                Summer: Early Nov
+                Award: Fully funded program
+            Country/Program Specific:
+            CLS Programs
+            General Eligibility Requirements:
+            U.S. citizens; Degree-seeking undergraduates or graduates who are at least 18 years old
+            Application instructions:
+            Find application information here.
+    DAAD
+                Deadline:
+                Academic Year: Jan 31st
+                Fall: Jan 31st
+                Spring: Jan 31st
+                Award: amounts vary
+            Country/Program Specific:
+            Germany
+            General Eligibility Requirements:
+            U.S. or Canadian citizens; Degree-seeking undergraduates or graduates
+            Application instructions:
+            Make an appointment with Jenna Hunter-Skidmore, OSA Program Coordinator, 785-864-3742;Find application information here.
+    Foreign Language & Area Studies Fellowships
+                Deadline:
+                Academic Year: Feb 14th
+                Summer: Feb 14th
+                Award: $5,000 - $15,000 (Graduate AY up to $33,000)
+            Country/Program Specific:
+            Africa, Asia
+            General Eligibility Requirements:
+            Undergraduate or graduate students; less commonly-taught foreign languages and either area or international studies.
+            Application instructions:
+            Find application information here.
+    Foundation for Global Scholars-GRIT Leadership
+                Deadline:
+                Academic Year: Feb 14th
+                Summer: Feb 14th
+                Award: $5,000 - $15,000 (Graduate AY up to $33,000)
+            Country/Program Specific:
+            Africa, Asia
+            General Eligibility Requirements:
+            Undergraduate or graduate students; less commonly-taught foreign languages and either area or international studies.
+            Application instructions:
+            Find application information here.
+    Freeman-ASIA Foundation
+                Deadline:
+                Academic Year: Apr 1st
+                Fall: Apr 1st
+                Spring: Early Oct
+                Summer: Mar 1st
+                Award: $3,000 - $7,000
+            Country/Program Specific:
+            East or Southeast Asia
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; Must have demonstrated fi nancial need as determined by the FAFSA; 2.8 GPA
+            Application instructions:
+            Find application information here.
+    Fulbright-Hays Doctoral Dissertation Research Grant
+                Deadline:
+                Academic Year: Apr 21st
+                Award: Tuition, fees, room and board
+            Country/Program Specific:
+            Any program for academic dissertation credit
+            General Eligibility Requirements:
+            Degree-seeking graduate-level students
+            Application instructions:
+                Contact Sue Lorenz, Offi ce of International Programs, slorez@ku.edu;
+                Find application information here.
+    Fund for Education Abroad
+                Deadline:
+                Academic Year: Jan 18th
+                Fall: Jan 18th
+                Spring: Jan 18th
+                Summer: Jan 18th
+                Award: $1,250 - $10,000
+            Country/Program Specific:
+            Any program that is at least 4 weeks (30 days); Preference given to nontraditional locations
+            General Eligibility Requirements:
+            U.S. citizen or permanent resident; Degree-seeking undergraduates
+            Application instructions:
+                Find application information here.
+    Graduate Direct Exchange
+                Deadline:
+                Academic Year: Feb 19th
+                Award: Tuition, room and board
+            Country/Program Specific:
+            Germany or France Partner Universities
+            General Eligibility Requirements:
+            Degree-seeking graduate-level students
+            Application instructions:
+            Contact Sue Lorenz, Offi ce of International Programs, slorez@ku.edu;Find application information here.
+    Honor Society of Phi Kappa Phi
+                Deadline:
+                Academic Year: Feb 15th
+                Fall: Feb 15th
+                Spring: Sep 15th
+                Summer: Feb 15th
+                Award: $1,000
+            Country/Program Specific:
+            Any program for academic credit
+            General Eligibility Requirements:
+            Degree-seeking undergraduates; 3.75 GPA
+            Application instructions:
+            Find application information here.
+    James B. Pearson Fellowship
+                Deadline:
+                Academic Year: Apr 1st
+                Fall: Apr 1st
+                Spring: Apr 1st
+                Award: average: $2,400
+            Country/Program Specific:
+            Any program for academic credit relating to foreign affairs
+            General Eligibility Requirements:
+            Degree-seeking graduate-level Kansas resident students
+            Application instructions:
+                For more information, email graduate@ku.edu;
+                Find application information here.
+    JASSO Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Oct 1st
+                Award: $2,700 - $6,800
+            Country/Program Specific:
+            Japan Exchange Partner Universities
+            General Eligibility Requirements:
+            Degree-seeking undergraduate awarded generally on academic merit
+            Application instructions:
+                For more information, make an appointment with Renee Frias, OSA Program Coordinator, 785-864-3742;
+                Find application information here.
+    Kansas-Paraguay Partners Study Abroad Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Mar 1st
+                Award: $1,500
+            Country/Program Specific:
+            Paraguay
+            General Eligibility Requirements:
+            Degree-seeking undergraduates
+            Application instructions:
+                Find application information here.
+    Lewer Mark ‘Make Your Mark’ Scholarship
+                Deadline:
+                Academic Year: Mar 1st
+                Fall: Mar 1st
+                Spring: Mar 1st
+                Summer: Mar 1st
+                Award: up to $1,250
+            Country/Program Specific:
+            Any program for academic credit
+            General Eligibility Requirements:
+            Degree-seeking undergraduates or graduates
+            Application instructions:
+                Find application information here.
+    Rotary Foundation Global Grants
+                Deadline:
+                Academic Year: Early May
+                Award: up to $30,000
+            Country/Program Specific:
+            Any academic year program for academic credit
+            General Eligibility Requirements:
+            Degree-seeking graduate-level Kansas resident students; Area of focus must be within 6 key areas of Rotary interest
+            Application instructions:
+                Contact Tom Mulinazzi; tomm@ku.edu or Carl E. Locke; lok@ku.edu;
+                Find application information here.
+            Title
+            Description
+            Category
+            Award
+            Due Date
+  Scholarship Searches:
+You may find it helpful to use these outside resources to help in your search for private scholarships.
+academicinvest.com
+    fastweb.com
+    schoolsoup.com
+    scholarshipexperts.com
+Submitting scholarships:
+If you would like a private scholarship to appear on our list, please fill out the form below to submit. Please note, each submission will undergo review and approval.
+Submit a scholarship
+Reporting your reward:
+After you receive a private scholarship you will need to follow the link below to report the reward.
+Report Outside  
+         Contact Financial Aid &amp; Scholarships
+                    financialaid@ku.edu
+                            785-864-4700
+KU Visitor Center, 1502 Iowa St. 
+Lawrence, KS 66045-7576
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+          The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

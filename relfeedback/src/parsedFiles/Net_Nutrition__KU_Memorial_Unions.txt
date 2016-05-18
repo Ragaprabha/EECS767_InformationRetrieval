@@ -1,0 +1,80 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+NetNutrition® is an online nutrition analysis program. This service provides a convenient method to calculate the approximated nutritional values of your food selections from our various campus dining locations. These Daily Value percentages are based upon a setting that averages the Recommended Dietary Allowances (RDAs) for males and females between the ages of 19-24. NetNutrition is best viewed in Internet Explorer.
+KU Dining flags food items with the top 8 allergens plus gluten.  Look for these icons in our locations.
+Enter the Net Nutrition site here.
+Common Allergens
+Filter through these Allergens on the Net Nutrition site
+Fish/Shellfish
+Tree Nuts
+Peanuts
+Eggs
+Milk
+Soy
+Corn
+Wheat
+Gluten
+High Fructose Corn Syrup
+Food Color
+Garlic
+Pork
+MSG
+Beef
+Frequently asked Net Nutrition Questions
+Where can I find nutrition information about the foods served in the residential dining centers?
+Visit the NetNutrition® nutrient calculator. For items that are ingredients and condiments that are available everyday, choose Everyday Selections.
+Does NetNutrition have information on national brands featured in KU Dining locations (i.e. Pizza Hut®, Freshëns® Smoothie Company, Chick-fil-A® or Sushi with Gusto?)
+Unfortunately, NetNutrition does not store nutritional information for our featured national brands. If you are interested in learning more, we invite you to visit the nutrition areas of their Web sites, which are listed below:
+	Chick-fil-A®
+	Pizza Hut®
+	Freshëns® Smoothie Company
+	Sushi with Gusto   PDF Download from sushiwithgusto.com
+How do I use NetNutrition?
+1. Pick the dining location you plan to visit.
+2. Choose the date and meal. This selection allows you to view the various menu categories being served. &#8220;Everyday Selections&#8221; provides a listing of items that are seen often in your dining location.
+3. Choose the category, then select menu item(s) you want analyzed.
+&nbsp;
+	a. Please note the standard serving size. If desired, you can use the pull down menu to select another serving size that reflects the portion you plan to consume.
+	b. Select ¨Item Nutrition¨ for a quick glance of the Nutritional Information preview or hover curser over the menu item, nutritional information will pop up for viewing.
+	c. If desired, select item and portion size, then ¨Add Items¨ to see the items you will be selecting for the day/week.
+	d. Review your ¨Meal Nutrition¨ analysis for Calories, Fat, Protein, Carbohydrates and Sodium.
+4. If you have allergies or food intolerances, use the ¨Filters¨ at the bottom left of the home page.
+	a. Select the allergy or food intolerance, then select ¨Apply Filters¨ to provide you with a shopping cart of menu items from which to choose.
+	b. Manufacturers sometimes change product formulations without notice. Due to a recent vendor change, many of our products have changed. Nutritional and allergen updates are in progress. We encourage you to talk with your dining manager if you have severe allergies.
+How do I add items (ketchup, cheese, etc) to my customized sandwich, burger, or wrap?
+Find your location and select your menu item (ie: Crunchy Chicken Cheddar Wrap from Brellas). Then click &#8220;Add Items.&#8221; Next, click Everyday Selections from the same dining location, then &#8220;Daily Sandwich/Burger/Wrap Toppings,&#8221; and choose from the list that appears. Click &#8220;Add Items&#8221; to add those toppings to your meal.
+How do I find items without wheat or gluten within Net Nutrition?
+It’s as easy as selecting the wheat/gluten allergen filter in Net Nutrition. Simply find your location, select the wheat/gluten allergen filter and only those items without wheat/gluten will be listed. Many of our menu selections can be altered to be more gluten sensitive friendly. Please ask your server if an item can be prepared with a gluten free substitute (ie: bread, tortilla), however we cannot guarantee a certified gluten free establishment. If you need further assistance, please contact the unit manager. Click here for a list of gluten free substitutes and gluten free individually wrapped snacks.
+How are values calculated in NetNutrition?
+Nutrition analysis is based on a 2000 calorie diet. All information is approximate. Information is based on ingredient labels, USDA information and standardized recipes.
+Can I look up items that were served yesterday?
+Menus are posted three days prior and seven days from the current date for most of the residential and retail operations on campus.
+How can I figure portion sizes?
+Use the following as a guide for judging portion sizes:
+	Computer mouse = ¾ cup
+	Deck of Cards = 3 oz. portion of meat
+	Postage Stamp = 1 teaspoon
+	Tennis Ball = ½ cup
+	Slice of Cheese = ¾ ounce
+	Glass at Dining Center = 1.5 cups (12 oz.)
+	Coffee mug at Dining Center = 1 cup (8 oz.)
+	Small Fountain Beverage = 2 cup (16 oz.) no ice
+	Medium Fountain Beverage = 2.5 cup (21 oz.) no ice
+	Large Fountain Beverage = 4 cup (32 oz.) no ice
+What kind of oil is used for frying foods
+Our liquid frying shortening is 100% Canola oil in the all-you-care-to-eat dining locations. Chick-Fil-A items are prepared with peanut oil.
+I'm a vegetarian and my friend is a vegan. 
+

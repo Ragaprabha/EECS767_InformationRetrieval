@@ -1,0 +1,78 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+            Nature&#8217;s Finest : Gumbo
+            Nature&#8217;s Finest : Mediterranean Salad
+            Nature&#8217;s Finest : Jamaican Jerk Tofu Wrap
+            Nature&#8217;s Finest : Buffalo Tofu Wrap
+            Nature&#8217;s Finest : Cuban Sandwich
+		Diverse menu offerings from
+cuisine styles around the world
+A number of the ingredients
+are organic and/or non-GMO
+100% plant-based and vegan
+Recipes developed in-house
+by KUDS culinary team
+Focus on quality nutrition 
+and great taste
+');
+	  jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-menudata-es.php',
+	      function (output){
+			  jQuery('#esmenu').html(output).show();
+			  jQuery('#delete_me_spinner2').remove();
+  });
+  }
+  function getnccmenu(){
+	  jQuery('#loader').append('');
+	  jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-menudata-ncc.php',
+	      function (output){
+			  jQuery('#esmenu').html(output).show();
+			  jQuery('#delete_me_spinner2').remove();
+  });
+  }
+  function getolivermenu(){
+	  jQuery('#loader').append('');
+	  jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-menudata-oliver.php',
+	      function (output){
+			  jQuery('#esmenu').html(output).show();
+			  jQuery('#delete_me_spinner2').remove();
+  });
+  }
+Mrs. E’s Hours for Today
+7:00 am - 8:00 pm : all hours Mrs. E&#8217;s Page
+View Mrs. E&#8217;s Menu for Today
+NCC Hours for Today
+7:00 am - 7:30 pm : all hours NCC Page
+View NCC&#8217;s Menu for Today
+Oliver Hours for Today
+7:00 am - 7:30 pm : all hours Oliver Page
+View Oliver&#8217;s Menu for Today
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

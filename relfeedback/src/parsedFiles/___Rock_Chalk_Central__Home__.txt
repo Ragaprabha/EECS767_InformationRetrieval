@@ -1,0 +1,194 @@
+	Rock Chalk Central - Home
+		.container-social .social-links .social-icon:hover {
+			border-color: #2199c9 !important;
+		}
+		.navbar-inverse .navbar-nav > li.active > a,
+		.navbar-inverse .navbar-nav > li.active > a:hover,
+		.container-subnav .navbar-inverse .navbar-nav .dropdown-menu > li.active > a,
+		.container-subnav .navbar-inverse .navbar-nav .dropdown-menu > li.active > a:hover {
+			border-bottom-color: #2199c9 !important;
+		}
+		.navbar-user .dropdown-menu > li {
+			border-left-color: #2199c9 !important;
+		}
+		.section-tiles-tile .tile-image {
+			border-top-color: #1A7AA0 !important;
+		}
+		.navbar-nav .badge,
+		.navbar-nav li.section-globalnav-signin a.btn-primary,
+		.navbar-nav li.section-globalnav-signin a.btn-primary:active,
+		.section-footer .btn-primary,
+		.section-footer .btn-primary:active,
+		.section.container-coverphoto .btn-primary,
+		.section.container-coverphoto .btn-primary:active,
+		.btn-accent,
+		.btn-accent:active,
+		.tagline,
+		.mainStart-container .optionContainer .mainStart-optionIcon,
+		.mainStart-container .optionContainer .mainStart-optionIcon:active,
+		.container-social .social-links .social-icon:hover {
+			background-color: #2199c9 !important;
+		}
+		.navbar-nav li.section-globalnav-signin a.btn-primary:hover,
+		.section.container-coverphoto .btn-primary:hover,
+		.section-footer .btn-primary:hover,
+		.btn-accent:hover,
+		.mainStart-container .optionContainer .mainStart-optionIcon:hover {
+			background-color: #1A7AA0 !important;
+		}
+	h3,
+	h4,
+	.section.container-coverphoto h2,
+	.section.container-coverphoto h2 .h2,
+	h2 .section.container-coverphoto .h2,
+	.section.container-coverphoto h3,
+	.statusSection,
+	.org-stats .number,
+	.container-social .social-icons .social-title h2, .container-social .social-icons .social-title h2 .h2,
+	h2 .container-social .social-icons .social-title .h2, .navbar-user-container {
+		font-family: Roboto Slab!important;
+	}
+	body,
+	h2,
+	h5,
+	h6,
+	.btn,
+	.img-avatarinitials,
+	.org-registration-text,
+	.metric .dataItem-data,
+	.approvalSection .arrow_box .number,
+	.message-email_container,
+	.approvalSection .arrow_box .number,
+	.additionalFields legend,
+	.metric .dataItem-data,
+	.metric h4,
+	.createEvent-header,
+	.monetaryImpactHours,
+	#monetaryImpact,
+	#userNav-container,
+	.organization-navigation li a,
+	table.table.roster-table > tbody > tr > td, table.table.roster-table > thead > tr > th, #InterestRanker ul, #InterestManager ul, .linkList {
+		font-family: Lato!important;
+	}
+				JavaScript is disabled on your browser. Please enable JavaScript to use this site.
+        Skip to Content
+        Skip Main Navigation
+                    Toggle navigation
+                Rock Chalk Central
+                    Home
+                    Events
+                    Organizations
+                            Campus Links 
+                                    KU Homepage
+                                    Student Involvement &amp; Leadership Center
+                                    Student Senate
+                                    Resources for Student Organizations
+                                    Space Application Form (2016-17)
+                                    Summer Interest Survey (Summer 2016)
+                                    Student Organization Officer Handbook
+                                    Advisor&#39;s Manual
+                                    Officer Transition Manual
+                                    Constitution and By-Laws
+                                    Coca-Cola Product/Programming Requests
+                                    Rock Chalk Dream Maker Fund Application
+                                    Office/Cubicle Key Card Computer List
+                                    Greek Life Interest Form
+                                    Kansas and Burge Union Room Reservations
+                                    Card Swipe Reader Checkout Form
+                                    Request New Email Account/Password Reset
+                                    Orgs-l Listserve  (Add to List)
+                                    Student Organization Business Cards
+                        Search
+                            Sign In
+                        Organizations
+                        {{ result.DisplayName }}
+                            No Results
+                         10">
+                             Show more
+                                &nbsp;
+                        Events
+                        {{ result.Name }}
+                            No Results
+                         10">
+                             Show more
+                                &nbsp;
+                        News
+                        {{ result.Title }}
+                            No Results
+                         10">
+                             Show More
+                                &nbsp;
+                        No Results
+                Close Search
+				X
+					Corq
+						for Android
+					View
+	.container-coverphoto {
+		background-image: url(https://images.collegiatelink.net/clink/images/6f6406bf-3378-4d27-9754-78150f591d6b46da50b0-cdf0-4f32-ba59-e981c85f8974.png?preset=large-h); background-image: linear-gradient(rgba(0, 0, 0, .10), rgba(0, 0, 0, .65)), url(https://images.collegiatelink.net/clink/images/6f6406bf-3378-4d27-9754-78150f591d6b46da50b0-cdf0-4f32-ba59-e981c85f8974.png?preset=large-h)!important;
+	}
+		@media handheld, only screen and ( max-width: 949px ) {
+			.container-coverphoto__home {
+			background-image: url(https://images.collegiatelink.net/clink/images/ff9acd41-06cb-4dde-9594-b2109d85ab492f0fdee8-fff5-47dc-bbb8-7de6284822f9.png?preset=large-h); background-image: linear-gradient(rgba(0, 0, 0, .10), rgba(0, 0, 0, .65)), url(https://images.collegiatelink.net/clink/images/ff9acd41-06cb-4dde-9594-b2109d85ab492f0fdee8-fff5-47dc-bbb8-7de6284822f9.png?preset=large-h)!important;
+			}
+		}
+					Close
+					Rock Chalk Central Home
+					Sign in to the Rock Chalk Central experience
+					Sign In Now
+				Support
+				Jump in with these opportunities!
+													KU Student Farm Potluck
+													&nbsp;
+													05 May 2016
+													&nbsp;
+													5:30 PM - 7:30 PM
+													&nbsp;
+													Ecumenical Campus Ministeries
+													&nbsp;
+													Social
+												T
+													Tax Club, KU
+												I
+													Institute for Electrical and Electronics Engineers
+													Undergraduate Business Council
+													Sports &amp; Entertainment Law Society
+													Hillel, KU
+													Hilarity for Charity, KU
+													Badminton Club
+													Junior Panhellenic Association
+													Center for Sustainability
+													Oread Center (A Community for Christian Faith, Calling, and Culture) 
+												K
+													Kansas Journal of Law and Public Policy
+													Phi Kappa Psi Fraternity
+												P
+													Phi Alpha Delta (Law School Chapter)
+													Student Involvement &amp; Leadership Center
+													Lutheran Campus Ministry
+													Called To Greatness
+												S
+													Society for Advancement of Chicanos/Hispanics and Native Americans in Science, University of Kansas Chapter 
+													Chinese Students &amp; Scholars Friendship Association (CSSFA)
+													Rugby, Womens&#39;
+													Sigma Alpha Lambda 
+													Student Affairs
+													Lacrosse Club, Women&#39;s
+													Graduate Association of School Psychologists
+				Not sure where to start in Rock Chalk Central?
+				Choose an option to jumpstart your experience!
+					Find an Organization
+					Find an Event
+					My Involvement
+							Get the details
+							From start time to ticket info get all of the details you need to know about your next adventure.
+							Find your way
+							Corq will bring you right to the door of an event whether it's a bike ride, road trip, or across the country.
+							Share your experience
+							Get your friends involved by posting events that you are excited about to your favorite social media site.
+							Download Corq from the Google Play Store
+							Download Corq from the Aple App Store
+					    Sign In
+					Powered by CollegiateLink. CollegiateLink is part of Campus Labs. &copy; Copyright 2016 Campus Labs.
+			@import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+

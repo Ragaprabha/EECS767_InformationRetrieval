@@ -1,0 +1,99 @@
+      KU Career Services Alliance | KU Career Services Alliance
+@import url("http://careerservices.ku.edu/modules/system/system.base.css?o67fap");
+@import url("http://careerservices.ku.edu/modules/system/system.menus.css?o67fap");
+@import url("http://careerservices.ku.edu/modules/system/system.messages.css?o67fap");
+@import url("http://careerservices.ku.edu/modules/system/system.theme.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/ku_template_2012_3col/css/base.css?o67fap");
+@import url("http://careerservices.ku.edu/modules/aggregator/aggregator.css?o67fap");
+@import url("http://careerservices.ku.edu/modules/comment/comment.css?o67fap");
+@import url("http://careerservices.ku.edu/profiles/kudrupal/modules/contrib/date/date_api/date.css?o67fap");
+@import url("http://careerservices.ku.edu/profiles/kudrupal/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o67fap");
+@import url("http://careerservices.ku.edu/modules/field/theme/field.css?o67fap");
+@import url("http://careerservices.ku.edu/modules/node/node.css?o67fap");
+@import url("http://careerservices.ku.edu/modules/search/search.css?o67fap");
+@import url("http://careerservices.ku.edu/modules/user/user.css?o67fap");
+@import url("http://careerservices.ku.edu/profiles/kudrupal/modules/contrib/views/css/views.css?o67fap");
+@import url("http://careerservices.ku.edu/profiles/kudrupal/modules/contrib/ckeditor/css/ckeditor.css?o67fap");
+@import url("http://careerservices.ku.edu/profiles/kudrupal/modules/contrib/ctools/css/ctools.css?o67fap");
+@import url("http://careerservices.ku.edu/profiles/kudrupal/modules/ku/ku_whyku/theme/ku-whyku-3col.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/ku_template_2012_3col/css/leftnav.css?o67fap");
+@import url("http://careerservices.ku.edu/profiles/kudrupal/modules/ku/ku_today/theme/ku-today.css?o67fap");
+@import url("http://careerservices.ku.edu/profiles/kudrupal/modules/ku/ku_static/theme/ku-static.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/ku_template_2012_3col/css/homepage-slideshow.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/omega/alpha/css/alpha-reset.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/omega/alpha/css/alpha-mobile.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/omega/alpha/css/alpha-alpha.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/omega/omega/css/formalize.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/omega/omega/css/omega-text.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/omega/omega/css/omega-branding.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/omega/omega/css/omega-menu.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/omega/omega/css/omega-forms.css?o67fap");
+@import url("http://careerservices.ku.edu/sites/all/themes/omega/omega/css/omega-visuals.css?o67fap");
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                KU Career Services Alliance
+      Search form
+  Search 
+      Home
+      MenuHome
+Search
+      Search form
+  Search 
+All students can find tools for choosing a major, career path, or student employment via workshops and advising from the UCC. Students in the Colleges of Liberal Arts and Sciences, Education, and Social Welfare can receive additional job and internship advising.
+Business students can find jobs that fit their interests and academic backgrounds through an aggressive external marketing effort and a comprehensive internal preparation program.
+This four-year career development program begins with freshmen taking a free interest inventory and personality assessment to help them explore and evaluate various roles in engineering fields.
+The Journalism Career Center can help students at any stage in their college career, whether you're ready to enter the job market or just beginning to explore the possibilities of print or broadcast journalism.
+The University of Kansas School of Music offers a complementary Career Services Center to assist music students with career preparation. The Career Services Center offers career guidance, job and internship listings, and regular interaction between students and potential employers and School of Music alums.
+              KU Career Services Events
+&nbsp;
+&nbsp;
+              KU Career Connections
+      Search jobs &amp; internships or request an appointment.
+Students, log in with your KU online ID and password. If you have not registered yet, you will be prompted to register when you first log in.
+ Student  Employer  Faculty/Staff
+Username: 
+Password: Forgot your password? student | employer | faculty/staff 
+            Why KU
+                                    Apply &raquo;
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+                                            44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report
+                                            Top 50 nationwide for size of library collection.
+&mdash;ALA
+                                            23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times
+    KU Today
+        Give to KU &raquo;
+      Contact KU Career Services Alliance
+                    kucareer@ku.edu
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

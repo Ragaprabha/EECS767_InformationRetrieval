@@ -1,0 +1,43 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+Visit the KU Bookstore at Jayhawk Central 
+The &#8220;Jayhawk Central&#8221; at Edwards Campus
+12520 Quivira Road, Overland Park, KS 66213-2404, (913) 897-8580 OR (785) 864-8580, Located on the Edwards Campus on the west side of Quivira Road, across from the Overland Park golf course.
+From Lawrence: Take K-10 east to I-435 east. Exit I-435 east onto Quivira Road. Take a right onto Quivira Road, head south around 10 blocks. The Edwards Campus is located on the west (left) side of Quivira Road.
+Today’s Hours10:00 am - 6:00 pm : all hours
+Edwards Dining Features:
+Lamar&#8217;s Donuts and Coffee 
+Sarpino&#8217;s Pizza
+Edwards Map
+View Larger Map
+&nbsp;                 
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

@@ -1,0 +1,96 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+KU on Wheels Bus Advertising
+The KU Memorial Unions offer KU organizations an economical way to reach the over 14,000 daily riders of the KU on Wheels transit system.
+GeneralOrder ProcedureRatesAd SpecificationsSubmitting AdAffordable Campus Advertising for KU Organizations
+Through an agreement with KU Parking and Transit, the Unions offer bus advertising services to registered student groups, campus departments and affiliates of the University of Kansas. Ads are normally posted on the last weekend of each month. Any variations from the schedule will be posted on this site.
+There are currently up to 50 buses serving KU which feature advertising panels on the inside of each bus. Ads are placed in all buses accessible on the posting date. To read our advertising acceptance policy visit this link.
+See the Tab titled &#8220;Submitting Ad&#8221; for submission dates.
+You must include the following in your email (adsforbuses@ku.edu):
+	PDF of your 10 in.high by 16 in. wide ad (made for printing at 300 dpi or above.)
+	Your name and phone number
+	The name of your organization
+	The billing address of your organization
+	The dates you wish the ad to run
+BUS ADVERTSING RATES EFFECTIVE 2/20/15
+Available to Student Organizations/Campus Departments/University Affiliates only
+BUS ADVERTISING FEES
+Rate
+Production Fees
+Printing and Lamination (10 mil.) – 50 ads to cover all accessible buses. This is charged of all advertisers.
+$125
+Ad Posting Fees
+Registered Student Organizations* 
+One 11″ x 17″ ad One Month Free for Registered Student Organizations ($0)
+Max. 12 student group ads per month accepted.
+Check with the Student Senate Communications Office in the Student Involvement and Leadership Center in room 410 of the Kansas Union if seeking financial assistance for the production of your ad.
+Free
+Departmental and Affiliate Rates: One 11″ x 17″ ad:
+Rate
+One Month
+$75
+Two Months
+$145
+Three Months
+$205
+Four Months
+$250
+Six Months
+$335
+Annual
+$725
+*Student organizations receive free ads to promote their organization&#8217;s sponsored events. The free ads cannot be used to promote another campus unit&#8217;s events in an attempt to circumvent the pricing policies.
+**Payment in the form of credit card, check or university departmental charge may be required before printing and lamination is completed.
+	A request to post a bus ad must be made no later than 6 days before the posting date. Request to adsforbuses@ku.edu
+	Ads must be submitted in a digital format to adsforbuses@ku.edu no later than 6 days before the posting date.
+	Ad copy must be exactly 10&#8243; high by 16&#8243; wide.
+	Ads should be submitted as a high resolution (300 dpi) PDF, JPEG or TIFF
+	Lamination works best if the background is not a solid, dark color. Color images on white or light-colored backgrounds laminate the best.
+	Ads must feature the name or logo of the sponsoring campus organization.
+	Corporate sponsorship recognition cannot exceed a 2&#8243; x 3&#8243; space.
+	All ads will be printed and laminated by the Union Bus Ad team. We cannot make exceptions due to the inconsistent nature of lamination. If the lamination is not the correct thickness, the ad won&#8217;t stay up. We have compared our pricing with other sources and have found that our fees are approximately 30 percent less than using off-campus sources.
+	To reserve space and place ad orders you may send an email to adsforbuses@ku.edu. Advertising space is allocated on a first come/first served basis. It is rare that the buses run out of space.
+	Your email order, with the ad attached (PDF), must include the name of the advertising organization, the billing address of the organization, contact name, email and phone number, and the desired dates to run the ad.
+	Ads should be submitted by 8 a.m. on the Tuesday before the posting weekend.
+POSTING DATES &amp; SUBMISSION DATES
+(We must be receive your ad by the SUBMISSION DATE.)
+Ads are usually posted on the last weekend of each month. Variations are noted with an asterisk *.
+	October 27 by 8am &#8211; Submission &#8211; for posting November 2015
+	November 24 by 8am &#8211; Submission &#8211; for posting December 2015
+	December 22 by 8am &#8211; Submission &#8211; for posting January 2015
+	January 26 by 8am &#8211; Submission &#8211; for posting February 2016
+	February 23 by 8am &#8211; Submission &#8211; for posting March 2016
+	March 22 by 8am &#8211; Submission &#8211; for posting April 2016
+	April 26 by 8am &#8211; Submission &#8211; for posting May 2016
+	May 14 BY 8am &#8211; Submission &#8211; for posting June 2016
+	If you have additional questions please email: adsforbuses@ku.edu or call 785-864-4842 between 8:00 a.m. and 5:00 p.m, Mon.-Fri.
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

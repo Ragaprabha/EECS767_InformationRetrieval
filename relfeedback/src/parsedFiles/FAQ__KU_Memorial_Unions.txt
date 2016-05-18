@@ -1,0 +1,61 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+			 -->
+				 click for menu
+				Skip to content
+                the UUnion HomeHours of OperationContactsHuman ResourcesPositions/OpeningsKU HISTORYVisit KUHistory.comEventsToday at the UMediaMedia Contactgeneral newsAbout the UnionsLetter from the DirectorGiving OpportunitiesKansas UnionDining OptionsLounge / Study AreasShoppingWalking TourWelcome CenterDirectories and MapsKansas Union ServicesJayhawk CentralDining OptionsEdwards MapEdwards ServicesShoppingThe DeBruce CenterBurge UnionAdvertising OpportunitiesBrochuresBus AdvertisingBus Ad PolicyCampus TVStudent Design CenterTable Tent AdsDirectories and MapsEATKU Dining HomeMenusHoursContactsFAQKU Dining CaresSustainabilityCampus PartnersVendor PartnersDining PlansCampanile PlanKU Cuisine Faculty/Staff Dining PlanCateringCatering GuideCommencement 2016Just One FrillPick-me-upsPick-Me-Ups OrderingBar PricingJobs / Other ServicesAbout ResidentialAbout RetailEmployment InfoPositions / OpeningsLocationsCourtside CaféImpromptu CafeJay BreakJayhawk GrocerMortar &#038; Pestle CaféMrs. E&#8217;sNature&#8217;s FinestNorth College CafeO&#8217;ZoneOliver HallRoasterie CoffeehouseThe MarketThe Studio CafeThe UndergroundWellness / NutritionWellness and Nutrition BlogNet NutritionVegetarian / VeganAllergies and Dietary Accommodations&#8220;Feel Better&#8221; MealsSHOPKU Bookstore LocationsAbout Tech ShopAbout Jayhawk InkBuy TextbooksShop for RegaliaText Book RequisitionVisit KUBookstore.comMEETEvent Services HomeLetter from the DirectorAudio Visual ServicesContactsEvents Forms and DocsStudent Groups FAQToday @ the UPoliciesEvent Planning ResourcesEvent Quick GuideParkingCateringCatering GuideJust One FrillPick-me-upsPick-Me-Ups OrderBar PricingCommencement 2016Room ReservationsRequest a Room: Online SystemRoom Setup OptionsDescriptions and RatesPLAYThe JayWelcome CenterENGAGEPrograms HomeUnion Programs ContactsVisit Kansas Union GalleryVisit Student Union ActivitiesVisit KJHK 90.7 FM RadioVisit The Big EventWelcome CenterThe Jay
+               BusinessMarketingthe UUnion HomeKU CouponsThank YouUnionFest PhotosUnionFest Photos 2014you @ the UHours of OperationMay 9th-May 15thApril 18-May 13March 11-March 13March 21-May 13March 25-March 27May 16th-May 30thSpring Break March 14-20ContactsHawks NestWin @ The UWin at the U ResultsHuman ResourcesPositions/OpeningsKU HISTORYVisit KUHistory.comEventsToday at the UMediaMedia Contactgeneral newsSubmission ErrorAbout the UnionsLetter from the DirectorGiving OpportunitiesKansas UnionDining OptionsLounge / Study AreasShoppingWalking TourWelcome CenterDirectories and MapsKansas Union ServicesJayhawk CentralDining OptionsEdwards MapEdwards ServicesShoppingThe DeBruce CenterBurge UnionAdvertising OpportunitiesBrochuresBus AdvertisingBus Ad PolicyCampus TVStudent Design CenterTable Tent AdsDirectories and MapsEATJune 1 &#8211; June 28KU Dining HomeMenu UpdaterThank YouMenusHoursContactsFAQKU Dining CaresMenusSustainabilityCampus PartnersVendor PartnersDining PlansCampanile PlanKU Cuisine Faculty/Staff Dining PlanCateringCatering GuideCommencement 2016Just One FrillPick-me-upsPick-Me-Ups OrderingBar PricingJobs / Other ServicesAbout ResidentialAbout RetailEmployment InfoThank YouPositions / OpeningsLocationsCourtside CaféImpromptu CafeJay BreakJayhawk GrocerMortar &#038; Pestle CaféMrs. E&#8217;sNature&#8217;s FinestNorth College CafeO&#8217;ZoneOliver HallRoasterie CoffeehouseThe MarketThe Studio CafeThe UndergroundWellness / NutritionWellness and Nutrition BlogNet NutritionVegetarian / VeganAllergies and Dietary Accommodations&#8220;Feel Better&#8221; MealsWhat Students Say about KU DiningSHOPKU Bookstore LocationsAbout Tech ShopAbout Jayhawk InkBuy TextbooksShop for RegaliaText Book RequisitionThank YouVisit KUBookstore.comMEETEvent Services HomeLetter from the DirectorAudio Visual ServicesContactsEvents Forms and DocsStudent Groups FAQToday @ the UWant to Show a Movie?PoliciesEvent Planning ResourcesEvent Quick GuideParkingCateringCatering GuideJust One FrillPick-me-upsPick-Me-Ups OrderPick Me Ups Thank YouBar PricingCommencement 2016Room ReservationsRequest a Room: Online SystemRoom Setup OptionsDescriptions and RatesPLAYThe JayWelcome CenterENGAGEPrograms HomeUnion Programs ContactsVisit Kansas Union GalleryVisit Student Union ActivitiesVisit KJHK 90.7 FM RadioVisit The Big EventWelcome CenterThe JayTailgate Photos 10-11-14Tailgate Photos 11-15-14Tailgate Photos 11-8-14Tailgate Photos 9-20-14Tailgate Photos 9-27-14Tailgate Photos 9-6-2014
+ -->
+	FAQ
+		How do I use my KU Cuisine Dining Plan? Your KU Card is required for each transaction. All you need to do is present your KU Card for access/meal swipe in the Residential Dining Centers or have your card scanned at any of the Campus Retail Cafes to use your KU Cuisine Cash or Beak ´Em Bucks.
+Where can I use my Dining Plan options?We offer maximum flexibility at our 22 campus locations − including residence hall (all you-care to eat) dining centers, Cuisine to Go (sack meals), retail cafés in the KU Memorial Unions and Pharmacy building located on West Campus, as well as convenient Jay Breaks (snack bars). Here is how the different components of the dining plans are used:
+	¨Dining Center Access/Meals¨Includes access to Ekdahl Dining Center (Mrs. E´s), Oliver Dining Center, and North College Cafe Dining Center for meals or snacks. Also can be used for Cuisine To Go at The Studio Café (Hashinger Hall), O´zone (Oliver Hall) or North College Cafe Dining Center.
+	¨Bring A Friend¨ Meals:Assigned to the KU Card and can be used at the all-you-care-to-eat Dining Centers to host friends or family. Bring A Friend meals do not deduct from the total Dining Center Meals. Inform the cashier that you wish to use a Bring A Friend meal before your KU Card is run through at the register.
+	¨KU Cuisine Cash¨: Use at all 22 locations on campus and for Domino´s and Glory Days Pizza delivery. To view the campus locations click here.
+What does ¨Unlimited Access¨ mean on the Jayhawk Unlimited $500 Plus and Rock Chalk Unlimited $300 Plans? Unlimited access means you may enter the dining center (Mrs. E´s, North College Cafe or Oliver Dining) as many times as you like during normal hours of operation. There is no cap on the number of times you may enter each day, provided you have one of the following active KU Cuisine Dining Plans: Jayhawk Unlimited $500 Plus Plan or Rock Chalk Unlimited $300 Plan. It is ideal for students who eat several smaller meals per day or for students who utilize the dining centers for studying and have access to snacks.
+ How do the weekly plans (Blue Basic and Campanile Apartment) work?
+The Blue Basic, and Campanile Apartment plans all have meals that reset every Monday morning.Meals do not roll over.
+ How does the 'free Za pizza bonus' work for the Jayhawk Unlimited $500 Plus and Rock Chalk Unlimited $300 Plans?Free Za Pizza is available at The Studio, 2nd floor of Hashinger Hall, and Ozone, 1st floor of Oliver Hall. Free Za Pizzas are activated the Tuesday following the deadline for meal plan changes. Fall semester is September 8, 2015 and spring semester is February 2, 2016. One free large one-topping pizza allowed per day.
+ What is the difference between KU Cuisine Cash and Beak ´Em Bucks? KU Cuisine Cash is part of the dining plan and cannot be recharged. Beak ¨Em Bucks is a declining balance account that is automatically set up for you when the KU Card is issued and can be recharged. If there are both accounts on a KU Card, the system is programmed to use KU Cuisine Cash first and then Beak ´Em Bucks.
+ What is ¨Cuisine to Go¨?  A quick ¨to go¨ meal exchange on your KU Cuisine dining plan (dining center access/meals) that allows you the flexibility and convenience to select from varied menu options of foods and beverages to take with you on those busy days when you cannot get back to your favorite dining center. You can select ¨Cuisine to Go¨ service up to two meals per day during the service hours posted in each location (Studio Café, Oliver Dining and North College Café). ¨Cuisine To Go¨ service hours are available on this page of our website under the Residential Dining hours.
+ What factors should I consider when choosing a Dining Plan? 
+	Do you typically eat three meals daily (with snacks)?
+	Will you be away from campus most weekends?
+	Will you have a job that provides meals?
+	Will you be involved in extracurricular activities (sorority/fraternity, sports, or band)?
+	Do you plan to study on campus or in the residential dining centers?
+Your responses determine the quantity of meals you would require through the year/semester. If you typically eat three meals a day and plan to study on campus, then the Jayhawk Unlimited $500 Plus Plan is your best value. If you plan to join a sorority/fraternity that also provides meals, you may want to select a plan that offers fewer meals.
+How are dining plan prices figured? 
+There is a great deal that goes into providing student meals in three all-you-care-to eat dining centers on campus.We ask that you take into consideration the ¨big picture¨ of the overall meal plan cost.
+To ensure that we are providing our guests with the most value, we:
+	Research the latest consumer price index for food for the coming year
+	Calculate our fiscal expenses
+	Determine the total number of operating days for the academic year in order to establish the prices for each meal plan option offered
+Where does the money I spend with KU Dining go?
+KU Dining is a not-for-profit 5013c organization and receives no funding from the State of Kansas. All revenues go directly back into dining programs and facilities. Here is the breakdown for those allotments:
+	Food (all food and paper supplies):39%
+	Human Resources (salaries, wages and benefits, including employee meals):37%
+	General Expenses (utilities, uniforms, laundry, cleaning chemicals, telephone, office supplies, etc.):18%
+	Reserves (facility and equipment repairs/renewals): 6%
+What if I´m not living on campus? 
+That&#8217;s okay. KU Cuisine Dining Plans are available to any KU student. All you need is an active KU Card.
+Where can I get more information on KU Cuisine Dining Plans? 
+Look under the Dining link at the top of this site and view the drop down choices. If you need further clarification, please call KU Dining at 785-864-7274. For specific financial questions, please call the Student Housing at 785-864-4560.
+How long does it take after I fill out the application until I can use the KU Cuisine Dining Plan? 
+If you do not live in University housing, you may sign up for a KU Cuisine Dining Plan through Student Housing or select the KU Cuisine Dining Plans link for a printable dining meal plan form. It will be in the system 2-3 business days after you submit the application.
+How can I change my KU Cuisine Dining Plan? 
+You may change your plan according to semester deadlines. Please visit the Student Housing, located in the basement of Corbin Hall or  log into the myKU portal and sign into Student Housing under &#8220;Services&#8221; or &#8220;Campus Life.&#8221; Choose &#8220;Dining Plan&#8221; under &#8220;What do you want to do?&#8221; Fall semester deadline is September 4, 2015, 5:00 p.m. Spring seme
+

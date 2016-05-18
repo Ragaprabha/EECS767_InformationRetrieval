@@ -1,0 +1,99 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+Our Mission
+To support student success and serve the KU Community as the official store.
+Why Choose the KU Bookstore?
+ 	 The ONLY bookstore whose sales are reinvested back into KU student programs and events. 
+   	 The ONLY store that carries all course materials required by KU professors.
+         The ONLY store to carry a wide variety of authentic, officially licensed KU products. 
+	 The ONLY store serving the needs of Jayhawks since 1946, with eleven locations to serve you. 
+VISIT KUBOOKSTORE SITE
+VISIT THE TECH SHOP
+VISIT JAYHAWK INK
+SHOP FOR REGALIA
+SHOP TEXTBOOKS
+KU Bookstore Locations
+KU Bookstore
+Kansas Union level 2
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+(785) 864-4640
+Jayhawk Ink
+KU Bookstore
+Kansas Union level 2
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+(785) 864-4431
+The Tech Shop
+KU Bookstore
+Kansas Union level 2
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+(785) 864-1361
+techshop@ku.edu
+1865: Uniquely KU
+Inside the Oread Hotel
+1200 Oread Avenue
+Lawrence, KS 66044
+(785) 830-3936
+Art &amp; Design Supply Store
+Art &amp; Design Building, Room 314
+1467 Jayhawk Blvd.
+Lawrence, KS 66045
+(785) 864-2464
+Jayhawk Central
+Edwards Campus
+12520 Quivira Road
+Overland Park, KS 66213
+(913) 897-8580 or
+(785) 864-8580
+KU Med Store Wichita
+1010 N. Kansas
+Wichita, KS 67214
+(316) 293-2618
+KU Med Store KC
+3901 Rainbow Boulevard
+G014 Orr-Major, Mail Stop 4036
+Kansas City, KS 66160
+(913) 588-2548
+Kansas Union Hawk Shop
+Kansas Union level 4
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+(785) 864-4596
+Wescoe Hawk Shop
+Wescoe Hall Hawk Shop
+1445 Jayhawk Blvd.
+Lawrence, KS 66045
+(785) 864-5064
+&nbsp;                 
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

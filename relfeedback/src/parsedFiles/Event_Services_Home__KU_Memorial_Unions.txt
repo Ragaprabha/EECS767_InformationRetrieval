@@ -1,0 +1,83 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+            Jayhawk Ink     
+            Spare Room     
+            Lobby     
+            Lobby T4     
+            Woodruff Auditorium     
+            Traditions Area     
+            Regionalist Room     
+            Pine Room     
+            Parlors ABC     
+            Outdoor Plaza     
+            Malott Room     
+            Lobby T3     
+            Kansas Room     
+            Jayhawk Room     
+            The Jay     
+            International Room     
+            Governors Room     
+            English Room     
+            Divine Nine Room     
+            Curry Room     
+            Centennial Room     
+            Big 12 Room     
+            Ballroom     
+            Alderson Auditorium     
+            Alcove G     
+            Alcove F     
+            Alcove E     
+            Alcove D     
+            Alcove B     
+            Reflection Room     
+ ');
+   jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/geteventspaces.php', { selectedspace:jQuery("#banquets").val()}, 
+      function (output){
+          jQuery("#spacescarousel").html(output).show(); jQuery('#delete_me_spinner2').remove(); }); };
+  function meetings(){
+	  jQuery('#loader').append('');
+     jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/geteventspaces.php', { selectedspace:jQuery("#meetings").val()},
+      function (output){
+          jQuery('#spacescarousel').html(output).show(); jQuery('#delete_me_spinner2').remove(); }); };
+  function studspaces(){
+	  jQuery('#loader').append('');
+     jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/geteventspaces.php', { selectedspace:jQuery("#studspaces").val()},
+      function (output){
+          jQuery('#spacescarousel').html(output).show(); jQuery('#delete_me_spinner2').remove(); }); }; 
+  function otherspaces(){
+	  jQuery('#loader').append('');
+     jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/geteventspaces.php', { selectedspace:jQuery("#otherspaces").val()},
+      function (output){
+          jQuery('#spacescarousel').html(output).show(); jQuery('#delete_me_spinner2').remove(); }); }; 
+Today @ The UPoliciesEVENT PLANNINGEvent Quick GuideA/V ServicesCateringRoom Setup OptionsDescriptions & ratesON-LINE RESERVATIONSLog InCreate Account
+					CONTACT Email Event Servicesphone: 785-864-4651PARKINGParking Info MAPSKansas UnionEdwards CampusDeBruce Center
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

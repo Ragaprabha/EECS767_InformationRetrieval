@@ -1,0 +1,84 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+			 : all hours map
+Visit our Net Nutrition page to find out how to get specific nutritional and allergen info on menu items below. 
+The Ekdahl Dining Center, or &#8220;Mrs. E&#8217;s,&#8221; is located atop Daisy Hill. This food-court specializes in variety with pasta, salads, sandwiches, pizza, and grilled items to name a few. Choose from 8-10 entrees at each meal! Extended serving hours accommodate your busy class and work schedules. With 600 seats on three levels, wrap-around windows and a spectacular view of campus, it&#8217;s an ideal place for meeting and eating with friends.
+Dining Options
+Daisy Hill Grill
+&#8211; Offering student favorites: charbroiled chicken, gourmet burgers, grilled cheese, Ruebens, fries, onion rings and more!
+KYou Zone
+&#8211; This concept is designed to cater to our students with specific dietary needs including gluten free, vegetarian, Halal, and more. This space is operated and equipped as an “allergy awareness area to aid those students with varied food allergies or specialty food requirements.
+Smokeys
+&#8211; Our version of Kansas City BBQ, featuring a variety of smoked meats&#8211;pulled pork, brisket, turkey—and favorite BBQ sides like baked beans, homemade slaw, fresh veggies and cornbread muffins. 
+Lenoir&#8217;s Classics
+&#8211; When away from home, comfort foods remain a college student preference. Meatloaf, Chicken Dijon, beef stroganoff, pot roast, hot turkey sandwiches, roasted potatoes, rice blends, fresh steamed vegetables and so much more!
+Global Cuisine
+&#8211; Taste the world at your table; ethnic dishes ranging from; Indian, Asian, Italian, Mexican, Mediterranean, Thai, to name a few! 
+Al Dente
+&#8211; Here you will find all things noodles and more: pastas, rice, quinoa, ramen, along with savory and sweet sauces and fresh toppings. 
+Copper Oven
+&#8211; Serving freshly prepared and baked in our stone hearth copper oven—specialty pizzas, breadsticks, flatbreads, calzones and Stromboli.
+The Cutting Board
+&#8211; Our delicatessen with made to order sandwiches and wraps from a variety of lean meats, veggie toppings, sliced cheeses on fresh rolls/breads &#8212; served cold, panini pressed or toasted.
+Great Greens
+&#8211; Our colossal salad and soup bar filled with fresh lettuces and a wide variety of vegetable toppings and salad dressing. One side features our made-to-order Sizzlin’ Salads, chicken Caesar, sautéed veggies, Cajun grilled shrimp are a few of the favorites.
+Nature&#8217;s Finest
+&#8211; Our newest concept designed to provide a plant-based menu to satisfy any palate. Daily creations of house-made recipes with a vegan focus.
+Delights
+&#8211; The dessert destination, a perfect end to any meal selection offering fresh fruits and a variety of delectable treats including frozen yogurt, cookies, cakes, pies and more.
+What Students have to say about KU Dining&#8220;Each crunchy bite of a Crunchy Chicken Cheddar Wrap takes me to a magical paradise.&#8221;...read more
+Photos from Mrs E's
+	1532 Engel RdMgr. 785-864-8211Mark Maranell
+		Dining Locations			all you care to eat meals at:
+        all you care to eat meals at:
+		mrs. E'snorth college Caféoliver dining Hall
+	    use cuisine cash at:
+        use cuisine cash at:
+		The Studio Cafe
+Jayhawk Grocer
+The Market
+The Underground
+Mortar &#038; Pestle Café
+O&#8217;Zone
+Impromptu Cafe
+Jay Break
+Roasterie Coffeehouse
+Courtside Café
+');
+	  jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-menudata-es.php',{name:jQuery("#datepicker").val()},
+	      function (output){
+			  jQuery('#esmenu').html(output).show();
+			 jQuery('#mealname option:first').attr('selected',true);
+			  jQuery('#delete_me_spinner2').remove();
+  });
+  }
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

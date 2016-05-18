@@ -1,0 +1,94 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+			Excel Document
+Click here to see general Residential dining hours during semesters
+Mrs. E’s:
+Mon.- Thurs. – 7:00 a.m.- 8:00 p.m.
+Friday – 7:00 a.m.- 7:30 p.m.
+Sat. &#038; Sun. – 11:00 a.m. – 7:30 p.m.
+The Studio Café ( Hashinger Hall)
+Mon.- Fri. 7:00 a.m.- 12:00 midnight
+Sat. &#038; Sun. 7:30 p.m.- 12:00 midnight
+Cuisine to Go   M-F  7:00 a.m.-7:00 p.m. When Classes in session
+Oliver Dining Center:
+Mon.- Thurs.- 7:00 a.m.- 7:30 p.m.
+Friday – 7:00 a.m.- 7:00 p.m.
+Sat. &#038; Sun. – 11:00 a.m. – 7:00 p.m.
+Ozone –retail counter Oliver Hall Lobby – Sun.- Sat. 7:30 p.m.- 11:00 p.m. 
+Cuisine to Go at cashier station  M-F  7:00 a.m.- 7:00 p.m. When classes in session
+North College Café ( GSP Hall)
+Mon.- Thurs.- 7:00 a.m.- 7:30 p.m.
+Friday – 7:00 a.m.- 7:00 p.m.
+Sat. &#038; Sun. – 11:00 a.m. – 7:00 p.m.
+Cuisine to Go (at Oread Express counter) M-F – 7:00am-7:00pm When Classes in session
+Jayhawk Grocer (Self Hall)
+Sun. – Thurs. 8:00am – 2:00am
+Fri. &#038; Sat. 8 a.m.- 12:00 midnight
+Use the Date Selector and the Location Dropdown below to choose a future dates or date ranges.Available Date Range : 05-03-2016 - 08-21-2016
+Dates
+-
+	select all
+	Kansas Union
+	&nbsp;&nbsp;&nbsp;Impromptu Cafe
+	&nbsp;&nbsp;&nbsp;Panda Express
+	&nbsp;&nbsp;&nbsp;Roasterie Coffee @ KS Union
+	&nbsp;&nbsp;&nbsp;The Market
+	Other Campus Services
+	&nbsp;&nbsp;&nbsp;Anschutz Library: iQ Cafe
+	&nbsp;&nbsp;&nbsp;Jay Break @ Art and Design
+	&nbsp;&nbsp;&nbsp;Jay Break @ JRP
+	&nbsp;&nbsp;&nbsp;Jay Break @ Murphy Hall
+	&nbsp;&nbsp;&nbsp;Jay Break @ Spahr Library
+	&nbsp;&nbsp;&nbsp;Jay Break @ Strong Hall
+	&nbsp;&nbsp;&nbsp;Jay Break @ Watson Library
+	&nbsp;&nbsp;&nbsp;Mortar &amp; Pestle
+	&nbsp;&nbsp;&nbsp;Roasterie Coffee @ Mortar &amp; Pestle
+	&nbsp;&nbsp;&nbsp;Roasterie Coffeehouse @ Studio Café
+	&nbsp;&nbsp;&nbsp;Roasterie Express @ Underground
+	&nbsp;&nbsp;&nbsp;The Underground
+	Courtside Café
+	Roasterie Coffee @ DeBruce
+	Jayhawk Grocer
+	Mrs. E&#8217;s
+	North College Café
+	O&#8217;zone
+	Oliver Dining Hall
+	The Studio Café
+');
+	  jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-hours-dining-data.php', { from:jQuery("#from").val() , to:jQuery("#to").val(), category:jQuery("#category").val() },
+	      function (output){
+			  jQuery('#kumu-hours').html(output).show();
+			  jQuery('#delete_me_spinner2').remove();
+  });
+  }
+        Retail LocationsMay 03 - Courtside Café : 7:00am - 5:00pmMay 03 - Impromptu Café : 11:00am - 2:00pmMay 02 - Jay Break @ Anschutz : 7:00am - 12:00amMay 03 - Jay Break @ Anschutz : 7:00am - 12:00amMay 03 - Jay Break @ Art & Design : 7:30am - 6:00pmMay 03 - Jay Break @ Engineering Commons (Spahr) : 7:30am - 10:00pmMay 03 - Jay Break @ JRP : 7:30am - 6:00pmMay 03 - Jay Break @ Murphy Hall : 7:30am - 2:30pmMay 03 - Jay Break @ Strong Hall : 7:30am - 2:30pmMay 03 - Jay Break @ Watson Library : 8:00am - 7:00pmMay 03 - Mortar & Pestle Cafe : 10:30am - 2:00pmMay 03 - Panda Express : 10:00am - 7:00pmMay 03 - Roasterie Coffee @ DeBruce : 7:00am - 6:00pmMay 03 - Roasterie Coffee @ KS Union : 7:30am - 7:00pmMay 03 - Roasterie Coffee @ Mortar & Pestle : 8:30am - 10:30amMay 02 - Roasterie Coffee @ The Studio Café : 7:00am - 12:00amMay 03 - Roasterie Coffee @ The Studio Café : 7:00am - 12:00amMay 03 - Roasterie Express @ Underground : 7:30am - 4:00pmMay 03 - The Market : 8:00am - 4:00pmMay 03 - The Underground : 7:30am - 4:00pmResidential LocationsMay 02 - Jayhawk Grocer : 8:00am - 2:00amMay 03 - Jayhawk Grocer : 8:00am - 2:00amMay 03 - Mrs. E's : 7:00am - 8:00pmMay 03 - North College Café : 7:00am - 7:30pmMay 03 - Oliver Dining Hall : 7:00am - 7:30pmMay 03 - O’zone : 7:30pm - 11:00pmMay 02 - The Studio Café : 7:00am - 12:00amMay 03 - The Studio Café : 7:00am - 12:00am
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

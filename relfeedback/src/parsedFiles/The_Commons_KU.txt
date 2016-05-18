@@ -1,0 +1,68 @@
+		The Commons KU		
+			.nivo-directionNav a { background:url('/~commons/img/arrows.png') no-repeat; }	
+			a.nivo-nextNav { background-position:-32px 0; right:10px; }
+			a.nivo-prevNav { left:10px; }
+JOIN OUR MAILING LIST
+			 The University of Kansas
+		  	PROGRAMS & SERIES  
+		       	  	COMING EVENTS
+						IDEA CAFÉ
+                          RED HOT RESEARCH 
+                          COFFEE @ THE COMMONS 
+						DATA & DEMOCRACY
+						URBAN PALIMPSEST
+                        EVENTS ARCHIVE
+		  	INITIATIVES  
+		    		STARTER GRANTS
+						ARTIST PROJECTS
+                        COURSE AT THE COMMONS
+		  	ABOUT
+		  			SPOONER HALL
+                    SPACE
+                    EVENT REQUEST FORM  
+						PARTNERS
+						NEWS
+                        NEWS ARCHIVE
+		  	CONTACT
+		  			INFORMATIONDIRECTIONS
+The Commons KU | Red Hot Research 
+	  Coming Events
+		Idea Café
+		RED HOT RESEARCH
+        COFFEE @ THE COMMONS
+        Data & Democracy Exploratory Theme
+		Urban Palimpsest Exploratory Theme
+		Events Archive
+As a part of our continued effort to bring together scholars from all disciplines, and in response to the call set forth by Bold Aspirations, The Commons presents the Research Sharing Sessions--a series designed specifically for research exchange. The format of these sessions is inspired by Pecha Kucha, which features short, slide-based talks that introduce audiences to an idea.
+The goals of these sessions are:
+- To introduce KU Researchers to the work of their colleagues
+- To address questions within current research using the perspectives of many disciplines
+- To develop collaborative research teams as a result of overlapping interest & expertise
+We invite all KU Researchers to join the conversation.
+WORKING GROUPS 
+Network Science
+Exploring the computational tools used by James Sterbenz to study the network formed by the national electrical grid to determine whether these tools could be used in other areas and focus on problems in different domains that have a common underlying cause.
+Current collaborators: John Symons, Philosophy; James Sterbenz, Electrical Engineering & Computer Science; and Michael Vitevitch, Psychology (Contact Michael Vitevitch to join the discussion: mvitevit@ku.edu)  
+Smart Cities
+Interdisciplinary group to discuss research interests, exchange information, and plan funding proposals for smart cities.  Smart cities weave ICT (information and communications technology) into the socioeconomic fabric and city critical infrastructure including data communication, transportation, and the smart grid, in the form of sensors, actuators, processing, and storage.  The goal is to improve the quality of life of citizens while providing sustainability, resilience, and energy-efficiency.  
+Coordinator: James P.G. Sterbenz, Electrical Engineering & Computer Science (Contact jpgs@ittc.ku.edu to join the discussion)
+FUTURE PRESENTERS 
+To be announced.
+PAST PRESENTERS 
+April 29, 2016: Political Engagement
+Joshua Miner, Film & Media Studies, Indigenous New Media
+Tyler Galloway, Design, Print design and grassroots activism
+Jonathan Peters, Journalism & Mass Communications, Press Relations at the Supreme Court
+Laura Mielke, English, Theatre and US Abolition
+Ari Linden, Germanic Languages & Literatures, Satire and Political Critique
+Emcee: Jon Lamb, English
+March 25, 2016: Climate
+Sharon Billings, Ecology & Evolutionary Biology / Kansas Biological Survey, Carbon, Climate, Erosion, and the Anthropocene
+Rachel McDonald, Psychology, Framing Climate Change
+David Mechem, Geography and Atmospheric Science, Clouds & Climate
+John Head, Law, International Law – Agriculture – Climate Change
+Keith Van de Riet, Architecture, Bio-responsive Structures
+Emcee: Bonnie Johnson, Urban Planning
+February 19, 2016: Digital Media
+Sara Gregg, History, Spatial History<
+

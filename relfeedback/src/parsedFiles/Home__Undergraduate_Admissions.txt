@@ -1,0 +1,657 @@
+      Home | Undergraduate Admissions
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                Undergraduate Admissions
+      Search form
+  Search 
+      Home
+PlanningEarly Planning
+U.S. High Schoolers
+U.S. Transfers
+Parents
+Counselors
+International »FAQs
+AcademicsMajors
+ExperienceExperience
+Research
+Study Abroad
+Experiential Learning
+Honors
+Your First Year
+Outcomes
+AffordabilityValueU.S. Freshmen
+U.S. Transfers
+International »
+Costs & ScholarshipsU.S. Freshmen
+U.S. Transfers
+International »
+Cost Calculator
+Private Scholarships »
+Financial Aid
+LifeLife at KU
+Traditions
+Lawrence
+Housing
+Student Orgs
+Recreation
+VisitSchedule a visitHigh School Students
+U.S. Transfers
+Special Group Visits and TRIO
+International »
+Online Tour
+AccommodationsLawrence
+Kansas City
+Wichita
+Directions
+Contact
+Map &raquo;
+ApplyHow to ApplyU.S. Freshmen
+U.S. Transfers
+Readmit / Nondegree
+International »Freshman- First Year
+Transfer
+Readmit
+ESL-non-degree English Language Studies
+Non-degree Exchange Student
+Non-degree Visiting Student
+Non-degree Other Student
+Academic Accelerator »
+Graduate Studies »
+RequirementsU.S. Freshmen
+U.S. Transfers
+International »Freshmen
+Transfer
+Academic Accelerator »
+Graduate Studies »
+DeadlinesU.S. Freshmen
+U.S. Transfers
+International »
+Check StatusU.S. Freshmen & Transfers
+International »
+Transfer creditsU.S. StudentsAbout Transfers
+CredTran
+KU Core Exemptions
+Credit by Exams
+Foreign Language
+Military Service
+Course Codes
+Transfer Guides
+Kansas Course Transfer/Reverse Transfer
+International »About Transfers
+CredTran
+ACT/SAT Exemptions
+Credit by Exams
+Military Service
+Course Codes
+Program Sheets
+Kansas Course Transfer/Reverse Transfer
+Reps
+Staff
+AdmittedU.S. Freshmen
+U.S. Transfers
+International »
+U.S. TransfersWelcome
+Planning
+AffordabilityValue
+Costs & Scholarships
+Private Scholarships
+Financial Aid
+ApplyHow To Apply
+Requirements
+Deadlines
+Check Status
+Transfer Credits
+Reps
+Staff
+Parents
+Counselors
+Kansas Course Transfer/Reverse Transfer
+International »Welcome
+PlanningOverview
+FAQs
+AffordabilityValue
+Costs & Scholarships
+ApplyHow to ApplyFreshman- First Year
+Transfer
+Readmit
+ESL-non-degree English Language Studies
+Non-degree Exchange Student
+Non-degree Visiting Student
+Non-degree Other Student
+Academic Accelerator »
+Graduate Studies »
+RequirementsFreshmen
+Transfer
+Academic Accelerator »
+Graduate Studies »
+Deadlines
+Check Status
+Transfer CreditsAbout Transfers
+CredTran
+Credit by Exam
+Course Codes
+Transfer Guides
+Kansas Course Transfer/Reverse Transfer
+Reps
+Staff
+ConnectStudent Ambassadors
+Alumni Profiles
+Schedule a Visit
+Virtual Events
+IRUA Social Media
+Video Challenge
+      MenuHome
+PlanningEarly Planning
+U.S. High Schoolers
+U.S. Transfers
+Parents
+Counselors
+International »FAQs
+AcademicsMajors
+ExperienceExperience
+Research
+Study Abroad
+Experiential Learning
+Honors
+Your First Year
+Outcomes
+AffordabilityValueU.S. Freshmen
+U.S. Transfers
+International »
+Costs & ScholarshipsU.S. Freshmen
+U.S. Transfers
+International »
+Cost Calculator
+Private Scholarships »
+Financial Aid
+LifeLife at KU
+Traditions
+Lawrence
+Housing
+Student Orgs
+Recreation
+VisitSchedule a visitHigh School Students
+U.S. Transfers
+Special Group Visits and TRIO
+International »
+Online Tour
+AccommodationsLawrence
+Kansas City
+Wichita
+Directions
+Contact
+Map &raquo;
+ApplyHow to ApplyU.S. Freshmen
+U.S. Transfers
+Readmit / Nondegree
+International »Freshman- First Year
+Transfer
+Readmit
+ESL-non-degree English Language Studies
+Non-degree Exchange Student
+Non-degree Visiting Student
+Non-degree Other Student
+Academic Accelerator »
+Graduate Studies »
+RequirementsU.S. Freshmen
+U.S. Transfers
+International »Freshmen
+Transfer
+Academic Accelerator »
+Graduate Studies »
+DeadlinesU.S. Freshmen
+U.S. Transfers
+International »
+Check StatusU.S. Freshmen & Transfers
+International »
+Transfer creditsU.S. StudentsAbout Transfers
+CredTran
+KU Core Exemptions
+Credit by Exams
+Foreign Language
+Military Service
+Course Codes
+Transfer Guides
+Kansas Course Transfer/Reverse Transfer
+International »About Transfers
+CredTran
+ACT/SAT Exemptions
+Credit by Exams
+Military Service
+Course Codes
+Program Sheets
+Kansas Course Transfer/Reverse Transfer
+Reps
+Staff
+AdmittedU.S. Freshmen
+U.S. Transfers
+International »
+U.S. TransfersWelcome
+Planning
+AffordabilityValue
+Costs & Scholarships
+Private Scholarships
+Financial Aid
+ApplyHow To Apply
+Requirements
+Deadlines
+Check Status
+Transfer Credits
+Reps
+Staff
+Parents
+Counselors
+Kansas Course Transfer/Reverse Transfer
+International »Welcome
+PlanningOverview
+FAQs
+AffordabilityValue
+Costs & Scholarships
+ApplyHow to ApplyFreshman- First Year
+Transfer
+Readmit
+ESL-non-degree English Language Studies
+Non-degree Exchange Student
+Non-degree Visiting Student
+Non-degree Other Student
+Academic Accelerator »
+Graduate Studies »
+RequirementsFreshmen
+Transfer
+Academic Accelerator »
+Graduate Studies »
+Deadlines
+Check Status
+Transfer CreditsAbout Transfers
+CredTran
+Credit by Exam
+Course Codes
+Transfer Guides
+Kansas Course Transfer/Reverse Transfer
+Reps
+Staff
+ConnectStudent Ambassadors
+Alumni Profiles
+Schedule a Visit
+Virtual Events
+IRUA Social Media
+Video Challenge
+Search
+      Search form
+  Search 
+      @media all and (max-width: 479px) {
+      .featured-slide_4      {
+      width: 300px;
+ height: 161px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-320/public/01158_2016ADM_visit.jpg?itok=LNQ98RJG) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 480px) and (max-width: 719px) {
+      .featured-slide_4      {
+      width: 480px;
+ height: 258px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-480/public/01158_2016ADM_visit.jpg?itok=5nJpHozr) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 720px) and (max-width: 959px) {
+      .featured-slide_4      {
+      width: 680px;
+ height: 365px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-720/public/01158_2016ADM_visit.jpg?itok=u21LZD6H) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 960px) and (max-width: 1199px) {
+      .featured-slide_4      {
+      width: 580px;
+ height: 311px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-960/public/01158_2016ADM_visit.jpg?itok=T_oLvrvP) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 1200px) {
+      .featured-slide_4      {
+      width: 820px;
+ height: 440px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-1200/public/01158_2016ADM_visit.jpg?itok=NwTPDW9G) no-repeat top left; background 
+      }
+        }
+      	      		&nbsp;
+			Visit this spring, when Marvin Grove turns green and Daisy Hill blooms.
+      @media all and (max-width: 479px) {
+      .featured-slide_1763      {
+      width: 300px;
+ height: 161px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-320/public/01158_2016ADM_academic.jpg?itok=XvME5zcE) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 480px) and (max-width: 719px) {
+      .featured-slide_1763      {
+      width: 480px;
+ height: 258px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-480/public/01158_2016ADM_academic.jpg?itok=VHbY8nWv) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 720px) and (max-width: 959px) {
+      .featured-slide_1763      {
+      width: 680px;
+ height: 365px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-720/public/01158_2016ADM_academic.jpg?itok=5oi8H09D) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 960px) and (max-width: 1199px) {
+      .featured-slide_1763      {
+      width: 580px;
+ height: 311px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-960/public/01158_2016ADM_academic.jpg?itok=uTvECV1p) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 1200px) {
+      .featured-slide_1763      {
+      width: 820px;
+ height: 440px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-1200/public/01158_2016ADM_academic.jpg?itok=87Me-E1G) no-repeat top left; background 
+      }
+        }
+      	      		&nbsp;
+			Abandon your expectations of a traditional classroom.
+      @media all and (max-width: 479px) {
+      .featured-slide_3360      {
+      width: 300px;
+ height: 161px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-320/public/production_fun_adm.jpg?itok=EryrNLjM) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 480px) and (max-width: 719px) {
+      .featured-slide_3360      {
+      width: 480px;
+ height: 258px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-480/public/production_fun_adm.jpg?itok=BUHq2KlI) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 720px) and (max-width: 959px) {
+      .featured-slide_3360      {
+      width: 680px;
+ height: 365px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-720/public/production_fun_adm.jpg?itok=LxgVp8Hj) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 960px) and (max-width: 1199px) {
+      .featured-slide_3360      {
+      width: 580px;
+ height: 311px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-960/public/production_fun_adm.jpg?itok=8yXi2EaU) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 1200px) {
+      .featured-slide_3360      {
+      width: 820px;
+ height: 440px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-1200/public/production_fun_adm.jpg?itok=hHUHek59) no-repeat top left; background 
+      }
+        }
+      	      		&nbsp;
+			Answer the call of our
+  chancellor: Change the 
+  world as a Jayhawk.
+      @media all and (max-width: 479px) {
+      .featured-slide_3273      {
+      width: 300px;
+ height: 161px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-320/public/01158_FYR_NOV_Production.jpg?itok=8IaB5T-3) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 480px) and (max-width: 719px) {
+      .featured-slide_3273      {
+      width: 480px;
+ height: 258px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-480/public/01158_FYR_NOV_Production.jpg?itok=2tGHXW-b) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 720px) and (max-width: 959px) {
+      .featured-slide_3273      {
+      width: 680px;
+ height: 365px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-720/public/01158_FYR_NOV_Production.jpg?itok=SUVAsC0L) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 960px) and (max-width: 1199px) {
+      .featured-slide_3273      {
+      width: 580px;
+ height: 311px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-960/public/01158_FYR_NOV_Production.jpg?itok=eWaX_Evv) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 1200px) {
+      .featured-slide_3273      {
+      width: 820px;
+ height: 440px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-1200/public/01158_FYR_NOV_Production.jpg?itok=EN40GS0v) no-repeat top left; background 
+      }
+        }
+      	      		&nbsp;
+			Apply today and get
+a decision in about
+two weeks.
+      @media all and (max-width: 479px) {
+      .featured-slide_1764      {
+      width: 300px;
+ height: 161px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-320/public/01158_FYR%26TRF_Affordability.jpg?itok=7Otlh-JE) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 480px) and (max-width: 719px) {
+      .featured-slide_1764      {
+      width: 480px;
+ height: 258px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-480/public/01158_FYR%26TRF_Affordability.jpg?itok=qc06nIr8) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 720px) and (max-width: 959px) {
+      .featured-slide_1764      {
+      width: 680px;
+ height: 365px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-720/public/01158_FYR%26TRF_Affordability.jpg?itok=MJN5fqI0) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 960px) and (max-width: 1199px) {
+      .featured-slide_1764      {
+      width: 580px;
+ height: 311px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-960/public/01158_FYR%26TRF_Affordability.jpg?itok=Cs3F5fgm) no-repeat top left; background 
+      }
+        }
+      @media all and (min-width: 1200px) {
+      .featured-slide_1764      {
+      width: 820px;
+ height: 440px;
+ background: url(//admissions.ku.edu/sites/admissions.ku.edu/files/styles/admissions-1200/public/01158_FYR%26TRF_Affordability.jpg?itok=AlOIaboo) no-repeat top left; background 
+      }
+        }
+      	      		&nbsp;
+			Nearly half of KU
+undergrads graduate
+without student loan debt.
+                One of 34 U.S. public institutions in the prestigious Association of American Universities              
+                26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined              
+                Nearly $290 million in financial aid annually              
+                44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report              
+                Top 50 nationwide for size of library collection.
+&mdash;ALA              
+                23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times              
+                      Supporting text goes here.
+What do you want to do? Choose from nearly 200 fields of study.
+Find     
+We'll help you do the math. Costs &amp; scholarships
+Learn more »
+Learn from the best. Become a Jayhawk.
+Apply today »
+We're ready to show you around. Just name the date.
+Schedule a visit »
+Tweets by @BeAJayhawk 
+        Help spread the word!
+        KU students and alumni can help us recruit talented students to KU by joining:
+Student ambassadors
+	Multicultural Recruitment Team
+	HAWK Alumni
+	Add someone to our mailing list
+	#allslides {display: none!important;}
+	#slidecontent {
+		display: none!important;
+	}
+	.rotator_nav {
+		display: none;
+	}
+Get started
+Majors
+	Costs
+	Life
+	Housing
+	AP/IB Credits
+	Scholarships
+	Transfer Credit
+Request info
+Domestic students
+	International students
+	High School/Community College Counselors
+Visit
+Directions
+	Map
+	Online Tour
+Apply
+Requirements
+	Deadlines
+Next steps
+For admitted students
+          Megan Belgeri    
+          St. Louis Regional Representative    
+          314-696-2473    
+          meganb@ku.edu    
+          Kaci Bray    
+          Assistant Director for Diversity and Outreach, Admissions Representative    
+          785-864-5416    
+          krbray@ku.edu    
+          Facebook    
+          Twitter    
+          Lindsay Brunelli    
+          Chicago Regional Representative    
+          773-710-9527    
+          lbrunelli@ku.edu    
+          Bonnie Ewart-Fisher    
+          Admissions Representative    
+          785-864-5213    
+          bfisher@ku.edu    
+          Twitter    
+          Carly Froyum    
+          Minnesota Regional Representative    
+          602-717-9407    
+          carly.froyum@ku.edu    
+          Paige Gugat    
+          Mid-Atlantic Regional Representative    
+          785-550-5984     
+          pgugat@ku.edu    
+          Elisa Krapcha    
+          Assistant Director, Colorado Regional Representative    
+          719-344-9986    
+          ekrapcha@ku.edu    
+          Annie Frizzell Mills    
+          Southern California Regional Representative    
+          619-501-5453    
+          annie.mills@ku.edu    
+          Facebook    
+          Twitter    
+          Shannon O'Hagan    
+          International Admissions Representative    
+          issrecruit@ku.edu    
+          Twitter    
+          Chris Paradies    
+          Chicago Regional Representative    
+          785-764-6734    
+          paradies@ku.edu    
+          Taylor Rice    
+          Admissions Representative    
+          785-864-5424    
+          taylorrice@ku.edu    
+          Christina Rudolph    
+          Admissions Representative    
+          785-864-5410    
+          crudolph@ku.edu    
+          Ally Stanton    
+          Assistant Director for Freshmen Recruitment, Admissions Representative    
+          785-864-3920     
+          allystanton@ku.edu    
+          Amanda Swanson    
+          Admissions Representative    
+          785-864-5407    
+          akswanson@ku.edu    
+          Twitter    
+          Conor Taft    
+          Admissions Representative    
+          785-864-5370    
+          ctaft@ku.edu    
+          Katie Twist    
+          Admissions Representative    
+          785-864-5567    
+          ktwist@ku.edu    
+          Jessy Wilkes    
+          Transfer Admissions Representative    
+          785-864-5408    
+          jwilkes@ku.edu    
+          Danny Woods    
+          Admissions Representative    
+          785-864-2617    
+          dannywoods@ku.edu    
+Ask a rep
+ 
+Representatives are available for U.S. freshmen, transfer, and international students.
+ 
+ 
+    KU Today
+      Contact Undergraduate Admissions
+                    adm@ku.edu
+                            785-864-3911785-864-5017
+        KU Visitor Center, 1502 Iowa St.
+Lawrence, Kansas 66045-7576    
+              International Admissions
+issrecruit@ku.edu
+785-864-2616
+Strong Hall, Room 45, 1450 Jayhawk Blvd.
+Lawrence, Kansas 66045-7576
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+      Staff login
+U.S. Freshmen
+	U.S. Transfers
+	International
+	Graduate Studies
+	Law School
+	Medical School
+	Readmit: U.S. | International
+	Nondegree seeking: U.S. | International
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

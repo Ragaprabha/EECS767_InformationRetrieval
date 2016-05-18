@@ -1,0 +1,42 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+O’zone in Oliver Hall &#8211; a quick service retail counter located in the hall lobby offering deli sandwiches , pizzas, calzones, breadsticks, Coca-Cola products and other snack items.
+Open  Mon &#8211; Thurs 7:30 p.m. – 11:00 p.m. and Fri &#8211; Sun 7:00 p.m. &#8211; 11:00 p.m. during regular semesters. Feel free to use your KU Cuisine Cash, Beak ‘em Bucks, debit/credit cards and of course, cash. A convenient later night service for our Oliver Hall students and guests.
+Today’s Hours
+7:30 pm - 11:00 pm : all hours
+Did you Know?
+40+ members of our leadership team have received a certificate from AllerTrainU in managing food allergens and gluten.
+This certification is approved by FARE (Food Allergy Research and Education). ...read more
+        ...read less
+		AllerTrain U™ provides a clear understanding of food allergies, intolerances and sensitivities, celiac disease and other special dietary needs of college and university students and offers best practices for food allergen and gluten-free food service management.
+	1815 Naismith DrMgr. 785-864-1482Jim Schilling
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

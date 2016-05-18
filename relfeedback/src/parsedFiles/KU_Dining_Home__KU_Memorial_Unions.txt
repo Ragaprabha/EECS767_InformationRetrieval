@@ -1,0 +1,43 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+            The DeBruce Center
+            KU Dining : $1.99 Coke 12-packs!
+            Impromptu Café Turkey Burger
+            Breakfast Facts
+Mrs E'sNorth College CafeOliver Dining HallHOURSGeneral HoursDining
+					NUTRITIONAbout Net NutritionVisit Net Nutrition SiteWellness BlogAllergies/Special DietsCATERINGCatering GuideJust One FrillPick-Me-Ups Order FormDINING PLANSGeneral InfoFaculty and StaffOff CampusFAQ
+					Today is : Taco TUESDAY
+              Today is : Taco TUESDAYEvery Tuesday is Taco Tuesday at Serrano&#8217;s in The Market! Get $1 Beef Tacos &#8211; limit of 4 . Includes beef, lettuce, tomato and cheese. Vegetarian options available.
+					KU Dining Cares
+              KU Dining CaresKU Dining Cares about...FoodPeopleEnvironmentEvery month we focus on one aspect of what KU Dining does to make a positive impact for the KU Campus. ...click to read more.
+    //jQuery(document).ready(function() {
+    //jQuery('#todaybtn').todaybtn()});
+  function prev(){
+    var value = parseInt(document.getElementById('mynumber').value, 10); 
+	if (value != 0) {value--};
+	if (value == 0) {value = value + 12};
+	document.getElementById('mynumber').value = value;
+	var value = parseInt(document.getElementById('myyear').value, 10); 
+	 if (jQuery('#mynumber').val() == 12){jQuery('#myyear').val() == value--};
+	document.getElementById('myyear').value = value;
+   jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/kumu_prev.php', { myname:jQuery("#mynumber").val() , year:jQuery("#myyear").val() },
+      function (output){
+          jQuery('#wp-calendar').html(output).show();
+  });
+  }
+    function next(){
+    var value = parseInt(document.getElementById('mynumber').value, 10); 
+

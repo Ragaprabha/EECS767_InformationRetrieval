@@ -1,0 +1,66 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+KU Dining Services has the perfect &#8220;pick me up&#8221; for your next meeting or office gathering!Introducing Pick-Me-Ups, our newest guest services innovation. Purchase any one of our crowd-pleasing, wallet-friendly snack trays or Roasterie® coffee totes and be the star of your next faculty or campus group get-together.
+PLACE YOUR ORDER ONLINE!
+Pick-me-ups MenuPick-Me-Ups FAQ
+Bagel Tray ~ $15.25
+A dozen assorted bagels including plain, blueberry and cinnamon raisin and cream cheese singles.
+Fruit Danish Tray ~ $12.50
+A dozen assorted Danish including cheese, apple, and cherry.
+Otis Spunkmeyer Tulip Muffins ~ $15.25
+Eight of the traditional favorites including Apple Cinnamon, Berry Whole Grain, Blueberry Crumb and Chocolate Chunk Supreme.
+Cookie Tray ~ $12.25
+18 assorted decadent cookies – perfect for sharing (or not!) fresh baked when you order!
+Coffee on the Go ~ $14.50
+One gallon of our own Roasterie Signature Blend, regular or decaf, with all the necessary accessories for your group.
+Soda  ~ $1.65/each
+Assorted Coca-Cola® products. Choose from Classic Coke®, Diet Coke®, Sprite® 20oz bottles.
+Water  ~ $1.55/each
+Dasani® 20oz bottles.
+ Pick-Me-Ups FAQ
+ How do I order Pick-Me-Ups?
+	Online through our new reservation ordering system. Please note this is simply a reservation &#8211; one of our employees will contact to confirm details of your order and arrange payment. Orders are not considered &#8220;final&#8221; until confirmation via email or phone.
+	A short order form available at Pick-Me-Ups locations (Kansas Union Roasterie® Coffee, Mortar &#038; Pestle in the Pharmacy Building, and Jay Break in the Engineering Commons at the Leep2 Building).
+	Place order with Whitney Fox, catering coordinator, by 3pm for next day pick up. Whitney can be contacted at 864-2444 or by email at wlfox@ku.edu.
+	Pick Me Ups are only available during regular Roasterie® business hours. Orders must be placed Monday – Friday between 8:00am and 4:00pm.
+Can I order Pick-Me-Ups directly at the Roasterie® counter?
+	Of course! At our Pick-Me-Ups location (Kansas Union Roasterie®), simply consult with a Roasterie® employee to fill out an order form.
+	Provide all necessary information including department if you would like to charge it to a departmental account.
+	If the pick up is for the same day, please allow 2 hours in order to make and package the products.
+	If the pick up is for the next day, please provide a preferred time of pick up.
+	If it is not a departmental charge, payment is due at the time of pick up.
+Can I order Pick-Me-Ups from the Underground Roasterie®?
+	Unfortunately, the Underground Roasterie® is not currently a Pick-Me-Ups location. The Underground employees will direct you to the Roasterie® location nearest to your event.
+Can I get a coffee tote at any Roasterie® location?
+The new one gallon coffee tote is now a permanent offering at any one of our four Roasterie® locations. You may order the coffee tote in your favorite Roasterie coffee blend. Payment is due at the time of pick up.
+&nbsp;                 
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

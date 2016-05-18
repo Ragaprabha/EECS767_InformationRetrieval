@@ -1,0 +1,86 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+&nbsp;
+&nbsp;
+Providing convenient and needed services to the KU community at over thirty locations, on four KU campuses, requires diligence, sound financial management and your continued patronage. All our services and facilities are provided and operated without the use of tax dollars, freeing up those funds for other academic pursuits by the University.
+You can enrich the student experience by funding leadership scholarships, student programs and other initiatives of the KU Memorial Unions. Donations must be made through the KU Endowment Association.
+How to Give
+Send it by mail: When making a gift by check, please remember to include a gift card or indicate your gift’s purpose on the memo line. Checks should be payable to KU Endowment and mailed to:
+&nbsp;
+Gift Processing Department
+KU Endowment
+PO Box 928
+Lawrence, KS 66044-0928
+&nbsp;
+Telephone: Call 888-653-6111 to provide your credit card information over the phone.
+Select the giving account name to make an online donation.
+Operational Support
+Kansas Union Programming
+Provides project support for planned improvements of the Union operations. This includes renovations, capital purchases of equipment and amenities.
+acct. no. 37166
+KU History and Traditions
+The Unions love to share KU History, traditions and the accomplishments of its faculty, staff and students. Initiatives currently include KUHistory.com, historical galleries, displays, public lectures and social media. As the gathering place of KU, these initiatives not only entertain and educate, they serve as an important recruiting tool for visitors to campus.
+acct. no. 40817
+Operational Support for Student Groups and Programs
+The Big Event Program
+The Big Event connects the KU campus with the Lawrence community by recruiting thousands of student, faculty, and staff volunteers to work at hundreds of local job sites during one day of service. Big Event volunteers provide a helping hand to Lawrence residents by completing projects in their neighborhoods.
+acct. no. 40816
+KJHK-FM Student-Run Radio
+Benefits KJHK, the student-run radio station broadcasting from the Kansas Union. Funds may be used to improve the station in many ways. These include the purchase of equipment, staff education, travel for educational purposes, to enhance news or sports coverage or attend recognition ceremonies.
+acct. no. 35138
+SUA Enrichment
+Provides program support for Student Union Activities initiatives including speaker fees, talent fees and operational expenses related to programs and events.
+acct. no. 37241
+Scholarships for Students involved in Student Union Activities
+Warner Ferguson Service Scholarship
+Student Scholarships for students actively engaged in leadership roles in Student Union Activities.
+acct. no. 33999
+Katherine C. Giele Scholarship
+Scholarship granted to active member of Student Union Activities as nominated by Union staff, SUA board member, or alumni member of corporation board of directors.
+acct. no. 36320
+SUA Academic Support Scholarship
+Scholarship granted to active member of SUA in good academic standing.
+acct. no. 36452
+Frank Burge Scholarship
+Scholarships for students actively engaged in leadership roles in Student Union Activities. Must display outstanding character and be in good academic standing with a 3.0 GPA or above. Recipient should have unquestionable integrity who has made significant contributions to the goals of SUA.
+acct. no. 35754
+Student Union Activities Engagement
+Provides undergraduate or graduate scholarships for students demonstrating exceptional leadership skills within SUA. Committee to determine award is approved by the Chancellor.
+acct. no. 40522
+Scholarships and Support for Students and Union Staff
+Pat Beard Unions Scholarship
+Scholarship granted to one or more degree-seeking student employees of the Unions. Must have worked previous semester at least 75 hours and continue employment at Union during scholarship period.
+acct. no. 36256
+Student Leadership
+Provides support to students who are active leaders in Union activity, Union program or union-associated endeavor. May be used for, but not limited to scholarships and awards.
+acct. no. 40257
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

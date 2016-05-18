@@ -1,0 +1,66 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator { display:none; }#flags { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}
+		Search the KU Memorial Unions Site
+					Search for:
+Oliver Hall  offers it&#8217;s own dining facility. In addition to the several entree choices per meal, a hot food specialty bar offers a variety of items such as Mexican, stir-fry, pasta or baked potatoes. Oliver also offers soup, salad, deli, and dessert bars, along with &#8220;induction cooking&#8221; stations featuring made-while-you-wait entrees prepared with ingredients you select yourself. Seating just 250-350 students, Oliver provides a personal dining experience. It&#8217;s proximity to Robinson Gymnasium, Allen Field House, soccer and baseball fields also make Oliver Dining Center central to your busy schedule.
+Extra Dining Options
+Oliver Residents have an added luxury of the small retail unit Ozone. Featuring KU Dining&#8217;s very own Pizza concept, Za&#8217;s, a campus favorite and Brella&#8217;s Crunchy Chicken Cheddar Wrap. The convenient late night express option allows students to use the KU Cuisine Cash on their dining plans.
+KU Dining&#8217;s own pizza concept served ready-to-go or made-to-order pizzas, calzones, flatbread, and breadsticks.
+&nbsp;
+Home of the famous Crunchy Chicken Cheddar Wrap and made-to-order artisan sandwiches featuring Udi&#8217;s® Gluten Free Bread.
+&nbsp;
+What Students have to say about KU Dining&#8220;Thank you for a wonderful lunch. Our students continue to talk about the wonderful service team, the lunch room, and the food. We truly appreciate your ability to take on such a large group and provide us with an insight of what KU stands for.&#8221;...read more
+Photos from Oliver
+	1815 Naismith DrMgr. 785-864-1482Jim Schilling
+		Dining Locations			all you care to eat meals at:
+        all you care to eat meals at:
+		mrs. E'snorth college Caféoliver dining Hall
+	    use cuisine cash at:
+        use cuisine cash at:
+		The Studio Cafe
+Jayhawk Grocer
+The Market
+The Underground
+Mortar &#038; Pestle Café
+O&#8217;Zone
+Impromptu Cafe
+Jay Break
+Roasterie Coffeehouse
+Courtside Café
+');
+	  jQuery.post('http://union.ku.edu/wp-content/themes/kumu-twentyfourteen/page-dining-menudata-oliver.php',{name:jQuery("#datepicker").val()},
+	      function (output){
+			  jQuery('#esmenu').html(output).show();
+			  jQuery('#mealname option:first').attr('selected',true);
+			  jQuery('#delete_me_spinner2').remove();
+  });
+  }
+11a - 2p BRATWURST   ( VG ) HOT DOG BUN                BATTERED ONION RINGS  ( VG) KALE CHIPS  ( VG) FRENCH CUT GREEN BEANS     ( VG) STEAMED CAULIFLOWER NATURE'S FINEST11a - 2p ( VG) CHICK'N POT PIE   ( VG) GARDEN VEG BLEND   ( VG) CHOC PUMPKIN BREAD PUDDING ITALIAN FARE SAUSAGE PIZZA   ( V) ASIAGO MUSHROOM PIZZA   ( V) CHEESE PIZZA   ( VG) SPAGHETTI     MEATSAUCE                 ( V) GARDEN PRIMAVERA SAUCE SPECIALTY STATION 11a- 2p ASIAN MONGOLIAN BEEF   ( VG) ASIAN MONGOLIAN TOFU  ( VG) BROWN RICE              CRAB RANGOON              DESSERTS CHOC TRUFFLE FILLED COOKIE  RED DELICIOUS APPLE  GLDN DELICIOUS APPLE   FRESH ORANGE  RED GRAPE  LATE LUNCH 2p-4:30p HAMBURGER PATTY  ( V) GARDEN VEGGIE GRDNBRG PATTY  ( VG) BOCA BURGER PATTY  ( V ) HAMBURGER BUN              ( VG) SAUTEED ONION TOPPING   ( VG) SAUTEED MUSHRM TOPPING   DELI AMERICAN CHEESE    DELI BACON                 ( VG) KRINKLE CUT FRIES Dinner 4:30p - 7:30pSOUPS ITALIAN WEDDING SOUP   ( V) CRM OF ASPARAGUS   ASST MEDITERRANEAN ROLL  CLASSIC COMFORTS YANKEE POT ROAST   PLAIN BKD CHICKEN BREAST   ( V) RISOTTO TOMATO SUNDRIED  ( VG) RSTD RED POTATOES  ( V) RSTD CAULIFLOWER  NATURE'S FINEST ( VG) REUBEN SANDWICH  ( VG) QUINOA MILLET PILAF   ( VG) JAPANESE VEG BLEND  ( VG) CHOC PUMPKIN BREAD PUDDING ITALIAN FARE SAUSAGE PIZZA   ( V) ASIAGO MUSHROOM PIZZA   ( V) CHEESE PIZZA   ( V) BKD SPAGHETTI  FLORENTINE  SPECIALTY STATION ( VG) BROWN RICE TERIYAKI HARVEST BOWL  TERIYAKI CHICKEN   ( VG) TERIYAKI TOFU  DESSERTS CARAMEL FUDGE PECAN CAKE   RED DELICIOUS APPLE  GLDN DELICIOUS APPLE   FRESH ORANGE  RED GRAPE   PINEAPPLE CHUNK         
+The University of Kansas
+1301 Jayhawk Blvd.
+Lawrence, KS 66045
+Union Administration Office: (785) 864-4651
+Dining Main Number: (785)-864-7274
+Search All of KU
+              Close KU Search
+            Search Type
+              Search KU Web			
+              Search KU People					
+              Search KU Events										
+              Search KU Info
+            Search Text
+		  KU Campus Links
+		  KU Home Kyou Email Blackboard Enroll &amp; Pay
+    Translate &raquo;
+

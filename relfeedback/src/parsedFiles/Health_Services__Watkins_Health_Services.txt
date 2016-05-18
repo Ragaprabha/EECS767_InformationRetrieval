@@ -1,0 +1,166 @@
+      Health Services | Watkins Health Services
+            People Search
+        Degree Search
+Browse by school    
+        Course Search
+Search class sections | Online courses
+        Library Search
+Libraries | Hours &amp; locations | Ask
+    Advising | Catalog | Tutors
+    Writing Center | Math help room
+    Finals Schedule | GPA Calculator
+          CMS Login: KU Users | Non-KU Users
+    KU Home
+    About KU
+    Admissions
+    Athletics
+    Alumni
+    Campuses
+    Social Media
+    Endowment
+    KU Today
+                                Watkins Health Services
+      Search form
+  Search 
+      Home
+About
+PeopleAdministration
+CARE Coordinator
+HERO
+Nursing
+Providers
+Other StaffMarketing
+Physical Therapy
+Policy Compliance
+Forms
+Resources
+Student Involvement
+FAQ Library
+      MenuHome
+About
+PeopleAdministration
+CARE Coordinator
+HERO
+Nursing
+Providers
+Other StaffMarketing
+Physical Therapy
+Policy Compliance
+Forms
+Resources
+Student Involvement
+FAQ Library
+Search
+      Search form
+  Search 
+              Announcements
+        April 27, 2016
+                Summer Eligibility    	
+        February 9, 2016
+                How to Support Therapy Dog Programs	    	
+        January 21, 2016
+                New CARE Coordinator    	
+    Read more  
+    Next  
+    Next  
+    Next  
+    Next  
+    Next  
+    Next  
+a {color:#fff;} a:hover {text-decoration:none}
+a {color:#fff;} a:hover {text-decoration:none}
+Appointments
+Prescription Refills
+Nurse Helpline
+Meet Our Medical Staff
+Parents
+	Business &amp; Insurance Office
+	Faculty &amp; Staff Services
+	General Medicine Clinic
+	Health Education Resource Office
+	Pharmacy
+	&nbsp;
+	Travel Clinic
+	&nbsp;
+	Walk-in Clinic
+	&nbsp;
+	Gynecology
+	&nbsp;
+	Other Services
+	&nbsp;
+	OrthoKansas
+	&nbsp;
+	&nbsp;
+        Other Services:
+	Sexual Assault
+	Allergy Clinic
+	Immunizations
+	Lab
+	Massage Therapy
+	Physical Therapy
+	Radiology
+	Provide Care to Summer Campers
+	ADHD
+        Helpful Links
+	myWHS Login​
+	Pay My Bill
+	Charges and Insurance
+	Customer Feedback Survey
+	Forms
+	Policies
+	Tuberculosis FAQ
+	Donate to Watkins
+&nbsp;
+      Each KU student has a secure portal for communicating with us:
+ 
+Make Appointments
+	Request Rx Refills
+	View Balances
+	Check Messages
+	View Lab Results
+	and more!
+            Watkins Daily Hours
+        Mon - Fri: 8:00 am-6:00 pmSat: 12:00 pm-4:00 pm    
+            Walk-In Hours
+        Mon - Fri: 8:00 am-5:00 pmSat: 12:00 pm-3:00 pm    
+      Contact WHS
+ 
+1200 Schwegler Dr. Lawrence" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});}google.maps.event.addDomListener(window, 'load', init_map);
+//-->
+ 
+              Events
+      Your browser must support JavaScript to view this content. 
+Please enable JavaScript in your browser settings then try again.    
+      Tweets by @Beak_Healthy 
+              Student Health 101
+      Check out the latest issue
+            Why KU
+                                    Apply &raquo;
+                                            One of 34 U.S. public institutions in the prestigious Association of American Universities
+                                            26 prestigious Rhodes Scholars &mdash; more than all other Kansas colleges combined
+                                            Nearly $290 million in financial aid annually
+                                            44 nationally ranked graduate programs.
+&mdash;U.S. News &amp; World Report
+                                            Top 50 nationwide for size of library collection.
+&mdash;ALA
+                                            23rd nationwide for service to veterans
+&mdash;"Best for Vets," Military Times
+        Give to KU &raquo;
+    KU Today
+      Contact Watkins Health Services
+                    health@ku.edu
+                            785-864-9500
+                            Routes 27, 38, 42
+        1200 Schwegler Drive
+Lawrence, KS 66045    
+    Academics
+    Admissions
+    Alumni
+    Athletics
+    Campuses
+    Giving
+    Jobs
+      Contact KU
+Lawrence, KS | Maps    
+    The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university’s programs and activities. Retaliation is also prohibited by university policy. The following persons have been designated to handle inquiries regarding the nondiscrimination policies and are the Title IX coordinators for their respective campuses: Executive Director of the Office of Institutional Opportunity & Access, IOA@ku.edu, 1246 West Campus Road, Room 153A, Lawrence, KS 66045, 785-864-6414, 711 TTY (for the Lawrence, Edwards, Parsons, Yoder, and Topeka campuses); Director, Equal Opportunity Office, Mail Stop 7004, 4330 Shawnee Mission Parkway, Fairway, KS 66205, 913-588-8011, 711 TTY (for the Wichita, Salina, and Kansas City, Kansas, medical center campuses).
+

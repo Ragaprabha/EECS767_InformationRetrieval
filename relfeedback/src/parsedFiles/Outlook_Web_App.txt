@@ -1,0 +1,66 @@
+                To use Outlook Web App, browser settings must allow scripts to run. For information about how to allow scripts, consult the Help for your browser. If your browser doesn&#39;t support scripts, you can download Windows Internet Explorer for access to Outlook Web App.
+                User name:
+                Password:
+                    Show password
+                    Private computer
+                    &#x200E;(
+                    What is this?
+                        Hide explanation
+                    )&#x200E;
+                Select this option if you&#39;re the only person who uses this computer. Your server will allow a longer period of inactivity before signing you out.
+                Warning:  By selecting this option, you confirm that this computer complies with your organization&#39;s security policy.
+                    Use the light version of Outlook Web App
+                The light version of Outlook Web App includes fewer features. Use it if you&#39;re on a slow connection or using a computer with unusually strict browser security settings. We also support the full Outlook Web App experience on some browsers on Windows, Mac, and Linux computers. To check out all the supported browsers and operating systems, click here.
+                        sign in
+            Outlook Web App 
+            Please enable cookies for this Web site.Cookies are currently disabled by your browser. Outlook Web App requires that cookies be enabled. For information about how to enable cookies, see the Help for your Web browser.
+                    retry
+                Don't forget to Log Off
+                        When you're finished with your KU OWA session, be sure to click on
+                        "Log Off" to protect your email account privacy.
+                    To protect your account from unauthorized access, Outlook Web Access automatically closes
+                        its connection to your mailbox after a period of inactivity. If your session ends,
+                        refresh your browser, and then log on again.
+                            Assistance
+                            Email services and configuration instructions at KU
+                            OWA help
+                            Check the technology service updates and alerts
+                            IT Customer Service Center  864-8080, itcsc@ku.edu
+                            Useful Links
+                                Get your copy of Microsoft
+                                    Office (including Outlook) through the KU Microsoft Campus Agreement
+                                Setup email encryption
+                                    for your KU email account
+                                Manage your online services (including your email aliases)
+                                Change your password
+                            Contact The University of Kansas
+                            1450 Jayhawk Blvd.
+                            Lawrence, KS 66045
+                            785-864-2700
+                    Twitter Icon
+                    Google Plus Icon
+                    Facebook
+                        Icon
+                    Linked in
+                        Icon
+                    Instagram Icon
+                    YouTube Icon
+                    All social media at KU &raquo;
+                        Academics
+                        Admissions
+                        Alumni
+                        Athletics
+                        Campuses
+                        Contacts
+                        Giving
+                        Jobs
+                        Maps
+                        The University of Kansas prohibits
+                        discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age,
+                        ancestry, disability, status as a veteran, sexual orientation, marital status, parental status,
+                        retaliation, gender identity, gender expression and genetic information in the University&#8217;s
+                        programs and activities. The following person has been designated to handle inquiries regarding
+                        the non-discrimination policies and is the University&#8217;s Title IX Coordinator: the
+                        Executive Director of the Office of Institutional Opportunity and Access, IOA@ku.edu, 1246 W. Campus Road, Room 153A,
+                        Lawrence, KS, 66045, (785)864-6414, 711 TTY.
+
